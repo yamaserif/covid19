@@ -5,7 +5,7 @@
         {{ headerItem.title }}
       </page-header>
       <div class="UpdatedAt">
-        <span>{{ $t('最終更新') }} testtest</span>
+        <span>{{ $t('最終更新') }} testtest2</span>
         <time :datetime="updatedAt">{{ Data.lastUpdate }}</time>
       </div>
       <div
