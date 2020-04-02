@@ -41,8 +41,10 @@
 
 <script>
 import Data from '@/data/data.json'
+/*
 import MetroData from '@/data/metro.json'
 import agencyData from '@/data/agency.json'
+*/
 import ConfirmedCasesDetailsCard from '@/components/cards/ConfirmedCasesDetailsCard.vue'
 import TestedCasesDetailsCard from '@/components/cards/TestedCasesDetailsCard.vue'
 import ConfirmedCasesNumberCard from '@/components/cards/ConfirmedCasesNumberCard.vue'
@@ -86,6 +88,7 @@ export default {
         title = this.$t('陽性患者の属性')
         updatedAt = Data.patients.date
         break
+      /*
       case 'number-of-tested':
         title = this.$t('検査実施件数')
         updatedAt = Data.inspections_summary.date
@@ -110,6 +113,7 @@ export default {
         title = this.$t('都庁来庁者数の推移')
         updatedAt = agencyData.date
         break
+        */
     }
 
     const data = {

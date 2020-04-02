@@ -1,5 +1,6 @@
 <template>
-  <div v-if="isDevelopmentMode" class="DevelopmentModeMark">
+  <!-- 本番サーバを準備するまで一旦外す -->
+  <div v-if="isDevelopmentMode && false" class="DevelopmentModeMark">
     開発中（development mode）
     <a
       href="https://stopcovid19.metro.tokyo.lg.jp/"

@@ -2,7 +2,7 @@
 
 ![](https://github.com/yamaserif/covid19/workflows/production%20deploy/badge.svg)
 
-[![東京都 新型コロナウイルス感染症対策サイト](https://user-images.githubusercontent.com/1301149/75629392-1d19d900-5c25-11ea-843d-2d4376e3a560.png)](https://stopcovid19.metro.tokyo.lg.jp/)
+[![山形県 新型コロナウイルス感染症に関連するポータルサイト](https://user-images.githubusercontent.com/1301149/75629392-1d19d900-5c25-11ea-843d-2d4376e3a560.png)](https://www.pref.yamagata.jp/ou/bosai/020072/kochibou/coronavirus/coronavirus.html)
 
 ### 日本語 | [English](./docs/en/README.md) | [Español](./docs/es/README.md) | [한국어](./docs/ko/README.md) | [繁體中文](./docs/zh_TW/README.md) | [简体中文](./docs/zh_CN/README.md) | [Tiếng Việt](./docs/vi/README.md) | [ภาษาไทย](./docs/th/README.md) | [Français](./docs/fr/README.md)
 
@@ -18,9 +18,8 @@ Issues にあるいろいろな修正にご協力いただけると嬉しいで�
 ## ライセンス
 本ソフトウェアは、[MITライセンス](./LICENSE.txt)の元提供されています。
 
-## このサイトから派生したサイト
-
-[Link先](./FORKED_SITES.md)を御覧ください。
+## 派生元のサイト
+東京都 新型コロナウイルス感染症対策サイト（ tokyo-metropolitan-gov/covid19 ）
 
 ## 翻訳者向け情報
 

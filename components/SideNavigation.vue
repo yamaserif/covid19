@@ -51,7 +51,7 @@
       <footer class="SideNavigation-Footer">
         <div class="SideNavigation-Social">
           <a
-            href="https://line.me/R/ti/p/%40822sysfc"
+            href="https://line.me/R/ti/p/%40779defvt"
             target="_blank"
             rel="noopener noreferrer"
             class="SideNavigation-SocialLink"
@@ -62,7 +62,7 @@
             </picture>
           </a>
           <a
-            href="https://twitter.com/tokyo_bousai"
+            href="https://twitter.com/pref_yamagata"
             target="_blank"
             rel="noopener noreferrer"
             class="SideNavigation-SocialLink"
@@ -73,7 +73,7 @@
             </picture>
           </a>
           <a
-            href="https://www.facebook.com/tochokoho"
+            href="https://www.facebook.com/pref.yamagata.koho"
             target="_blank"
             rel="noopener noreferrer"
             class="SideNavigation-SocialLink"
@@ -84,7 +84,7 @@
             </picture>
           </a>
           <a
-            href="https://github.com/tokyo-metropolitan-gov/covid19"
+            href="https://github.com/yamaserif/covid19"
             target="_blank"
             rel="noopener noreferrer"
             class="SideNavigation-SocialLink"
@@ -143,9 +143,10 @@ export default Vue.extend({
       return [
         {
           icon: 'mdi-chart-timeline-variant',
-          title: this.$t('都内の最新感染動向'),
+          title: this.$t('県内の最新感染動向'),
           link: this.localePath('/')
         },
+        /* 一旦リンクを外して後で対応する
         {
           icon: 'CovidIcon',
           title: this.$t('新型コロナウイルス感染症が心配なときに'),
@@ -183,17 +184,20 @@ export default Vue.extend({
           link:
             'https://www.metro.tokyo.lg.jp/tosei/governor/governor/katsudo/2020/03/03_00.html'
         },
+        */
         {
           title: this.$t('当サイトについて'),
           link: this.localePath('/about')
         },
+        /*
         {
           title: this.$t('お問い合わせ先一覧'),
           link: this.localePath('/contacts')
         },
+        */
         {
-          title: this.$t('東京都公式ホームページ'),
-          link: 'https://www.metro.tokyo.lg.jp/'
+          title: this.$t('山形県公式ホームページ'),
+          link: 'https://www.pref.yamagata.jp/'
         }
       ]
     }

@@ -1,8 +1,8 @@
 {
   "name": "covid19",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "東京都 新型コロナウイルス感染症対策サイト",
-  "author": "東京都",
+  "author": "有志の方々",
   "private": true,
   "engines": {
     "node": ">=10.19.0"

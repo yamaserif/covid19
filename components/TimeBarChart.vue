@@ -42,7 +42,7 @@
       />
     </template>
     <template v-slot:footer>
-      <open-data-link v-show="url" :url="url" />
+      <!--<open-data-link v-show="url" :url="url" />-->
     </template>
   </data-view>
 </template>
