@@ -22,5 +22,5 @@ Issues にあるいろいろな修正にご協力いただけると嬉しいで�
 翻訳をお手伝いいただける方は、派生元のサイトの[こちらのドキュメント](https://github.com/tokyo-metropolitan-gov/covid19/blob/development/TRANSLATION.md)を御覧ください。
 
 ## 開発者向け情報
-developmentにマージを行うと[https://stopcovid19-yamagata.netlify.com]が更新されます。
+developmentにマージを行うと[https://stopcovid19-yamagata.netlify.com](https://stopcovid19-yamagata.netlify.com)が更新されます。
 その他詳しい情報は[派生元のサイト](https://github.com/tokyo-metropolitan-gov/covid19)を御覧ください。
