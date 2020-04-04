@@ -119,11 +119,11 @@ export default Vue.extend({
           hid: 'og:site_name',
           property: 'og:site_name',
           content:
-            this.$t('東京都') +
+            this.$t('山形県') +
             ' ' +
             this.$t('新型コロナウイルス感染症') +
             ' ' +
-            this.$t('対策サイト')
+            this.$t('対策サイト(非公式)')
         },
         {
           hid: 'og:url',
@@ -135,11 +135,11 @@ export default Vue.extend({
           hid: 'og:title',
           property: 'og:title',
           content:
-            this.$t('東京都') +
+            this.$t('山形県') +
             ' ' +
             this.$t('新型コロナウイルス感染症') +
             ' ' +
-            this.$t('対策サイト')
+            this.$t('対策サイト(非公式)')
         },
         {
           hid: 'og:description',
@@ -157,11 +157,11 @@ export default Vue.extend({
           hid: 'apple-mobile-web-app-title',
           name: 'apple-mobile-web-app-title',
           content:
-            this.$t('東京都') +
+            this.$t('山形県') +
             ' ' +
             this.$t('新型コロナウイルス感染症') +
             ' ' +
-            this.$t('対策サイト')
+            this.$t('対策サイト(非公式)')
         },
         {
           hid: 'twitter:image',
