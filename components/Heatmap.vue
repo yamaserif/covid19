@@ -47,7 +47,7 @@ export default {
         'rgba(0, 100, 0, 0.6)',
         'rgba(0, 68, 27, 0.7)'
       ],
-      borderColors: ['#505B00', '#1B75BC', '#008830', '#00441B'],
+      borderColors: ['#505B00', '#1B75BC', '#18428c', '#00441B'],
       dataDrivenLegend: null
     }
   },
