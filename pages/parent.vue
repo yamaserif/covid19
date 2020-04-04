@@ -43,12 +43,15 @@
             class="contact-table"
           >
             <tr>
-              <th v-for="(contactTitle, i) in contactTable.titles" :key="i">
+              <th
+                v-for="(contactTitle, index) in contactTable.titles"
+                :key="index"
+              >
                 <strong>{{ contactTitle }}</strong>
               </th>
             </tr>
-            <tr v-for="(contact, i) in contactTable.contacts" :key="i">
-              <td v-for="(contactData, i) in contact" :key="i">
+            <tr v-for="(contact, index) in contactTable.contacts" :key="index">
+              <td v-for="(contactData, index) in contact" :key="index">
                 {{ contactData }}
               </td>
             </tr>
