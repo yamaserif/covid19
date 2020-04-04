@@ -52,8 +52,8 @@ const config: Configuration = {
       }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
-      { rel: 'apple-touch-icon', href: '/apple-touch-icon-precomposed.png' },
+      { rel: 'icon', type: 'image/x-icon', href: '/yamagata.png' },
+      { rel: 'apple-touch-icon', href: '/yamagata.png' },
       {
         rel: 'stylesheet',
         href: 'https://use.fontawesome.com/releases/v5.6.1/css/all.css'
