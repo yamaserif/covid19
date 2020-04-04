@@ -37,14 +37,22 @@
       <ul>
         <li>{{ $t('各保健所にご相談ください') }}</li>
         <li>
-          {{ $t('各保健所の電話番号について') }}
-          <br />
-          <a
-            href="https://www.fukushihoken.metro.tokyo.lg.jp/iryo/kansen/coronasodan.html"
-            target="_blank"
-            rel="noopener noreferrer"
-            >{{ $t('「新型コロナウイルス感染症にかかる相談窓口について」') }}</a
+          {{ $t('「新型コロナウイルス感染症にかかる相談窓口について」') }}<br />
+          <table
+            summary="相談窓口（帰国者・接触者相談センター）連絡先一覧"
+            class="contact-table"
           >
+            <tr>
+              <th v-for="(contactTitle, i) in contactTable.titles" :key="i">
+                <strong>{{ contactTitle }}</strong>
+              </th>
+            </tr>
+            <tr v-for="(contact, i) in contactTable.contacts" :key="i">
+              <td v-for="(contactData, i) in contact" :key="i">
+                {{ contactData }}
+              </td>
+            </tr>
+          </table>
         </li>
       </ul>
     </StaticCard>
@@ -66,6 +74,35 @@ export default Vue.extend({
     PageHeader,
     StaticCard
   },
+  data() {
+    return {
+      contactTable: {
+        titles: [
+          '居住地',
+          '相談窓口',
+          '電話（平日の日中',
+          '電話（休日や時間外）'
+        ],
+        contacts: [
+          [
+            '村山地域（山形市除く）',
+            '村山保健所　保健企画課',
+            '023-627-1100',
+            '左に同じ'
+          ],
+          ['山形市', '山形市保健所　健康増進課', '023-616-7274', '左に同じ'],
+          [
+            '最上地域',
+            '最上保健所　地域保健福祉課',
+            '0233-29-1268',
+            '0233-29-1300'
+          ],
+          ['置賜地域', '置賜保健所　生活衛生課', '0238-22-3002', '左に同じ'],
+          ['庄内地域', '庄内保健所　保健企画課', '0235-66-4920', '左に同じ']
+        ]
+      }
+    }
+  },
   head(): MetaInfo {
     return {
       title: this.$t('お子様をお持ちの皆様へ') as string
@@ -73,3 +110,13 @@ export default Vue.extend({
   }
 })
 </script>
+
+<style>
+.contact-table {
+  margin: 5px;
+}
+.contact-table th,
+.contact-table td {
+  padding: 5px 10px;
+}
+</style>

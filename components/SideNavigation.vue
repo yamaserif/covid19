@@ -17,7 +17,7 @@
           />
           <div class="SideNavigation-HeaderText">
             {{ $t('menu/新型コロナウイルス感染症') }}<br />{{
-              $t('menu/対策サイト')
+              $t('menu/対策サイト(非公式)')
             }}
           </div>
         </nuxt-link>
@@ -153,6 +153,7 @@ export default Vue.extend({
           link: this.localePath('/flow'),
           divider: true
         },
+        */
         {
           icon: 'ParentIcon',
           title: this.$t('お子様をお持ちの皆様へ'),
@@ -160,8 +161,9 @@ export default Vue.extend({
         },
         {
           icon: 'mdi-account-multiple',
-          title: this.$t('都民の皆様へ'),
-          link: 'https://www.metro.tokyo.lg.jp/tosei/tosei/news/2019-ncov.html'
+          title: this.$t('県民の皆様へ'),
+          link:
+            'https://www.pref.yamagata.jp/ou/kenkofukushi/090001/20130425/shingata_corona.html'
         },
         {
           icon: 'mdi-domain',
@@ -169,6 +171,7 @@ export default Vue.extend({
           link: this.localePath('/worker'),
           divider: true
         },
+        /*
         {
           title: this.$t('東京都新型コロナウイルス感染症対策本部報'),
           link:
@@ -189,12 +192,10 @@ export default Vue.extend({
           title: this.$t('当サイトについて'),
           link: this.localePath('/about')
         },
-        /*
         {
           title: this.$t('お問い合わせ先一覧'),
           link: this.localePath('/contacts')
         },
-        */
         {
           title: this.$t('山形県公式ホームページ'),
           link: 'https://www.pref.yamagata.jp/'
