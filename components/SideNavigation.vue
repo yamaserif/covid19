@@ -199,6 +199,10 @@ export default Vue.extend({
         {
           title: this.$t('山形県公式ホームページ'),
           link: 'https://www.pref.yamagata.jp/'
+        },
+        {
+          title: this.$t('新型コロナウイルス感染症に関連するポータルサイト'),
+          link: 'https://www.pref.yamagata.jp/ou/bosai/020072/kochibou/coronavirus/coronavirus.html'
         }
       ]
     }
