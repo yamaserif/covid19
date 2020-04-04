@@ -44,15 +44,18 @@
           >
             <tr>
               <th
-                v-for="(contactTitle, index) in contactTable.titles"
-                :key="index"
+                v-for="(contactTitle, contactTitleIndex) in contactTable.titles"
+                :key="contactTitleIndex"
               >
                 <strong>{{ contactTitle }}</strong>
               </th>
             </tr>
-            <tr v-for="(contact, index) in contactTable.contacts" :key="index">
-              <td v-for="(contactData, index) in contact" :key="index">
-                {{ contactData }}
+            <tr
+              v-for="(contact, contactIndex) in contactTable.contacts"
+              :key="contactIndex"
+            >
+              <td v-for="(data, dataIndex) in contact" :key="dataIndex">
+                {{ data }}
               </td>
             </tr>
           </table>
@@ -83,7 +86,7 @@ export default Vue.extend({
         titles: [
           '居住地',
           '相談窓口',
-          '電話（平日の日中',
+          '電話（平日の日中）',
           '電話（休日や時間外）'
         ],
         contacts: [
