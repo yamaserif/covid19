@@ -53,7 +53,7 @@ const config: Configuration = {
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
-      { rel: 'apple-touch-icon', href: '/apple-touch-icon-precomposed.png' },
+      { rel: 'apple-touch-icon', href: '/apple-touch-icon.png' },
       {
         rel: 'stylesheet',
         href: 'https://use.fontawesome.com/releases/v5.6.1/css/all.css'
@@ -150,7 +150,7 @@ const config: Configuration = {
   },
   manifest: {
     name: '山形県 新型コロナウイルス感染症対策サイト',
-    theme_color: '#00a040',
+    theme_color: '#18428c',
     background_color: '#ffffff',
     display: 'standalone',
     Scope: '/',
