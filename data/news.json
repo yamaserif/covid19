@@ -1,24 +1,40 @@
 {
     "newsItems": [
+	
         {
-            "date": "2020\/03\/31",
-            "url": "https://www.pref.yamagata.jp/ou/bosai/020072/kochibou/coronavirus/pdf/1reime.pdf",
-            "text": "3月31日、本県1例目となる新型コロナウイルスの感染者が確認されました。"
-        },
-        {
-            "date": "2020\/04\/01",
-            "url": "https://www.pref.yamagata.jp/ou/bosai/020072/kochibou/coronavirus/pdf/2reimesahikae.pdf",
-            "text": "4月1日、本県2例目となる新型コロナウイルスの感染者が確認されました。"
-        },
-        {
-            "date": "2020\/04\/02",
-            "url": "https://www.pref.yamagata.jp/ou/bosai/020072/kochibou/coronavirus/pdf/3reime.pdf",
-            "text": "4月2日、本県3例目となる新型コロナウイルスの感染者が確認されました。"
+            "date": "2020\/04\/04",
+            "url": "https:\/\/www.pref.yamagata.jp\/ou\/bosai\/020072\/kochibou\/coronavirus\/pdf\/9-10reime.pdf",
+            "text": "本県9～10例目となる新型コロナウイルスの感染者が確認されました"
         },
         {
             "date": "2020\/04\/03",
-            "url": "https://www.pref.yamagata.jp/ou/bosai/020072/kochibou/coronavirus/pdf/R020403_comment.pdf",
-            "text": "4月3日、新型コロナウイルスの感染拡大を防止するため、吉村知事から県民の皆様へメッセージを送りました。"
+            "url": "https:\/\/www.pref.yamagata.jp\/ou\/bosai\/020072\/kochibou\/coronavirus\/pdf\/4-8reime.pdf",
+            "text": "本県4～8例目となる新型コロナウイルスの感染者が確認されました"
+        },
+        {
+            "date": "2020\/04\/02",
+            "url": "https:\/\/www.pref.yamagata.jp\/ou\/bosai\/020072\/kochibou\/coronavirus\/pdf\/3reime.pdf",
+            "text": "本県3例目となる新型コロナウイルスの感染者が確認されました"
+        },
+        {
+            "date": "2020\/04\/01",
+            "url": "https:\/\/www.pref.yamagata.jp\/ou\/kyoiku\/700001\/somuka-top-kikakuyosan\/kyuukoutaiou\/yamagata202002.html",
+            "text": "学校臨時休業等に係る本県の対応について"
+        },
+        {
+            "date": "2020\/04\/01",
+            "url": "https:\/\/www.pref.yamagata.jp\/ou\/bosai\/020072\/kochibou\/coronavirus\/pdf\/2reimesahikae.pdf",
+            "text": "本県2例目となる新型コロナウイルスの感染者が確認されました"
+        },
+        {
+            "date": "2020\/03\/31",
+            "url": "https:\/\/www.pref.yamagata.jp\/ou\/bosai\/020072\/kochibou\/shingatacoronakikitaisakuhonbu5.html",
+            "text": "山形県新型コロナウイルス感染症に係る危機対策本部　第5回本部員会議を開催しました"
+        },
+        {
+            "date": "2020\/03\/31",
+            "url": "https:\/\/www.pref.yamagata.jp\/ou\/bosai\/020072\/kochibou\/coronavirus\/pdf\/1reime.pdf",
+            "text": "本県1例目となる新型コロナウイルスの感染者が確認されました"
         }
     ]
 }
