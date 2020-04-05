@@ -1,4 +1,7 @@
 # 山形県 新型コロナウイルス感染症対策サイト(非公式)
+![](https://github.com/yamaserif/covid19/workflows/production%20deploy/badge.svg)
+
+[![東京都 新型コロナウイルス感染症対策サイト](./static/ogp.png)](https://stopcovid19-yamagata.netlify.com/)
 
 ### 日本語 | [English](./docs/en/README.md) | [Español](./docs/es/README.md) | [한국어](./docs/ko/README.md) | [繁體中文](./docs/zh_TW/README.md) | [简体中文](./docs/zh_CN/README.md) | [Tiếng Việt](./docs/vi/README.md) | [ภาษาไทย](./docs/th/README.md) | [Français](./docs/fr/README.md)
 (誰か翻訳お願いします！)
