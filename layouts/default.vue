@@ -2,7 +2,7 @@
   <v-app class="app">
     <v-overlay v-if="loading" color="#F8F9FA" opacity="1" z-index="9999">
       <div class="loader">
-        <img src="/logo.svg" alt="東京都" />
+        <img src="/logo.svg" alt="山形県" />
         <scale-loader color="#18428c" />
       </div>
     </v-overlay>
@@ -95,7 +95,7 @@ export default Vue.extend({
       link: [
         {
           rel: 'canonical',
-          href: `https://stopcovid19.metro.tokyo.lg.jp${this.$route.path}`
+          href: `https://stopcovid19-yamagata.netlify.com${this.$route.path}`
         },
         {
           rel: 'stylesheet',
@@ -106,13 +106,13 @@ export default Vue.extend({
         {
           hid: 'author',
           name: 'author',
-          content: this.$tc('東京都')
+          content: this.$tc('山形県')
         },
         {
           hid: 'description',
           name: 'description',
           content: this.$tc(
-            '当サイトは新型コロナウイルス感染症 (COVID-19) に関する最新情報を提供するために、東京都が開設したものです。'
+            '当サイトは山形県内における新型コロナウイルス感染症 (COVID-19) の最新情報を提供することを目的として、開設したものです。'
           )
         },
         {
@@ -128,7 +128,7 @@ export default Vue.extend({
         {
           hid: 'og:url',
           property: 'og:url',
-          content: `https://stopcovid19.metro.tokyo.lg.jp${this.$route.path}`
+          content: `https://stopcovid19-yamagata.netlify.com${this.$route.path}`
         },
         ogLocale,
         {
@@ -145,7 +145,7 @@ export default Vue.extend({
           hid: 'og:description',
           property: 'og:description',
           content: this.$tc(
-            '当サイトは新型コロナウイルス感染症 (COVID-19) に関する最新情報を提供するために、東京都が開設したものです。'
+            '当サイトは山形県内における新型コロナウイルス感染症 (COVID-19) の最新情報を提供することを目的として、開設したものです。'
           )
         },
         {
