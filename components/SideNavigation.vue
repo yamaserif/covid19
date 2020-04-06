@@ -107,7 +107,7 @@
           </a>
           {{ $t('の下に提供されています。') }}
           <br />
-          2020 Tokyo Metropolitan Government
+          本サイトは、山形県内外の有志の手により運用されています
         </small>
       </footer>
     </div>

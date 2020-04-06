@@ -11,10 +11,29 @@
               {{ $t('お問い合わせ内容') }}
             </th>
             <th class="text-center" scope="col">{{ $t('局名') }}</th>
-            <th class="text-center" scope="col">{{ $t('電話番号') }}</th>
+            <th class="text-center" scope="col">{{ $t('電話番号・FAX') }}</th>
           </tr>
         </thead>
         <tbody>
+          <tr>
+            <td class="content" v-bind="headingAttrs">
+              {{ $t('毎日24時間対応・土日祝含む受診相談') }}
+            </td>
+            <td class="bureau">
+              {{ $t('新型コロナ受診相談センター') }}
+            </td>
+            <td class="tel">TEL:<a href="tel:0120880006">0120-88-0006</a></td>
+          </tr>
+          <tr>
+            <td class="content" v-bind="headingAttrs">
+              {{ $t('聴覚や言語に障がいのある方向けの受診相談') }}<br />
+              {{ $t('(平日午前8時30分から午後5時15分まで)') }}
+            </td>
+            <td class="bureau">
+              {{ $t('新型コロナ受診相談センター') }}
+            </td>
+            <td class="tel">FAX:023-625-4294</td>
+          </tr>
           <tr>
             <td class="content" v-bind="headingAttrs">
               {{ $t('総合的な新型コロナ対策に関するご相談') }}
@@ -22,7 +41,7 @@
             <td class="bureau">
               {{ $t('健康福祉企画課 薬務・感染症対策室') }}
             </td>
-            <td class="tel"><a href="tel:023-630-2315">023-630-2315</a></td>
+            <td class="tel">TEL:<a href="tel:023-630-2315">023-630-2315</a></td>
           </tr>
         </tbody>
       </table>
