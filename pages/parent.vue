@@ -121,10 +121,7 @@
         </p>
       </ul>
     </StaticCard>
-    <StaticCard>
-      <h3>4. その他</h3>
-      <p>{{ $t('詳細は、各学校からのお知らせ等をご確認ください。') }}</p>
-    </StaticCard>
+
   </div>
 </template>
 
