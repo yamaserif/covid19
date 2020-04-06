@@ -17,10 +17,10 @@
         <tbody>
           <tr>
             <td class="content" v-bind="headingAttrs">
-              {{ $t('新型コロナ受診相談センター') }}
+              {{ $t('毎日24時間対応・土日祝含む受診相談') }}
             </td>
             <td class="bureau">
-              {{ $t('毎日24時間対応・土日祝含む') }}
+              {{ $t('新型コロナ受診相談センター') }}
             </td>
             <td class="tel"><a href="tel:0120880006">0120-88-0006</a></td>
           </tr>
