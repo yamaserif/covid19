@@ -11,7 +11,7 @@
               {{ $t('お問い合わせ内容') }}
             </th>
             <th class="text-center" scope="col">{{ $t('局名') }}</th>
-            <th class="text-center" scope="col">{{ $t('電話番号') }}</th>
+            <th class="text-center" scope="col">{{ $t('電話番号・FAX') }}</th>
           </tr>
         </thead>
         <tbody>
@@ -22,7 +22,7 @@
             <td class="bureau">
               {{ $t('新型コロナ受診相談センター') }}
             </td>
-            <td class="tel"><a href="tel:0120880006">0120-88-0006</a></td>
+            <td class="tel"><a href="tel:0120880006">TEL:0120-88-0006</a></td>
           </tr>
           <tr>
             <td class="content" v-bind="headingAttrs">
@@ -32,7 +32,7 @@
             <td class="bureau">
               {{ $t('新型コロナ受診相談センター') }}
             </td>
-            <td class="tel"><a href="tel:023-625-4294">023-625-4294</a></td>
+            <td class="tel"><a href="tel:023-625-4294">FAX:023-625-4294</a></td>
           </tr>
           <tr>
             <td class="content" v-bind="headingAttrs">
@@ -41,7 +41,7 @@
             <td class="bureau">
               {{ $t('健康福祉企画課 薬務・感染症対策室') }}
             </td>
-            <td class="tel"><a href="tel:023-630-2315">023-630-2315</a></td>
+            <td class="tel"><a href="tel:023-630-2315">TEL:023-630-2315</a></td>
           </tr>
         </tbody>
       </table>
