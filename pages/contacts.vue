@@ -26,6 +26,16 @@
           </tr>
           <tr>
             <td class="content" v-bind="headingAttrs">
+              {{ $t('聴覚や言語に障がいのある方向けの受診相談') }}<br />
+              {{ $t('(平日午前8時30分から午後5時15分まで)') }}
+            </td>
+            <td class="bureau">
+              {{ $t('新型コロナ受診相談センター') }}
+            </td>
+            <td class="tel"><a href="tel:023-625-4294">023-625-4294</a></td>
+          </tr>
+          <tr>
+            <td class="content" v-bind="headingAttrs">
               {{ $t('総合的な新型コロナ対策に関するご相談') }}
             </td>
             <td class="bureau">
