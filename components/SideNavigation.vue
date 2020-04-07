@@ -49,6 +49,7 @@
       </nav>
 
       <footer class="SideNavigation-Footer">
+        <small>・山形県公式</small>
         <div class="SideNavigation-Social">
           <a
             href="https://line.me/R/ti/p/%40779defvt"
@@ -81,6 +82,20 @@
             <picture>
               <source srcset="/facebook.webp" type="image/webp" />
               <img src="/facebook.png" alt="Facebook" />
+            </picture>
+          </a>
+        </div>
+        <small>・本サイト関連</small>
+        <div class="SideNavigation-Social">
+          <a
+            href="https://twitter.com/Covid19Yamagata"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="SideNavigation-SocialLink"
+          >
+            <picture>
+              <source srcset="/twitter.webp" type="image/webp" />
+              <img src="/twitter.png" alt="Twitter" />
             </picture>
           </a>
           <a
@@ -375,7 +390,7 @@ export default Vue.extend({
 }
 
 .SideNavigation-Footer {
-  padding-top: 20px;
+  padding-top: 0px;
 }
 
 .SideNavigation-Social {
