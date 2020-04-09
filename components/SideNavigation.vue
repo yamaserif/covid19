@@ -217,7 +217,8 @@ export default Vue.extend({
         },
         {
           title: this.$t('新型コロナウイルス感染症に関連するポータルサイト'),
-          link: 'https://www.pref.yamagata.jp/ou/bosai/020072/kochibou/coronavirus/coronavirus.html'
+          link:
+            'https://www.pref.yamagata.jp/ou/bosai/020072/kochibou/coronavirus/coronavirus.html'
         }
       ]
     }
@@ -390,7 +391,7 @@ export default Vue.extend({
 }
 
 .SideNavigation-Footer {
-  padding-top: 0px;
+  padding-top: 0;
 }
 
 .SideNavigation-Social {
