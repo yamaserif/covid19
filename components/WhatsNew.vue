@@ -4,47 +4,70 @@
       <v-icon size="24" class="WhatsNew-heading-icon">
         mdi-information
       </v-icon>
-      {{ $t('最新のお知らせ') }}
+      {{ $t('お知らせ') }}
     </h3>
     <ul class="WhatsNew-list">
-      <li v-for="(item, i) in items" :key="i" class="WhatsNew-list-item">
-        <a
-          class="WhatsNew-list-item-anchor"
-          :href="item.url"
-          target="_blank"
-          rel="noopener noreferrer"
+      <paginate
+        class="WhatsNew-list"
+        name="paginate-items"
+        :list="items"
+        :per="4"
+      >
+        <li
+          v-for="(item, i) in paginated('paginate-items')"
+          :key="i"
+          class="WhatsNew-list-item"
         >
-          <time
-            class="WhatsNew-list-item-anchor-time px-2"
-            :datetime="formattedDate(item.date)"
+          <a
+            class="WhatsNew-list-item-anchor"
+            :href="item.url"
+            target="_blank"
+            rel="noopener noreferrer"
           >
-            {{ item.date }}
-          </time>
-          <span class="WhatsNew-list-item-anchor-link">
-            {{ item.text }}
-            <v-icon
-              v-if="!isInternalLink(item.url)"
-              class="WhatsNew-item-ExternalLinkIcon"
-              size="12"
+            <time
+              class="WhatsNew-list-item-anchor-time px-2"
+              :datetime="formattedDate(item.date)"
             >
-              mdi-open-in-new
-            </v-icon>
-          </span>
-        </a>
-      </li>
+              {{ item.date }}
+            </time>
+            <span class="WhatsNew-list-item-anchor-link">
+              {{ item.text }}
+              <v-icon
+                v-if="!isInternalLink(item.url)"
+                class="WhatsNew-item-ExternalLinkIcon"
+                size="12"
+              >
+                mdi-open-in-new
+              </v-icon>
+            </span>
+          </a>
+        </li>
+      </paginate>
     </ul>
+    <paginate-links
+      for="paginate-items"
+      class="pagination"
+      :show-step-links="true"
+    />
   </div>
 </template>
 
 <script lang="ts">
 import Vue from 'vue'
 import { convertDateToISO8601Format } from '@/utils/formatDate'
+const VuePaginate = require('vue-paginate')
 
+Vue.use(VuePaginate)
 export default Vue.extend({
   props: {
     items: {
       type: Array,
       required: true
+    }
+  },
+  data() {
+    return {
+      paginate: ['paginate-items']
     }
   },
   methods: {
@@ -123,5 +146,17 @@ export default Vue.extend({
       }
     }
   }
+}
+
+.pagination {
+  padding-right: 24px;
+  margin-right: 10px;
+  display: flex;
+  list-style-type: none;
+  justify-content: center;
+}
+.pagination li {
+  margin-left: 10px;
+  font-size: 1.2em;
 }
 </style>
