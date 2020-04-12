@@ -42,6 +42,7 @@
     "@types/mapbox-gl": "^1.8.0",
     "chart.js": "^2.9.3",
     "cross-env": "^5.2.0",
+    "cytoscape-cose-bilkent": "^4.1.0",
     "dayjs": "^1.8.21",
     "express": "^4.16.4",
     "mapbox-gl": "^1.8.1",
@@ -49,6 +50,7 @@
     "nuxt": "^2.11.0",
     "nuxt-i18n": "^6.6.0",
     "vue-chartjs": "^3.5.0",
+    "vue-cytoscape": "^1.0.8",
     "vue-paginate": "^3.6.0",
     "vue-scrollto": "^2.17.1",
     "vue-spinner": "^1.0.3"

@@ -1,0 +1,201 @@
+{
+  "data": [
+    {
+      "data": {
+        "source": "4",
+        "target": "3",
+        "label": "同居家族"
+      }
+    },
+    {
+      "data": {
+        "source": "5",
+        "target": "3",
+        "label": "同居家族"
+      }
+    },
+    {
+      "data": {
+        "source": "5",
+        "target": "4",
+        "label": "同居家族"
+      }
+    },
+    {
+      "data": {
+        "source": "6",
+        "target": "3",
+        "label": "親戚"
+      }
+    },
+    {
+      "data": {
+        "source": "7",
+        "target": "3",
+        "label": "親戚"
+      }
+    },
+    {
+      "data": {
+        "source": "7",
+        "target": "6",
+        "label": "家族"
+      }
+    },
+    {
+      "data": {
+        "source": "8",
+        "target": "3",
+        "label": "親戚"
+      }
+    },
+    {
+      "data": {
+        "source": "8",
+        "target": "6",
+        "label": "家族"
+      }
+    },
+    {
+      "data": {
+        "source": "9",
+        "target": "5",
+        "label": "同僚"
+      }
+    },
+    {
+      "data": {
+        "source": "11",
+        "target": "10",
+        "label": "家族"
+      }
+    },
+    {
+      "data": {
+        "source": "12",
+        "target": "10",
+        "label": "友人"
+      }
+    },
+    {
+      "data": {
+        "source": "14",
+        "target": "12",
+        "label": "友人"
+      }
+    },
+    {
+      "data": {
+        "source": "15",
+        "target": "12",
+        "label": "友人"
+      }
+    },
+    {
+      "data": {
+        "source": "16",
+        "target": "10",
+        "label": "友人の家族"
+      }
+    },
+    {
+      "data": {
+        "source": "16",
+        "target": "12",
+        "label": "友人の家族"
+      }
+    },
+    {
+      "data": {
+        "source": "17",
+        "target": "10",
+        "label": "同僚"
+      }
+    },
+    {
+      "data": {
+        "source": "18",
+        "target": "13",
+        "label": "同施設利用"
+      }
+    },
+    {
+      "data": {
+        "source": "20",
+        "target": "18",
+        "label": "家族"
+      }
+    },
+    {
+      "data": {
+        "source": "21",
+        "target": "18",
+        "label": "家族"
+      }
+    },
+    {
+      "data": {
+        "source": "23",
+        "target": "13",
+        "label": "友人"
+      }
+    },
+    {
+      "data": {
+        "source": "24",
+        "target": "15",
+        "label": "家族"
+      }
+    },
+    {
+      "data": {
+        "source": "25",
+        "target": "15",
+        "label": "家族"
+      }
+    },
+    {
+      "data": {
+        "source": "26",
+        "target": "15",
+        "label": "家族"
+      }
+    },
+    {
+      "data": {
+        "source": "28",
+        "target": "16",
+        "label": "同僚"
+      }
+    },
+    {
+      "data": {
+        "source": "29",
+        "target": "16",
+        "label": "同僚"
+      }
+    },
+    {
+      "data": {
+        "source": "30",
+        "target": "16",
+        "label": "同僚"
+      }
+    },
+    {
+      "data": {
+        "source": "31",
+        "target": "22",
+        "label": "家族"
+      }
+    },
+    {
+      "data": {
+        "source": "33",
+        "target": "24",
+        "label": "同僚"
+      }
+    }
+  ],
+  "lastUpdate": "2020\/04\/12 19:00"
+}
