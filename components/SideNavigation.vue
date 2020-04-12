@@ -186,6 +186,12 @@ export default Vue.extend({
           link: this.localePath('/worker'),
           divider: true
         },
+        {
+          icon: 'CovidIcon',
+          title: this.$t('感染ネットワーク'),
+          link: this.localePath('/network'),
+          divider: true
+        },
         /*
         {
           title: this.$t('東京都新型コロナウイルス感染症対策本部報'),
