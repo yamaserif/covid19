@@ -2,6 +2,9 @@
   <div class="Network">
     <h2 class="Network-Heading">
       {{ $t('感染ネットワーク') }}
+      <span class="UpdatedAt">
+        <span>{{ $t('最終更新') }} {{ lastUpdate }}</span>
+      </span>
     </h2>
     <StaticCard>
       <cytoscape ref="cy" :config="config" :pre-config="preConfig">
@@ -31,7 +34,7 @@ export default Vue.extend({
     StaticCard
   },
   data() {
-    const dateObject: any = {
+    const dataObject: any = {
       config: {
         style: [
           {
@@ -49,7 +52,7 @@ export default Vue.extend({
             style: {
               label: 'data(label)',
               'text-outline-width': 2,
-              'text-outline-color': 'white'
+              'text-outline-color': 'yellow'
             }
           },
           {
@@ -76,14 +79,12 @@ export default Vue.extend({
         name: 'cose-bilkent',
         padding: 30,
         idealEdgeLength: 100,
-        nodeRepulsion: 500,
-        nodeDimensionsIncludeLabels: true,
-        fit: true,
-        animate: true
+        nodeDimensionsIncludeLabels: true
       },
-      elements: []
+      elements: [],
+      lastUpdate: VirusNetwork.lastUpdate
     }
-    return dateObject
+    return dataObject
   },
   mounted() {
     this.elements = this.getElementsData()
@@ -162,5 +163,12 @@ th {
 
 td {
   padding: 5px 15px;
+}
+
+.UpdatedAt {
+  @include font-size(14);
+
+  color: $gray-3;
+  margin-bottom: 0.2rem;
 }
 </style>
