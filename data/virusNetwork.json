@@ -195,7 +195,70 @@
         "target": "24",
         "label": "同僚"
       }
+    },
+    {
+      "data": {
+        "source": "35",
+        "target": "10",
+        "label": "家族"
+      }
+    },
+    {
+      "data": {
+        "source": "35",
+        "target": "11",
+        "label": "家族"
+      }
+    },
+    {
+      "data": {
+        "source": "36",
+        "target": "16",
+        "label": "同僚"
+      }
+    },
+    {
+      "data": {
+        "source": "37",
+        "target": "5",
+        "label": "職場の関連事業所職員"
+      }
+    },
+    {
+      "data": {
+        "source": "37",
+        "target": "9",
+        "label": "職場の関連事業所職員"
+      }
+    },
+    {
+      "data": {
+        "source": "38",
+        "target": "27",
+        "label": "職場関係者"
+      }
+    },
+    {
+      "data": {
+        "source": "39",
+        "target": "5",
+        "label": "職場の関連事業所職員"
+      }
+    },
+    {
+      "data": {
+        "source": "39",
+        "target": "9",
+        "label": "職場の関連事業所職員"
+      }
+    },
+    {
+      "data": {
+        "source": "39",
+        "target": "37",
+        "label": "同僚"
+      }
     }
   ],
-  "lastUpdate": "2020\/04\/12 19:00"
+  "lastUpdate": "2020\/04\/13 20:00"
 }
