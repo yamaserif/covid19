@@ -258,7 +258,56 @@
         "target": "37",
         "label": "同僚"
       }
+    },
+    {
+      "data": {
+        "source": "40",
+        "target": "9",
+        "label": "家族"
+      }
+    },
+    {
+      "data": {
+        "source": "41",
+        "target": "37",
+        "label": "家族"
+      }
+    },
+    {
+      "data": {
+        "source": "42",
+        "target": "5",
+        "label": "職場の関連事業所職員"
+      }
+    },
+    {
+      "data": {
+        "source": "42",
+        "target": "9",
+        "label": "職場の関連事業所職員"
+      }
+    },
+    {
+      "data": {
+        "source": "42",
+        "target": "37",
+        "label": "同僚"
+      }
+    },
+    {
+      "data": {
+        "source": "43",
+        "target": "27",
+        "label": "職場関係者"
+      }
+    },
+    {
+      "data": {
+        "source": "43",
+        "target": "38",
+        "label": "職場関係者"
+      }
     }
   ],
-  "lastUpdate": "2020\/04\/13 20:00"
+  "lastUpdate": "2020\/04\/14 21:00"
 }
