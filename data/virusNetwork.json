@@ -482,6 +482,69 @@
         "target": "36",
         "label": "同僚"
       }
+    },
+    {
+      "data": {
+        "source": "50",
+        "target": "5",
+        "label": "職場入居者"
+      }
+    },
+    {
+      "data": {
+        "source": "50",
+        "target": "9",
+        "label": "職場入居者"
+      }
+    },
+    {
+      "data": {
+        "source": "51",
+        "target": "5",
+        "label": "職場入居者"
+      }
+    },
+    {
+      "data": {
+        "source": "51",
+        "target": "9",
+        "label": "職場入居者"
+      }
+    },
+    {
+      "data": {
+        "source": "52",
+        "target": "3",
+        "label": "同居家族"
+      }
+    },
+    {
+      "data": {
+        "source": "52",
+        "target": "4",
+        "label": "同居家族"
+      }
+    },
+    {
+      "data": {
+        "source": "52",
+        "target": "5",
+        "label": "同居家族"
+      }
+    },
+    {
+      "data": {
+        "source": "53",
+        "target": "44",
+        "label": "同居家族"
+      }
+    },
+    {
+      "data": {
+        "source": "54",
+        "target": "44",
+        "label": "同居家族"
+      }
     }
   ],
   "lastUpdate": "2020\/04\/15 19:00"
