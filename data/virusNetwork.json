@@ -545,7 +545,63 @@
         "target": "44",
         "label": "同居家族"
       }
+    },
+    {
+      "data": {
+        "source": "55",
+        "target": "5",
+        "label": "同一の職場"
+      }
+    },
+    {
+      "data": {
+        "source": "55",
+        "target": "9",
+        "label": "同一の職場"
+      }
+    },
+    {
+      "data": {
+        "source": "56",
+        "target": "39",
+        "label": "同居家族"
+      }
+    },
+    {
+      "data": {
+        "source": "57",
+        "target": "39",
+        "label": "親族"
+      }
+    },
+    {
+      "data": {
+        "source": "57",
+        "target": "56",
+        "label": "親族"
+      }
+    },
+    {
+      "data": {
+        "source": "58",
+        "target": "39",
+        "label": "親族"
+      }
+    },
+    {
+      "data": {
+        "source": "58",
+        "target": "56",
+        "label": "親族"
+      }
+    },
+    {
+      "data": {
+        "source": "58",
+        "target": "57",
+        "label": "同居家族"
+      }
     }
   ],
-  "lastUpdate": "2020\/04\/16 23:00"
+  "lastUpdate": "2020\/04\/17 20:00"
 }
