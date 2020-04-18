@@ -936,11 +936,11 @@
                 "children": [
                     {
                         "attr": "入院中",
-                        "value": 52
+                        "value": 50
                     },
                     {
                         "attr": "退院",
-                        "value": 8
+                        "value": 10
                     },
                     {
                         "attr": "死亡",
