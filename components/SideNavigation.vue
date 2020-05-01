@@ -188,6 +188,11 @@ export default Vue.extend({
         },
         {
           icon: 'CovidIcon',
+          title: this.$t('感染マップ'),
+          link: this.localePath('/map')
+        },
+        {
+          icon: 'CovidIcon',
           title: this.$t('感染ネットワーク'),
           link: this.localePath('/network'),
           divider: true
