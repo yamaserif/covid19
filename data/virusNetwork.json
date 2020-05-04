@@ -664,7 +664,35 @@
         "target": "54",
         "label": "勤務する医療機関の医師"
       }
+    },
+    {
+      "data": {
+        "source": "69",
+        "target": "9",
+        "label": "同居家族"
+      }
+    },
+    {
+      "data": {
+        "source": "69",
+        "target": "40",
+        "label": "同居家族"
+      }
+    },
+    {
+      "data": {
+        "source": "69",
+        "target": "59",
+        "label": "同居家族"
+      }
+    },
+    {
+      "data": {
+        "source": "69",
+        "target": "62",
+        "label": "同居家族"
+      }
     }
   ],
-  "lastUpdate": "2020\/05\/03 13:30"
+  "lastUpdate": "2020\/05\/04 19:30"
 }
