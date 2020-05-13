@@ -23,6 +23,7 @@
 import Vue from 'vue'
 import { MetaInfo } from 'vue-meta'
 import VueCytoscape from 'vue-cytoscape'
+import dayjs from 'dayjs'
 import StaticCard from '@/components/StaticCard.vue'
 import VirusNetwork from '@/data/virusNetwork.json'
 import Data from '@/data/data.json'
@@ -82,11 +83,12 @@ export default Vue.extend({
         nodeDimensionsIncludeLabels: true
       },
       elements: [],
-      lastUpdate: VirusNetwork.lastUpdate
+      lastUpdate: ''
     }
     return dataObject
   },
   mounted() {
+    this.lastUpdate = this.getLastUpdate()
     this.elements = this.getElementsData()
     this.$nextTick(() => {
       const vueCy: any = this.$refs.cy
@@ -99,6 +101,13 @@ export default Vue.extend({
   methods: {
     preConfig(cytoscape: any) {
       cytoscape.use(coseBilkent)
+    },
+    getLastUpdate() {
+      const dataDate = Data.patients.date
+      const virusNetworkDate = VirusNetwork.lastUpdate
+      return dayjs(dataDate).isAfter(dayjs(virusNetworkDate))
+        ? dataDate
+        : virusNetworkDate
     },
     getElementsData() {
       const virusNetwork: any = VirusNetwork
