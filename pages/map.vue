@@ -43,6 +43,7 @@
 <script lang="ts">
 import Vue from 'vue'
 import { MetaInfo } from 'vue-meta'
+import dayjs from 'dayjs'
 import StaticCard from '@/components/StaticCard.vue'
 import MapGeojson from '@/static/yamagata_map.geojson.json'
 import Data from '@/data/data.json'
@@ -66,15 +67,23 @@ export default Vue.extend({
       },
       geojson: MapGeojson,
       geojsonOptions: {},
-      lastUpdate: MapCityName.lastUpdate,
+      lastUpdate: '',
       remainderData: []
     }
     return dataObject
   },
   mounted() {
+    this.lastUpdate = this.getLastUpdate()
     this.setInfectionPersonCountData()
   },
   methods: {
+    getLastUpdate() {
+      const dataDate = Data.patients.date
+      const mapCityNameDate = MapCityName.lastUpdate
+      return dayjs(dataDate).isAfter(dayjs(mapCityNameDate))
+        ? dataDate
+        : mapCityNameDate
+    },
     getInfectionPersonCount() {
       const infectionPersonCount: any = {}
       Data.patients.data.forEach((infectionPerson: any) => {
