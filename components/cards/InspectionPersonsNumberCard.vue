@@ -10,12 +10,14 @@
     >
       <template v-slot:description>
         <ul>
+        　<!--
           <li>
             {{ $t('（注）山形県Twitterアカウント公表値より集計') }}
           </li>
           <li>
             {{ $t('（注）3/31迄の累計人数を3/31に表示') }}
           </li>
+          -->
           <li>
             {{
               $t(
