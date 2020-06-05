@@ -20,6 +20,7 @@
       :chart-data="displayData"
       :options="displayOption"
       :height="240"
+      :width="0"
     />
     <v-data-table
       :style="{ top: '-9999px', position: canvas ? 'fixed' : 'static' }"
@@ -253,7 +254,7 @@ const options: ThisTypedComponentOptionsWithRecordProps<
         },
       
         // #88 responsiveをfalseに設定してみる
-        responsive: false,
+        responsive: true,
         
         maintainAspectRatio: false,
         legend: {
@@ -376,8 +377,10 @@ const options: ThisTypedComponentOptionsWithRecordProps<
       canvas.setAttribute('aria-labelledby', labelledbyId)
       
       // #88 style初期設定追加してみる
+      /*
       const width = this.$el!.clientWidth - 22 * 2
       canvas.setAttribute('style', 'display: block; height: 240px; width: '+ width +'px;')
+      */
     }
   }
 }
