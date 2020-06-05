@@ -251,7 +251,10 @@ const options: ThisTypedComponentOptionsWithRecordProps<
             }
           }
         },
-        responsive: true,
+      
+        // #88 responsiveをfalseに設定してみる
+        responsive: false,
+        
         maintainAspectRatio: false,
         legend: {
           display: false
