@@ -371,6 +371,10 @@ const options: ThisTypedComponentOptionsWithRecordProps<
     if (canvas) {
       canvas.setAttribute('role', 'img')
       canvas.setAttribute('aria-labelledby', labelledbyId)
+      
+      // #88 style初期設定追加してみる
+      const width = this.$el!.clientWidth - 22 * 2
+      canvas.setAttribute('style', 'display: block; height: 240px; width: '+ width +'px;')
     }
   }
 }
