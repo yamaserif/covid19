@@ -20,7 +20,6 @@
       :chart-data="displayData"
       :options="displayOption"
       :height="240"
-      :width="0"
     />
     <v-data-table
       :style="{ top: '-9999px', position: canvas ? 'fixed' : 'static' }"
@@ -42,9 +41,10 @@
         :unit="displayInfo.unit"
       />
     </template>
-    <template v-slot:footer>
-      <!--<open-data-link v-show="url" :url="url" />-->
-    </template>
+    <!--#88 余計なtemplateを削除してみる-->
+    <!--<template v-slot:footer>
+      <open-data-link v-show="url" :url="url" />
+    </template>-->
   </data-view>
 </template>
 
