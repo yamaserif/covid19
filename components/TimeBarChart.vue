@@ -14,7 +14,7 @@
       {{ $t(`{title}のグラフ`, { title }) }}
     </h4>
     <!-- #88 divで囲んで見る -->
-    <div>
+    <div class="LegendStickyChart">
       <bar
         :ref="'barChart'"
         :style="{ display: canvas ? 'block' : 'none' }"
