@@ -13,6 +13,8 @@
     <h4 :id="`${titleId}-graph`" class="visually-hidden">
       {{ $t(`{title}のグラフ`, { title }) }}
     </h4>
+    <!-- #88 divで囲んでみる× -->
+    <!-- <div> -->
     <bar
       :ref="'barChart'"
       :style="{ display: canvas ? 'block' : 'none' }"
@@ -21,6 +23,7 @@
       :options="displayOption"
       :height="240"
     />
+    <!-- </div> -->
     <v-data-table
       :style="{ top: '-9999px', position: canvas ? 'fixed' : 'static' }"
       :headers="tableHeaders"
@@ -41,6 +44,10 @@
         :unit="displayInfo.unit"
       />
     </template>
+    <!--#88 余計なtemplateを削除してみる×-->
+    <!--<template v-slot:footer>
+      <open-data-link v-show="url" :url="url" />
+    </template>-->
     <template v-slot:footer>
       <!--<open-data-link v-show="url" :url="url" />-->
     </template>
@@ -251,7 +258,10 @@ const options: ThisTypedComponentOptionsWithRecordProps<
             }
           }
         },
+      
+        // #88 responsiveをfalseに設定してみる×
         responsive: true,
+        
         maintainAspectRatio: false,
         legend: {
           display: false
@@ -371,6 +381,12 @@ const options: ThisTypedComponentOptionsWithRecordProps<
     if (canvas) {
       canvas.setAttribute('role', 'img')
       canvas.setAttribute('aria-labelledby', labelledbyId)
+      
+      // #88 style初期設定追加してみる×
+      /*
+      const width = this.$el!.clientWidth - 22 * 2
+      canvas.setAttribute('style', 'display: block; height: 240px; width: '+ width +'px;')
+      */
     }
   }
 }
