@@ -1063,7 +1063,7 @@
                 "children": [
                     {
                         "attr": "県内発生",
-                        "value": 71
+                        "value": 70
                     },
                     {
                         "attr": "その他（チャーター便・クルーズ船等）",
@@ -1081,11 +1081,11 @@
         "children": [
             {
                 "attr": "陽性者数",
-                "value": 71,
+                "value": 70,
                 "children": [
                     {
                         "attr": "入院中", 
-                        "value": 3
+                        "value": 2
                     },
                     {
                         "attr": "退院",
