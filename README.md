@@ -1,8 +1,9 @@
 # 山形県 新型コロナウイルス感染症対策サイト(非公式)
-**production status**
-|  Actionタスク  |  netlifyデプロイ  |
-| ---- | ---- |
-| ![](https://github.com/yamaserif/covid19/workflows/production%20deploy/badge.svg) | [![Netlify Status](https://api.netlify.com/api/v1/badges/07ea5bd9-f526-44cf-9071-54549330d380/deploy-status)](https://app.netlify.com/sites/stopcovid19-yamagata/deploys) |
+**status**
+| branch |  Actionタスク  |  netlifyデプロイ  |
+| ---- | ---- | ---- |
+| dev-pages | ![](https://github.com/yamaserif/covid19/workflows/development%20deploy/badge.svg) | [![Netlify Status](https://api.netlify.com/api/v1/badges/40bd1b64-b826-42c0-aba2-5edabdb9f75b/deploy-status)](https://app.netlify.com/sites/dev-stopcovid19-yamagata/deploys) |
+| production | ![](https://github.com/yamaserif/covid19/workflows/production%20deploy/badge.svg) | [![Netlify Status](https://api.netlify.com/api/v1/badges/07ea5bd9-f526-44cf-9071-54549330d380/deploy-status)](https://app.netlify.com/sites/stopcovid19-yamagata/deploys) |
 
 [![山形県 新型コロナウイルス感染症対策サイト(非公式)](./static/ogp.png)](https://stopcovid19-yamagata.netlify.com/)
 
