@@ -1,10 +1,19 @@
 {
     "newsItems": [
-	
-	
+		
+		{
+            "date": "2020\/07\/15",
+            "text": "7月15日、本県74例目となる新型コロナウイルスの感染者が確認されました。"
+        },
         {
             "date": "2020\/07\/13",
-            "text": "7月13日、本県72～73例目となる新型コロナウイルスの感染者が確認されました。 "
+            "url": "https:\/\/www.pref.yamagata.jp\/ou\/kenkofukushi\/090001\/20130425\/corona-press\/corona-press73.pdf",
+            "text": "7月13日、本県73例目となる新型コロナウイルスの感染者が確認されました。"
+        },
+        {
+            "date": "2020\/07\/13",
+            "url": "https:\/\/www.pref.yamagata.jp\/ou\/kenkofukushi\/090001\/20130425\/corona-press\/corona-press72.pdf",
+            "text": "7月13日、本県72例目となる新型コロナウイルスの感染者が確認されました。"
         },
         {
             "date": "2020\/07\/06",
