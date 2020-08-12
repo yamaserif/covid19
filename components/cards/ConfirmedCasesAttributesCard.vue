@@ -7,7 +7,9 @@
       :chart-option="{}"
       :date="Data.patients.date"
       :info="sumInfoOfPatients"
-      :url="'https://catalog.data.metro.tokyo.lg.jp/dataset/t000010d0000000068'"
+      :url="
+        'https://www.pref.yamagata.jp/kenfuku/kenko/kansen/720130425shingata_corona.html'
+      "
       :source="$t('オープンデータを入手')"
     />
   </v-col>
