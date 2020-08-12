@@ -60,7 +60,7 @@
     "vue-paginate": "^3.6.0",
     "vue-meta": "^2.4.0",
     "vue-scrollto": "^2.18.2",
-    "vue-spinner": "^1.0.4"
+    "vue-spinner": "^1.0.4",
     "vue2-leaflet": "^2.5.2"
   },
   "devDependencies": {
