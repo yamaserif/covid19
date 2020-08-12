@@ -133,10 +133,13 @@ const options: ThisTypedComponentOptionsWithRecordProps<
 > = {
   created() {
     this.canvas = process.browser
+    /* #88 dataKindの初期値を無条件で'transition'に設定する
     this.dataKind =
       this.$route.query.embed && this.$route.query.dataKind === 'cumulative'
         ? 'cumulative'
         : 'transition'
+        */
+    this.dataKind = 'transition'
   },
   components: { DataView, DataSelector, DataViewBasicInfoPanel, OpenDataLink },
   props: {
