@@ -727,7 +727,49 @@
         "target": "82",
         "label": "同居家族"
       }
+    },
+    {
+      "data": {
+        "source": "85",
+        "target": "82",
+        "label": "同居家族"
+      }
+    },
+    {
+      "data": {
+        "source": "85",
+        "target": "83",
+        "label": "同居家族"
+      }
+    },
+    {
+      "data": {
+        "source": "85",
+        "target": "84",
+        "label": "同居家族"
+      }
+    },
+    {
+      "data": {
+        "source": "86",
+        "target": "82",
+        "label": "親族"
+      }
+    },
+    {
+      "data": {
+        "source": "86",
+        "target": "83",
+        "label": "親族"
+      }
+    },
+    {
+      "data": {
+        "source": "86",
+        "target": "84",
+        "label": "親族"
+      }
     }
   ],
-  "lastUpdate": "2020\/10\/24 15:30"
+  "lastUpdate": "2020\/10\/27 23:30"
 }
