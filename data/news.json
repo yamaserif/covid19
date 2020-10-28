@@ -2,7 +2,13 @@
     "newsItems": [
         {
             "date": "2020\/10\/26",
-            "text": "10月22日、本県85~86例目となる新型コロナウイルスの感染者が確認されました。"
+            "url": "https:\/\/www.pref.yamagata.jp\/documents\/10045\/corona-press86.pdf",
+            "text": "10月26日、本県86例目となる新型コロナウイルスの感染者が確認されました。"
+        },
+        {
+            "date": "2020\/10\/26",
+            "url": "https:\/\/www.pref.yamagata.jp\/documents\/10045\/corona-press85.pdf",
+            "text": "10月26日、本県85例目となる新型コロナウイルスの感染者が確認されました。"
         },
 		{
             "date": "2020\/10\/22",
