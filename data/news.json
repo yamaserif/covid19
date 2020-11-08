@@ -1,6 +1,11 @@
 {
     "newsItems": [
         {
+            "date": "2020\/11\/08",
+            "url": "https:\/\/www.city.yamagata-yamagata.lg.jp\/kakuka\/kenkoiryo\/kenkozoshin\/sogo\/kansensyou\/pf0607101142\/9vq50e.pdf",
+            "text": "11月8日、本県87例目となる新型コロナウイルスの感染者が確認されました。"
+        },
+        {
             "date": "2020\/10\/26",
             "url": "https:\/\/www.pref.yamagata.jp\/documents\/10045\/corona-press86.pdf",
             "text": "10月26日、本県86例目となる新型コロナウイルスの感染者が確認されました。"
@@ -10,7 +15,7 @@
             "url": "https:\/\/www.pref.yamagata.jp\/documents\/10045\/corona-press85.pdf",
             "text": "10月26日、本県85例目となる新型コロナウイルスの感染者が確認されました。"
         },
-		{
+        {
             "date": "2020\/10\/22",
             "url": "https:\/\/www.pref.yamagata.jp\/documents\/10045\/corona-press84.pdf",
             "text": "10月22日、本県84例目となる新型コロナウイルスの感染者が確認されました。"
