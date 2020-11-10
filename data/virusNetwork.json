@@ -769,7 +769,28 @@
         "target": "84",
         "label": "親族"
       }
+    },
+    {
+      "data": {
+        "source": "88",
+        "target": "87",
+        "label": "同居家族"
+      }
+    },
+    {
+      "data": {
+        "source": "89",
+        "target": "87",
+        "label": "同居家族"
+      }
+    },
+    {
+      "data": {
+        "source": "89",
+        "target": "88",
+        "label": "同居家族"
+      }
     }
   ],
-  "lastUpdate": "2020\/10\/27 23:30"
+  "lastUpdate": "2020\/11\/11 07:00"
 }
