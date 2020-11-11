@@ -790,7 +790,28 @@
         "target": "88",
         "label": "同居家族"
       }
+    },
+    {
+      "data": {
+        "source": "90",
+        "target": "87",
+        "label": "接触者"
+      }
+    },
+    {
+      "data": {
+        "source": "91",
+        "target": "87",
+        "label": "接触者"
+      }
+    },
+    {
+      "data": {
+        "source": "92",
+        "target": "87",
+        "label": "接触者"
+      }
     }
   ],
-  "lastUpdate": "2020\/11\/11 07:00"
+  "lastUpdate": "2020\/11\/12 01:30"
 }
