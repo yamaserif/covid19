@@ -811,7 +811,35 @@
         "target": "87",
         "label": "接触者"
       }
+    },
+    {
+      "data": {
+        "source": "93",
+        "target": "87",
+        "label": "同僚"
+      }
+    },
+    {
+      "data": {
+        "source": "93",
+        "target": "88",
+        "label": "同僚"
+      }
+    },
+    {
+      "data": {
+        "source": "94",
+        "target": "87",
+        "label": "同僚"
+      }
+    },
+    {
+      "data": {
+        "source": "94",
+        "target": "88",
+        "label": "同僚"
+      }
     }
   ],
-  "lastUpdate": "2020\/11\/12 01:30"
+  "lastUpdate": "2020\/11\/14 03:30"
 }
