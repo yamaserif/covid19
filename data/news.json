@@ -1,8 +1,37 @@
 {
     "newsItems": [
         {
+            "date": "2020\/11\/29",
+            "text": "11月29日、本県123～132例目となる新型コロナウイルスの感染者が確認されました。"
+        },
+        {
+            "date": "2020\/11\/28",
+            "text": "11月28日、本県117～122例目となる新型コロナウイルスの感染者が確認されました。"
+        },
+        {
             "date": "2020\/11\/27",
-            "text": "11月27日、本県112～116例目となる新型コロナウイルスの感染者が確認されました。"
+            "url": "https:\/\/www.pref.yamagata.jp\/documents\/10045\/corona-press116.pdf",
+            "text": "11月27日、本県116例目となる新型コロナウイルスの感染者が確認されました。"
+        },
+        {
+            "date": "2020\/11\/27",
+            "url": "https:\/\/www.pref.yamagata.jp\/documents\/10045\/corona-press115.pdf",
+            "text": "11月27日、本県115例目となる新型コロナウイルスの感染者が確認されました。"
+        },
+        {
+            "date": "2020\/11\/27",
+            "url": "https:\/\/www.pref.yamagata.jp\/documents\/10045\/corona-press114.pdf",
+            "text": "11月27日、本県114例目となる新型コロナウイルスの感染者が確認されました。"
+        },
+        {
+            "date": "2020\/11\/27",
+            "url": "https:\/\/www.pref.yamagata.jp\/documents\/10045\/corona-press113.pdf",
+            "text": "11月27日、本県113例目となる新型コロナウイルスの感染者が確認されました。"
+        },
+        {
+            "date": "2020\/11\/27",
+            "url": "https:\/\/www.pref.yamagata.jp\/documents\/10045\/corona-press112.pdf",
+            "text": "11月27日、本県112例目となる新型コロナウイルスの感染者が確認されました。"
         },
         {
             "date": "2020\/11\/26",
