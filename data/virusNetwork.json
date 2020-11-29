@@ -895,7 +895,28 @@
         "target": "110",
         "label": "同僚"
       }
+    },
+    {
+      "data": {
+        "source": "123",
+        "target": "122",
+        "label": "家族"
+      }
+    },
+    {
+      "data": {
+        "source": "124",
+        "target": "122",
+        "label": "家族"
+      }
+    },
+    {
+      "data": {
+        "source": "125",
+        "target": "122",
+        "label": "家族"
+      }
     }
   ],
-  "lastUpdate": "2020\/11\/28 13:00"
+  "lastUpdate": "2020\/11\/30 01:00"
 }
