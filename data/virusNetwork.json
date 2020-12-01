@@ -1007,7 +1007,21 @@
         "target": "118",
         "label": "家族"
       }
+    },
+    {
+      "data": {
+        "source": "134",
+        "target": "114",
+        "label": "知人"
+      }
+    },
+    {
+      "data": {
+        "source": "135",
+        "target": "114",
+        "label": "知人"
+      }
     }
   ],
-  "lastUpdate": "2020\/12\/01 01:00"
+  "lastUpdate": "2020\/12\/02 00:30"
 }
