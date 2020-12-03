@@ -1042,7 +1042,42 @@
         "target": "135",
         "label": "家族"
       }
+    },
+    {
+      "data": {
+        "source": "139",
+        "target": "115",
+        "label": "家族"
+      }
+    },
+    {
+      "data": {
+        "source": "140",
+        "target": "135",
+        "label": "知人"
+      }
+    },
+    {
+      "data": {
+        "source": "146",
+        "target": "141",
+        "label": "同居家族"
+      }
+    },
+    {
+      "data": {
+        "source": "147",
+        "target": "141",
+        "label": "同居家族"
+      }
+    },
+    {
+      "data": {
+        "source": "148",
+        "target": "142",
+        "label": "同居家族"
+      }
     }
   ],
-  "lastUpdate": "2020\/12\/03 01:30"
+  "lastUpdate": "2020\/12\/04 01:00"
 }
