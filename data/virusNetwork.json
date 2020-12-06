@@ -1126,7 +1126,56 @@
         "target": "135",
         "label": "知人"
       }
+    },
+    {
+      "data": {
+        "source": "153",
+        "target": "137",
+        "label": "同じ中学校"
+      }
+    },
+    {
+      "data": {
+        "source": "154",
+        "target": "152",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "155",
+        "target": "152",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "156",
+        "target": "152",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "157",
+        "target": "152",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "158",
+        "target": "152",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "173",
+        "target": "172",
+        "label": "同居家族"
+      }
     }
   ],
-  "lastUpdate": "2020\/12\/06 03:00"
+  "lastUpdate": "2020\/12\/06 23:30"
 }
