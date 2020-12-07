@@ -1175,7 +1175,112 @@
         "target": "172",
         "label": "同居家族"
       }
+    },
+    {
+      "data": {
+        "source": "159",
+        "target": "145",
+        "label": "同じ中学校"
+      }
+    },
+    {
+      "data": {
+        "source": "160",
+        "target": "152",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "161",
+        "target": "152",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "162",
+        "target": "152",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "163",
+        "target": "152",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "164",
+        "target": "152",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "165",
+        "target": "152",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "166",
+        "target": "152",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "167",
+        "target": "152",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "168",
+        "target": "152",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "169",
+        "target": "152",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "170",
+        "target": "152",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "171",
+        "target": "152",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "174",
+        "target": "152",
+        "label": "同僚"
+      }
+    },
+    {
+      "data": {
+        "source": "175",
+        "target": "153",
+        "label": "家族"
+      }
     }
   ],
-  "lastUpdate": "2020\/12\/06 23:30"
+  "lastUpdate": "2020\/12\/08 01:30"
 }
