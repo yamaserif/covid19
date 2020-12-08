@@ -47,6 +47,7 @@
     <paginate-links
       for="paginate-items"
       class="pagination"
+      :limit="3"
       :show-step-links="true"
     />
   </div>
