@@ -1,12 +1,47 @@
 {
     "newsItems": [
         {
+            "date": "2020\/12\/9",
+            "text": "12月9日、本県187～195例目となる新型コロナウイルスの感染者が確認されました。"
+        },
+        {
+            "date": "2020\/12\/8",
+            "text": "12月8日、本県178～186例目となる新型コロナウイルスの感染者が確認されました。"
+        },
+        {
             "date": "2020\/12\/7",
-            "text": "12月7日、本県174～177例目となる新型コロナウイルスの感染者が確認されました。"
+            "url": "https:\/\/www.pref.yamagata.jp\/documents\/18477\/corona-press177.pdf",
+            "text": "12月7日、本県177例目となる新型コロナウイルスの感染者が確認されました。"
+        },
+        {
+            "date": "2020\/12\/7",
+            "url": "https:\/\/www.pref.yamagata.jp\/documents\/18477\/corona-press176.pdf",
+            "text": "12月7日、本県176例目となる新型コロナウイルスの感染者が確認されました。"
+        },
+        {
+            "date": "2020\/12\/7",
+            "url": "https:\/\/www.pref.yamagata.jp\/documents\/18477\/corona-press175.pdf",
+            "text": "12月7日、本県175例目となる新型コロナウイルスの感染者が確認されました。"
+        },
+        {
+            "date": "2020\/12\/7",
+            "url": "https:\/\/www.pref.yamagata.jp\/documents\/18477\/corona-press174.pdf",
+            "text": "12月7日、本県174例目となる新型コロナウイルスの感染者が確認されました。"
         },
         {
             "date": "2020\/12\/6",
-            "text": "12月6日、本県159～173例目となる新型コロナウイルスの感染者が確認されました。"
+            "url": "https:\/\/www.pref.yamagata.jp\/documents\/18477\/corona-press172_173.pdf",
+            "text": "12月6日、本県172～173例目となる新型コロナウイルスの感染者が確認されました。"
+        },
+        {
+            "date": "2020\/12\/6",
+            "url": "https:\/\/www.pref.yamagata.jp\/documents\/18477\/corona-press160_171.pdf",
+            "text": "12月6日、本県160～171例目となる新型コロナウイルスの感染者が確認されました。"
+        },
+        {
+            "date": "2020\/12\/6",
+            "url": "https:\/\/www.pref.yamagata.jp\/documents\/18477\/corona-press159.pdf",
+            "text": "12月6日、本県159例目となる新型コロナウイルスの感染者が確認されました。"
         },
         {
             "date": "2020\/12\/5",
