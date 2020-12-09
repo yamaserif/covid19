@@ -1322,7 +1322,56 @@
         "target": "177",
         "label": "同居家族"
       }
+    },
+    {
+      "data": {
+        "source": "178",
+        "target": "167",
+        "label": "家族"
+      }
+    },
+    {
+      "data": {
+        "source": "179",
+        "target": "176",
+        "label": "家族"
+      }
+    },
+    {
+      "data": {
+        "source": "181",
+        "target": "180",
+        "label": "同居家族"
+      }
+    },
+    {
+      "data": {
+        "source": "182",
+        "target": "180",
+        "label": "同居家族"
+      }
+    },
+    {
+      "data": {
+        "source": "183",
+        "target": "180",
+        "label": "親族"
+      }
+    },
+    {
+      "data": {
+        "source": "184",
+        "target": "172",
+        "label": "濃厚接触者"
+      }
+    },
+    {
+      "data": {
+        "source": "184",
+        "target": "173",
+        "label": "濃厚接触者"
+      }
     }
   ],
-  "lastUpdate": "2020\/12\/09 01:30"
+  "lastUpdate": "2020\/12\/10 02:00"
 }
