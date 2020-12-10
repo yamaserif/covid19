@@ -1371,7 +1371,84 @@
         "target": "173",
         "label": "濃厚接触者"
       }
+    },
+    {
+      "data": {
+        "source": "196",
+        "target": "187",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "196",
+        "target": "188",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "196",
+        "target": "189",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "191",
+        "target": "173",
+        "label": "濃厚接触者"
+      }
+    },
+    {
+      "data": {
+        "source": "192",
+        "target": "184",
+        "label": "濃厚接触者"
+      }
+    },
+    {
+      "data": {
+        "source": "193",
+        "target": "184",
+        "label": "同居家族"
+      }
+    },
+    {
+      "data": {
+        "source": "194",
+        "target": "184",
+        "label": "濃厚接触者"
+      }
+    },
+    {
+      "data": {
+        "source": "195",
+        "target": "184",
+        "label": "濃厚接触者"
+      }
+    },
+    {
+      "data": {
+        "source": "208",
+        "target": "184",
+        "label": "濃厚接触者"
+      }
+    },
+    {
+      "data": {
+        "source": "209",
+        "target": "184",
+        "label": "濃厚接触者"
+      }
+    },
+    {
+      "data": {
+        "source": "210",
+        "target": "184",
+        "label": "濃厚接触者"
+      }
     }
   ],
-  "lastUpdate": "2020\/12\/10 02:00"
+  "lastUpdate": "2020\/12\/11 01:30"
 }
