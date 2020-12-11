@@ -1532,6 +1532,27 @@
         "target": "206",
         "label": "関連"
       }
+    },
+    {
+      "data": {
+        "source": "208",
+        "target": "184",
+        "label": "濃厚接触者"
+      }
+    },
+    {
+      "data": {
+        "source": "209",
+        "target": "184",
+        "label": "濃厚接触者"
+      }
+    },
+    {
+      "data": {
+        "source": "210",
+        "target": "184",
+        "label": "濃厚接触者"
+      }
     }
   ],
   "lastUpdate": "2020\/12\/12 03:00"
