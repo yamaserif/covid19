@@ -1448,7 +1448,91 @@
         "target": "184",
         "label": "濃厚接触者"
       }
+    },
+    {
+      "data": {
+        "source": "198",
+        "target": "190",
+        "label": "職場関係者"
+      }
+    },
+    {
+      "data": {
+        "source": "199",
+        "target": "190",
+        "label": "職場関係者"
+      }
+    },
+    {
+      "data": {
+        "source": "207",
+        "target": "187",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "207",
+        "target": "188",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "207",
+        "target": "189",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "207",
+        "target": "196",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "207",
+        "target": "201",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "207",
+        "target": "202",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "207",
+        "target": "203",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "207",
+        "target": "204",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "207",
+        "target": "205",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "207",
+        "target": "206",
+        "label": "関連"
+      }
     }
   ],
-  "lastUpdate": "2020\/12\/11 01:30"
+  "lastUpdate": "2020\/12\/12 03:00"
 }
