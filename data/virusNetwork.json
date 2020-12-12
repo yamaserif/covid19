@@ -1553,7 +1553,28 @@
         "target": "184",
         "label": "濃厚接触者"
       }
+    },
+    {
+      "data": {
+        "source": "238",
+        "target": "195",
+        "label": "濃厚接触者"
+      }
+    },
+    {
+      "data": {
+        "source": "239",
+        "target": "210",
+        "label": "同居家族"
+      }
+    },
+    {
+      "data": {
+        "source": "240",
+        "target": "197",
+        "label": "職場関係者"
+      }
     }
   ],
-  "lastUpdate": "2020\/12\/12 03:00"
+  "lastUpdate": "2020\/12\/13 03:40"
 }
