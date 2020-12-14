@@ -1581,7 +1581,42 @@
         "target": "251",
         "label": "同居家族"
       }
+    },
+    {
+      "data": {
+        "source": "261",
+        "target": "239",
+        "label": "職場関係者"
+      }
+    },
+    {
+      "data": {
+        "source": "262",
+        "target": "239",
+        "label": "職場関係者"
+      }
+    },
+    {
+      "data": {
+        "source": "263",
+        "target": "252",
+        "label": "濃厚接触者"
+      }
+    },
+    {
+      "data": {
+        "source": "264",
+        "target": "252",
+        "label": "濃厚接触者"
+      }
+    },
+    {
+      "data": {
+        "source": "265",
+        "target": "252",
+        "label": "濃厚接触者"
+      }
     }
   ],
-  "lastUpdate": "2020\/12\/14 01:30"
+  "lastUpdate": "2020\/12\/15 01:30"
 }
