@@ -1616,7 +1616,1274 @@
         "target": "252",
         "label": "濃厚接触者"
       }
+    },
+    {
+      "data": {
+        "source": "212",
+        "target": "190",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "212",
+        "target": "198",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "212",
+        "target": "199",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "213",
+        "target": "190",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "213",
+        "target": "198",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "213",
+        "target": "199",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "214",
+        "target": "190",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "214",
+        "target": "198",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "214",
+        "target": "199",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "215",
+        "target": "199",
+        "label": "知人"
+      }
+    },
+    {
+      "data": {
+        "source": "216",
+        "target": "190",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "216",
+        "target": "198",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "216",
+        "target": "199",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "217",
+        "target": "190",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "217",
+        "target": "198",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "217",
+        "target": "199",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "218",
+        "target": "187",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "218",
+        "target": "188",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "218",
+        "target": "189",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "218",
+        "target": "196",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "218",
+        "target": "201",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "218",
+        "target": "202",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "218",
+        "target": "203",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "218",
+        "target": "204",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "218",
+        "target": "205",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "218",
+        "target": "206",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "218",
+        "target": "207",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "219",
+        "target": "190",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "219",
+        "target": "198",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "219",
+        "target": "199",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "219",
+        "target": "212",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "219",
+        "target": "213",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "219",
+        "target": "214",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "219",
+        "target": "216",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "219",
+        "target": "217",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "220",
+        "target": "199",
+        "label": "知人"
+      }
+    },
+    {
+      "data": {
+        "source": "221",
+        "target": "190",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "221",
+        "target": "198",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "221",
+        "target": "199",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "221",
+        "target": "212",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "221",
+        "target": "213",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "221",
+        "target": "214",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "221",
+        "target": "216",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "221",
+        "target": "217",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "222",
+        "target": "190",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "222",
+        "target": "198",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "222",
+        "target": "199",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "222",
+        "target": "212",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "222",
+        "target": "213",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "222",
+        "target": "214",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "222",
+        "target": "216",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "222",
+        "target": "217",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "223",
+        "target": "190",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "223",
+        "target": "198",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "223",
+        "target": "199",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "223",
+        "target": "212",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "223",
+        "target": "213",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "223",
+        "target": "214",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "223",
+        "target": "216",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "223",
+        "target": "217",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "224",
+        "target": "197",
+        "label": "家族"
+      }
+    },
+    {
+      "data": {
+        "source": "227",
+        "target": "176",
+        "label": "知人"
+      }
+    },
+    {
+      "data": {
+        "source": "232",
+        "target": "167",
+        "label": "家族"
+      }
+    },
+    {
+      "data": {
+        "source": "235",
+        "target": "187",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "235",
+        "target": "188",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "235",
+        "target": "189",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "235",
+        "target": "196",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "235",
+        "target": "201",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "235",
+        "target": "202",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "235",
+        "target": "203",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "235",
+        "target": "204",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "235",
+        "target": "205",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "235",
+        "target": "206",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "235",
+        "target": "207",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "235",
+        "target": "218",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "236",
+        "target": "187",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "236",
+        "target": "188",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "236",
+        "target": "189",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "236",
+        "target": "196",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "236",
+        "target": "201",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "236",
+        "target": "202",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "236",
+        "target": "203",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "236",
+        "target": "204",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "236",
+        "target": "205",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "236",
+        "target": "206",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "236",
+        "target": "207",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "236",
+        "target": "218",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "237",
+        "target": "187",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "237",
+        "target": "188",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "237",
+        "target": "189",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "237",
+        "target": "196",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "237",
+        "target": "201",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "237",
+        "target": "202",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "237",
+        "target": "203",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "237",
+        "target": "204",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "237",
+        "target": "205",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "237",
+        "target": "206",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "237",
+        "target": "207",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "237",
+        "target": "218",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "244",
+        "target": "167",
+        "label": "家族"
+      }
+    },
+    {
+      "data": {
+        "source": "245",
+        "target": "190",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "245",
+        "target": "198",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "245",
+        "target": "199",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "245",
+        "target": "212",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "245",
+        "target": "213",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "245",
+        "target": "214",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "245",
+        "target": "216",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "245",
+        "target": "217",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "245",
+        "target": "219",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "245",
+        "target": "221",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "245",
+        "target": "222",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "245",
+        "target": "223",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "246",
+        "target": "190",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "246",
+        "target": "198",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "246",
+        "target": "199",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "246",
+        "target": "212",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "246",
+        "target": "213",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "246",
+        "target": "214",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "246",
+        "target": "216",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "246",
+        "target": "217",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "246",
+        "target": "219",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "246",
+        "target": "221",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "246",
+        "target": "222",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "246",
+        "target": "223",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "247",
+        "target": "217",
+        "label": "同僚"
+      }
+    },
+    {
+      "data": {
+        "source": "247",
+        "target": "221",
+        "label": "同僚"
+      }
+    },
+    {
+      "data": {
+        "source": "248",
+        "target": "223",
+        "label": "家族"
+      }
+    },
+    {
+      "data": {
+        "source": "249",
+        "target": "190",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "249",
+        "target": "198",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "249",
+        "target": "199",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "249",
+        "target": "212",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "249",
+        "target": "213",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "249",
+        "target": "214",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "249",
+        "target": "216",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "249",
+        "target": "217",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "249",
+        "target": "219",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "249",
+        "target": "221",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "249",
+        "target": "222",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "249",
+        "target": "223",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "250",
+        "target": "190",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "250",
+        "target": "198",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "250",
+        "target": "199",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "250",
+        "target": "212",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "250",
+        "target": "213",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "250",
+        "target": "214",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "250",
+        "target": "216",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "250",
+        "target": "217",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "250",
+        "target": "219",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "250",
+        "target": "221",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "250",
+        "target": "222",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "250",
+        "target": "223",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "257",
+        "target": "190",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "257",
+        "target": "198",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "257",
+        "target": "199",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "257",
+        "target": "212",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "257",
+        "target": "213",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "257",
+        "target": "214",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "257",
+        "target": "216",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "257",
+        "target": "217",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "257",
+        "target": "219",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "257",
+        "target": "221",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "257",
+        "target": "222",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "257",
+        "target": "223",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "257",
+        "target": "245",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "257",
+        "target": "246",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "257",
+        "target": "249",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "257",
+        "target": "250",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "258",
+        "target": "198",
+        "label": "知人"
+      }
+    },
+    {
+      "data": {
+        "source": "259",
+        "target": "239",
+        "label": "同僚"
+      }
+    },
+    {
+      "data": {
+        "source": "260",
+        "target": "239",
+        "label": "同僚"
+      }
+    },
+    {
+      "data": {
+        "source": "270",
+        "target": "252",
+        "label": "濃厚接触者"
+      }
+    },
+    {
+      "data": {
+        "source": "271",
+        "target": "252",
+        "label": "濃厚接触者"
+      }
+    },
+    {
+      "data": {
+        "source": "272",
+        "target": "252",
+        "label": "濃厚接触者"
+      }
+    },
+    {
+      "data": {
+        "source": "273",
+        "target": "252",
+        "label": "職場関係者"
+      }
+    },
+    {
+      "data": {
+        "source": "274",
+        "target": "252",
+        "label": "職場関係者"
+      }
+    },
+    {
+      "data": {
+        "source": "275",
+        "target": "252",
+        "label": "職場関係者"
+      }
+    },
+    {
+      "data": {
+        "source": "276",
+        "target": "252",
+        "label": "職場関係者"
+      }
+    },
+    {
+      "data": {
+        "source": "277",
+        "target": "252",
+        "label": "職場関係者"
+      }
+    },
+    {
+      "data": {
+        "source": "278",
+        "target": "252",
+        "label": "職場関係者"
+      }
+    },
+    {
+      "data": {
+        "source": "279",
+        "target": "250",
+        "label": "職場関係者"
+      }
+    },
+    {
+      "data": {
+        "source": "281",
+        "target": "280",
+        "label": "同居家族"
+      }
     }
   ],
-  "lastUpdate": "2020\/12\/15 01:30"
+  "lastUpdate": "2020\/12\/16 01:00"
 }
