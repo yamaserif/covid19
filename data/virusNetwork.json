@@ -2883,7 +2883,175 @@
         "target": "280",
         "label": "同居家族"
       }
+    },
+    {
+      "data": {
+        "source": "268",
+        "target": "190",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "268",
+        "target": "198",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "268",
+        "target": "199",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "268",
+        "target": "212",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "268",
+        "target": "213",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "268",
+        "target": "214",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "268",
+        "target": "216",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "268",
+        "target": "217",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "268",
+        "target": "219",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "268",
+        "target": "221",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "268",
+        "target": "222",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "268",
+        "target": "223",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "268",
+        "target": "245",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "268",
+        "target": "246",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "268",
+        "target": "249",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "268",
+        "target": "250",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "268",
+        "target": "257",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "269",
+        "target": "217",
+        "label": "元同僚"
+      }
+    },
+    {
+      "data": {
+        "source": "269",
+        "target": "221",
+        "label": "元同僚"
+      }
+    },
+    {
+      "data": {
+        "source": "269",
+        "target": "247",
+        "label": "元同僚"
+      }
+    },
+    {
+      "data": {
+        "source": "287",
+        "target": "252",
+        "label": "接触者"
+      }
+    },
+    {
+      "data": {
+        "source": "288",
+        "target": "286",
+        "label": "同居家族"
+      }
+    },
+    {
+      "data": {
+        "source": "289",
+        "target": "264",
+        "label": "同居家族"
+      }
+    },
+    {
+      "data": {
+        "source": "290",
+        "target": "239",
+        "label": "職場関係者"
+      }
     }
   ],
-  "lastUpdate": "2020\/12\/16 01:00"
+  "lastUpdate": "2020\/12\/17 01:00"
 }
