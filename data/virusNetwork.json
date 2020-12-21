@@ -3527,7 +3527,42 @@
         "target": "298",
         "label": "職業関係者"
       }
+    },
+    {
+      "data": {
+        "source": "320",
+        "target": "250",
+        "label": "友人"
+      }
+    },
+    {
+      "data": {
+        "source": "321",
+        "target": "309",
+        "label": "同居家族"
+      }
+    },
+    {
+      "data": {
+        "source": "322",
+        "target": "314",
+        "label": "同居家族"
+      }
+    },
+    {
+      "data": {
+        "source": "323",
+        "target": "314",
+        "label": "同居家族"
+      }
+    },
+    {
+      "data": {
+        "source": "324",
+        "target": "314",
+        "label": "同居家族"
+      }
     }
   ],
-  "lastUpdate": "2020\/12\/21 01:30"
+  "lastUpdate": "2020\/12\/21 23:50"
 }
