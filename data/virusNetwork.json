@@ -3646,7 +3646,35 @@
         "target": "306",
         "label": "同居家族"
       }
+    },
+    {
+      "data": {
+        "source": "325",
+        "target": "312",
+        "label": "同居家族"
+      }
+    },
+    {
+      "data": {
+        "source": "332",
+        "target": "252",
+        "label": "接触者"
+      }
+    },
+    {
+      "data": {
+        "source": "333",
+        "target": "261",
+        "label": "同居家族"
+      }
+    },
+    {
+      "data": {
+        "source": "334",
+        "target": "294",
+        "label": "同居家族"
+      }
     }
   ],
-  "lastUpdate": "2020\/12\/23 01:00"
+  "lastUpdate": "2020\/12\/24 01:30"
 }
