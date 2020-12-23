@@ -3527,7 +3527,126 @@
         "target": "298",
         "label": "職業関係者"
       }
+    },
+    {
+      "data": {
+        "source": "320",
+        "target": "250",
+        "label": "友人"
+      }
+    },
+    {
+      "data": {
+        "source": "321",
+        "target": "309",
+        "label": "同居家族"
+      }
+    },
+    {
+      "data": {
+        "source": "322",
+        "target": "314",
+        "label": "同居家族"
+      }
+    },
+    {
+      "data": {
+        "source": "323",
+        "target": "314",
+        "label": "同居家族"
+      }
+    },
+    {
+      "data": {
+        "source": "324",
+        "target": "314",
+        "label": "同居家族"
+      }
+    },
+    {
+      "data": {
+        "source": "297",
+        "target": "295",
+        "label": "親族"
+      }
+    },
+    {
+      "data": {
+        "source": "298",
+        "target": "295",
+        "label": "親族"
+      }
+    },
+    {
+      "data": {
+        "source": "299",
+        "target": "296",
+        "label": "家族"
+      }
+    },
+    {
+      "data": {
+        "source": "300",
+        "target": "167",
+        "label": "家族"
+      }
+    },
+    {
+      "data": {
+        "source": "303",
+        "target": "298",
+        "label": "同居家族"
+      }
+    },
+    {
+      "data": {
+        "source": "304",
+        "target": "298",
+        "label": "同居家族"
+      }
+    },
+    {
+      "data": {
+        "source": "305",
+        "target": "298",
+        "label": "同居家族"
+      }
+    },
+    {
+      "data": {
+        "source": "306",
+        "target": "186",
+        "label": "同居家族"
+      }
+    },
+    {
+      "data": {
+        "source": "318",
+        "target": "186",
+        "label": "同居家族"
+      }
+    },
+    {
+      "data": {
+        "source": "318",
+        "target": "306",
+        "label": "同居家族"
+      }
+    },
+    {
+      "data": {
+        "source": "319",
+        "target": "186",
+        "label": "同居家族"
+      }
+    },
+    {
+      "data": {
+        "source": "319",
+        "target": "306",
+        "label": "同居家族"
+      }
     }
   ],
-  "lastUpdate": "2020\/12\/21 01:30"
+  "lastUpdate": "2020\/12\/23 01:00"
 }
