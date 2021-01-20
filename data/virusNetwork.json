@@ -3898,7 +3898,91 @@
         "target": "346",
         "label": "同居家族"
       }
+    },
+    {
+      "data": {
+        "source": "444",
+        "target": "439",
+        "label": "職場関係者"
+      }
+    },
+    {
+      "data": {
+        "source": "445",
+        "target": "439",
+        "label": "職場関係者"
+      }
+    },
+    {
+      "data": {
+        "source": "449",
+        "target": "446",
+        "label": "学校関係者"
+      }
+    },
+    {
+      "data": {
+        "source": "449",
+        "target": "447",
+        "label": "学校関係者"
+      }
+    },
+    {
+      "data": {
+        "source": "450",
+        "target": "446",
+        "label": "学校関係者"
+      }
+    },
+    {
+      "data": {
+        "source": "450",
+        "target": "447",
+        "label": "学校関係者"
+      }
+    },
+    {
+      "data": {
+        "source": "451",
+        "target": "446",
+        "label": "学校関係者"
+      }
+    },
+    {
+      "data": {
+        "source": "451",
+        "target": "447",
+        "label": "学校関係者"
+      }
+    },
+    {
+      "data": {
+        "source": "452",
+        "target": "446",
+        "label": "学校関係者"
+      }
+    },
+    {
+      "data": {
+        "source": "452",
+        "target": "447",
+        "label": "学校関係者"
+      }
+    },
+    {
+      "data": {
+        "source": "453",
+        "target": "446",
+        "label": "学校関係者"
+      }
+    },
+    {
+      "data": {
+        "source": "453",
+        "target": "447",
+        "label": "学校関係者"
+      }
     }
   ],
-  "lastUpdate": "2021\/01\/14 00:20"
+  "lastUpdate": "2021\/01\/21 00:30"
 }
