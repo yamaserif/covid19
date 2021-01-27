@@ -4150,7 +4150,42 @@
         "target": "455",
         "label": "学校関係者"
       }
+    },
+    {
+      "data": {
+        "source": "460",
+        "target": "458",
+        "label": "同居家族"
+      }
+    },
+    {
+      "data": {
+        "source": "461",
+        "target": "458",
+        "label": "知人"
+      }
+    },
+    {
+      "data": {
+        "source": "462",
+        "target": "458",
+        "label": "知人"
+      }
+    },
+    {
+      "data": {
+        "source": "463",
+        "target": "459",
+        "label": "同一施設入居者"
+      }
+    },
+    {
+      "data": {
+        "source": "473",
+        "target": "455",
+        "label": "親族"
+      }
     }
   ],
-  "lastUpdate": "2021\/01\/23 05:00"
+  "lastUpdate": "2021\/01\/28 00:30"
 }
