@@ -4185,7 +4185,63 @@
         "target": "455",
         "label": "親族"
       }
+    },
+    {
+      "data": {
+        "source": "464",
+        "target": "459",
+        "label": "同一施設入居者"
+      }
+    },
+    {
+      "data": {
+        "source": "465",
+        "target": "459",
+        "label": "同一施設入居者"
+      }
+    },
+    {
+      "data": {
+        "source": "466",
+        "target": "459",
+        "label": "同一施設入居者"
+      }
+    },
+    {
+      "data": {
+        "source": "467",
+        "target": "459",
+        "label": "同一施設職員"
+      }
+    },
+    {
+      "data": {
+        "source": "468",
+        "target": "459",
+        "label": "同一施設職員"
+      }
+    },
+    {
+      "data": {
+        "source": "469",
+        "target": "459",
+        "label": "同一施設職員"
+      }
+    },
+    {
+      "data": {
+        "source": "470",
+        "target": "459",
+        "label": "同一施設職員"
+      }
+    },
+    {
+      "data": {
+        "source": "479",
+        "target": "478",
+        "label": "同居家族"
+      }
     }
   ],
-  "lastUpdate": "2021\/01\/28 00:30"
+  "lastUpdate": "2021\/01\/28 23:30"
 }
