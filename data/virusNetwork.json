@@ -4367,7 +4367,112 @@
         "target": "500",
         "label": "親族"
       }
+    },
+    {
+      "data": {
+        "source": "481",
+        "target": "458",
+        "label": "知人"
+      }
+    },
+    {
+      "data": {
+        "source": "482",
+        "target": "471",
+        "label": "同居家族"
+      }
+    },
+    {
+      "data": {
+        "source": "483",
+        "target": "476",
+        "label": "同居家族"
+      }
+    },
+    {
+      "data": {
+        "source": "484",
+        "target": "476",
+        "label": "同居家族"
+      }
+    },
+    {
+      "data": {
+        "source": "485",
+        "target": "483",
+        "label": "知人"
+      }
+    },
+    {
+      "data": {
+        "source": "488",
+        "target": "459",
+        "label": "同一施設入居者"
+      }
+    },
+    {
+      "data": {
+        "source": "489",
+        "target": "459",
+        "label": "同一施設入居者"
+      }
+    },
+    {
+      "data": {
+        "source": "490",
+        "target": "459",
+        "label": "同一施設入居者"
+      }
+    },
+    {
+      "data": {
+        "source": "491",
+        "target": "459",
+        "label": "同一施設入居者"
+      }
+    },
+    {
+      "data": {
+        "source": "492",
+        "target": "459",
+        "label": "同一施設入居者"
+      }
+    },
+    {
+      "data": {
+        "source": "493",
+        "target": "481",
+        "label": "同居家族"
+      }
+    },
+    {
+      "data": {
+        "source": "494",
+        "target": "481",
+        "label": "同居家族"
+      }
+    },
+    {
+      "data": {
+        "source": "495",
+        "target": "483",
+        "label": "接触者"
+      }
+    },
+    {
+      "data": {
+        "source": "497",
+        "target": "477",
+        "label": "同一施設の園児"
+      }
+    },
+    {
+      "data": {
+        "source": "506",
+        "target": "499",
+        "label": "職場関係者"
+      }
     }
   ],
-  "lastUpdate": "2021\/01\/31 23:30"
+  "lastUpdate": "2021\/02\/02 00:30"
 }
