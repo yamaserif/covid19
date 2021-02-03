@@ -4479,7 +4479,35 @@
         "target": "483",
         "label": "接触者"
       }
+    },
+    {
+      "data": {
+        "source": "507",
+        "target": "459",
+        "label": "同一施設入所者"
+      }
+    },
+    {
+      "data": {
+        "source": "508",
+        "target": "459",
+        "label": "同一施設職員"
+      }
+    },
+    {
+      "data": {
+        "source": "509",
+        "target": "459",
+        "label": "同一施設職員"
+      }
+    },
+    {
+      "data": {
+        "source": "510",
+        "target": "485",
+        "label": "同居家族"
+      }
     }
   ],
-  "lastUpdate": "2021\/02\/03 01:00"
+  "lastUpdate": "2021\/02\/04 00:00"
 }
