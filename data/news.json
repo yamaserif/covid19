@@ -1,19 +1,31 @@
 {
     "newsItems": [
         {
+            "date": "2021\/2\/3",
+            "text": "2月3日、本県511～513例目となる新型コロナウイルスの感染者が確認されました。"
+        },
+        {
+            "date": "2021\/2\/2",
+            "text": "2月2日、本県507～510例目となる新型コロナウイルスの感染者が確認されました。"
+        },
+        {
             "date": "2021\/2\/1",
+            "url": "https:\/\/www.pref.yamagata.jp\/090001\/bosai\/kochibou\/kikikanri\/covid19\/shingata_corona4.html",
             "text": "2月1日、本県504～506例目となる新型コロナウイルスの感染者が確認されました。"
         },
         {
             "date": "2021\/1\/31",
+            "url": "https:\/\/www.pref.yamagata.jp\/090001\/bosai\/kochibou\/kikikanri\/covid19\/shingata_corona4.html",
             "text": "1月31日、本県501～503例目となる新型コロナウイルスの感染者が確認されました。"
         },
         {
             "date": "2021\/1\/30",
+            "url": "https:\/\/www.pref.yamagata.jp\/090001\/bosai\/kochibou\/kikikanri\/covid19\/shingata_corona4.html",
             "text": "1月30日、本県488～500例目となる新型コロナウイルスの感染者が確認されました。"
         },
         {
             "date": "2021\/1\/29",
+            "url": "https:\/\/www.pref.yamagata.jp\/090001\/bosai\/kochibou\/kikikanri\/covid19\/shingata_corona4.html",
             "text": "1月29日、本県481～487例目となる新型コロナウイルスの感染者が確認されました。"
         },
         {
