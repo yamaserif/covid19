@@ -4528,7 +4528,49 @@
         "target": "485",
         "label": "同居家族"
       }
+    },
+    {
+      "data": {
+        "source": "520",
+        "target": "459",
+        "label": "同一施設入所者"
+      }
+    },
+    {
+      "data": {
+        "source": "521",
+        "target": "518",
+        "label": "同居家族"
+      }
+    },
+    {
+      "data": {
+        "source": "522",
+        "target": "518",
+        "label": "同居家族"
+      }
+    },
+    {
+      "data": {
+        "source": "523",
+        "target": "518",
+        "label": "同居家族"
+      }
+    },
+    {
+      "data": {
+        "source": "524",
+        "target": "518",
+        "label": "知人"
+      }
+    },
+    {
+      "data": {
+        "source": "525",
+        "target": "519",
+        "label": "同居家族"
+      }
     }
   ],
-  "lastUpdate": "2021\/02\/06 04:30"
+  "lastUpdate": "2021\/02\/09 01:20"
 }
