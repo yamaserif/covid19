@@ -4605,7 +4605,35 @@
         "target": "535",
         "label": "関連"
       }
+    },
+    {
+      "data": {
+        "source": "539",
+        "target": "538",
+        "label": "同居家族"
+      }
+    },
+    {
+      "data": {
+        "source": "540",
+        "target": "538",
+        "label": "同居家族"
+      }
+    },
+    {
+      "data": {
+        "source": "541",
+        "target": "538",
+        "label": "同居家族"
+      }
+    },
+    {
+      "data": {
+        "source": "542",
+        "target": "538",
+        "label": "同居家族"
+      }
     }
   ],
-  "lastUpdate": "2021\/02\/20 04:30"
+  "lastUpdate": "2021\/02\/27 02:15"
 }
