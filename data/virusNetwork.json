@@ -4689,7 +4689,42 @@
         "target": "554",
         "label": "関係者"
       }
+    },
+    {
+      "data": {
+        "source": "559",
+        "target": "554",
+        "label": "同僚"
+      }
+    },
+    {
+      "data": {
+        "source": "559",
+        "target": "556",
+        "label": "同僚"
+      }
+    },
+    {
+      "data": {
+        "source": "560",
+        "target": "554",
+        "label": "同僚"
+      }
+    },
+    {
+      "data": {
+        "source": "560",
+        "target": "556",
+        "label": "同僚"
+      }
+    },
+    {
+      "data": {
+        "source": "563",
+        "target": "561",
+        "label": "関係者"
+      }
     }
   ],
-  "lastUpdate": "2021\/03\/16 01:30"
+  "lastUpdate": "2021\/03\/18 01:30"
 }
