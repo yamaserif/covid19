@@ -4724,7 +4724,21 @@
         "target": "561",
         "label": "関係者"
       }
+    },
+    {
+      "data": {
+        "source": "569",
+        "target": "565",
+        "label": "家族"
+      }
+    },
+    {
+      "data": {
+        "source": "571",
+        "target": "570",
+        "label": "同居家族"
+      }
     }
   ],
-  "lastUpdate": "2021\/03\/18 01:30"
+  "lastUpdate": "2021\/03\/19 01:30"
 }
