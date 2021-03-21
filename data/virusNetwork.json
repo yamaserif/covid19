@@ -4829,7 +4829,182 @@
         "target": "576",
         "label": "職場関係者"
       }
+    },
+    {
+      "data": {
+        "source": "601",
+        "target": "565",
+        "label": "職場関係者"
+      }
+    },
+    {
+      "data": {
+        "source": "602",
+        "target": "568",
+        "label": "友人"
+      }
+    },
+    {
+      "data": {
+        "source": "603",
+        "target": "575",
+        "label": "接触者"
+      }
+    },
+    {
+      "data": {
+        "source": "604",
+        "target": "575",
+        "label": "接触者"
+      }
+    },
+    {
+      "data": {
+        "source": "605",
+        "target": "575",
+        "label": "接触者"
+      }
+    },
+    {
+      "data": {
+        "source": "606",
+        "target": "575",
+        "label": "接触者"
+      }
+    },
+    {
+      "data": {
+        "source": "608",
+        "target": "580",
+        "label": "家族"
+      }
+    },
+    {
+      "data": {
+        "source": "609",
+        "target": "581",
+        "label": "家族"
+      }
+    },
+    {
+      "data": {
+        "source": "610",
+        "target": "581",
+        "label": "友人"
+      }
+    },
+    {
+      "data": {
+        "source": "612",
+        "target": "611",
+        "label": "友人"
+      }
+    },
+    {
+      "data": {
+        "source": "626",
+        "target": "576",
+        "label": "職場関係者"
+      }
+    },
+    {
+      "data": {
+        "source": "627",
+        "target": "592",
+        "label": "同居家族"
+      }
+    },
+    {
+      "data": {
+        "source": "628",
+        "target": "594",
+        "label": "職場関係者"
+      }
+    },
+    {
+      "data": {
+        "source": "629",
+        "target": "594",
+        "label": "職場関係者"
+      }
+    },
+    {
+      "data": {
+        "source": "630",
+        "target": "594",
+        "label": "職場関係者"
+      }
+    },
+    {
+      "data": {
+        "source": "631",
+        "target": "594",
+        "label": "職場関係者"
+      }
+    },
+    {
+      "data": {
+        "source": "632",
+        "target": "594",
+        "label": "職場関係者"
+      }
+    },
+    {
+      "data": {
+        "source": "633",
+        "target": "594",
+        "label": "職場関係者"
+      }
+    },
+    {
+      "data": {
+        "source": "634",
+        "target": "594",
+        "label": "職場関係者"
+      }
+    },
+    {
+      "data": {
+        "source": "635",
+        "target": "594",
+        "label": "職場関係者"
+      }
+    },
+    {
+      "data": {
+        "source": "636",
+        "target": "610",
+        "label": "友人"
+      }
+    },
+    {
+      "data": {
+        "source": "639",
+        "target": "638",
+        "label": "同居家族"
+      }
+    },
+    {
+      "data": {
+        "source": "644",
+        "target": "574",
+        "label": "職場関係者"
+      }
+    },
+    {
+      "data": {
+        "source": "645",
+        "target": "574",
+        "label": "職場関係者"
+      }
+    },
+    {
+      "data": {
+        "source": "646",
+        "target": "645",
+        "label": "職場関係者"
+      }
     }
   ],
-  "lastUpdate": "2021\/03\/20 02:00"
+  "lastUpdate": "2021\/03\/22 00:30"
 }
