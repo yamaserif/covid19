@@ -5004,7 +5004,189 @@
         "target": "645",
         "label": "職場関係者"
       }
+    },
+    {
+      "data": {
+        "source": "577",
+        "target": "562",
+        "label": "同居家族"
+      }
+    },
+    {
+      "data": {
+        "source": "578",
+        "target": "565",
+        "label": "同僚"
+      }
+    },
+    {
+      "data": {
+        "source": "587",
+        "target": "576",
+        "label": "同僚"
+      }
+    },
+    {
+      "data": {
+        "source": "595",
+        "target": "562",
+        "label": "同僚"
+      }
+    },
+    {
+      "data": {
+        "source": "596",
+        "target": "590",
+        "label": "知人"
+      }
+    },
+    {
+      "data": {
+        "source": "597",
+        "target": "576",
+        "label": "知人"
+      }
+    },
+    {
+      "data": {
+        "source": "600",
+        "target": "599",
+        "label": "知人"
+      }
+    },
+    {
+      "data": {
+        "source": "616",
+        "target": "574",
+        "label": "同僚"
+      }
+    },
+    {
+      "data": {
+        "source": "618",
+        "target": "562",
+        "label": "同僚"
+      }
+    },
+    {
+      "data": {
+        "source": "619",
+        "target": "562",
+        "label": "同僚"
+      }
+    },
+    {
+      "data": {
+        "source": "621",
+        "target": "576",
+        "label": "同僚"
+      }
+    },
+    {
+      "data": {
+        "source": "622",
+        "target": "621",
+        "label": "同居家族"
+      }
+    },
+    {
+      "data": {
+        "source": "623",
+        "target": "599",
+        "label": "知人"
+      }
+    },
+    {
+      "data": {
+        "source": "624",
+        "target": "615",
+        "label": "知人"
+      }
+    },
+    {
+      "data": {
+        "source": "652",
+        "target": "575",
+        "label": "接触者"
+      }
+    },
+    {
+      "data": {
+        "source": "653",
+        "target": "575",
+        "label": "接触者"
+      }
+    },
+    {
+      "data": {
+        "source": "654",
+        "target": "575",
+        "label": "接触者"
+      }
+    },
+    {
+      "data": {
+        "source": "655",
+        "target": "575",
+        "label": "接触者"
+      }
+    },
+    {
+      "data": {
+        "source": "656",
+        "target": "575",
+        "label": "接触者"
+      }
+    },
+    {
+      "data": {
+        "source": "657",
+        "target": "640",
+        "label": "職場関係者"
+      }
+    },
+    {
+      "data": {
+        "source": "658",
+        "target": "640",
+        "label": "職場関係者"
+      }
+    },
+    {
+      "data": {
+        "source": "659",
+        "target": "640",
+        "label": "職場関係者"
+      }
+    },
+    {
+      "data": {
+        "source": "660",
+        "target": "640",
+        "label": "職場関係者"
+      }
+    },
+    {
+      "data": {
+        "source": "661",
+        "target": "640",
+        "label": "職場関係者"
+      }
+    },
+    {
+      "data": {
+        "source": "662",
+        "target": "576",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "663",
+        "target": "576",
+        "label": "関連"
+      }
     }
   ],
-  "lastUpdate": "2021\/03\/22 00:30"
+  "lastUpdate": "2021\/03\/23 02:00"
 }
