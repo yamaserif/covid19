@@ -5186,7 +5186,196 @@
         "target": "576",
         "label": "関連"
       }
+    },
+    {
+      "data": {
+        "source": "647",
+        "target": "599",
+        "label": "知人"
+      }
+    },
+    {
+      "data": {
+        "source": "649",
+        "target": "599",
+        "label": "同居家族"
+      }
+    },
+    {
+      "data": {
+        "source": "651",
+        "target": "597",
+        "label": "同居家族"
+      }
+    },
+    {
+      "data": {
+        "source": "675",
+        "target": "615",
+        "label": "知人"
+      }
+    },
+    {
+      "data": {
+        "source": "675",
+        "target": "624",
+        "label": "知人"
+      }
+    },
+    {
+      "data": {
+        "source": "676",
+        "target": "643",
+        "label": "同居家族"
+      }
+    },
+    {
+      "data": {
+        "source": "677",
+        "target": "576",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "678",
+        "target": "576",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "679",
+        "target": "576",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "680",
+        "target": "576",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "681",
+        "target": "642",
+        "label": "接触者"
+      }
+    },
+    {
+      "data": {
+        "source": "682",
+        "target": "681",
+        "label": "知人"
+      }
+    },
+    {
+      "data": {
+        "source": "685",
+        "target": "664",
+        "label": "関連"
+      }
+    },
+    {
+      "data": {
+        "source": "668",
+        "target": "617",
+        "label": "知人"
+      }
+    },
+    {
+      "data": {
+        "source": "669",
+        "target": "579",
+        "label": "家族"
+      }
+    },
+    {
+      "data": {
+        "source": "672",
+        "target": "625",
+        "label": "家族"
+      }
+    },
+    {
+      "data": {
+        "source": "673",
+        "target": "625",
+        "label": "家族"
+      }
+    },
+    {
+      "data": {
+        "source": "674",
+        "target": "625",
+        "label": "同僚"
+      }
+    },
+    {
+      "data": {
+        "source": "686",
+        "target": "576",
+        "label": "施設利用"
+      }
+    },
+    {
+      "data": {
+        "source": "687",
+        "target": "576",
+        "label": "施設利用"
+      }
+    },
+    {
+      "data": {
+        "source": "697",
+        "target": "569",
+        "label": "親族"
+      }
+    },
+    {
+      "data": {
+        "source": "699",
+        "target": "629",
+        "label": "同居家族"
+      }
+    },
+    {
+      "data": {
+        "source": "700",
+        "target": "629",
+        "label": "同居家族"
+      }
+    },
+    {
+      "data": {
+        "source": "701",
+        "target": "675",
+        "label": "知人"
+      }
+    },
+    {
+      "data": {
+        "source": "702",
+        "target": "682",
+        "label": "同居家族"
+      }
+    },
+    {
+      "data": {
+        "source": "703",
+        "target": "682",
+        "label": "同居家族"
+      }
+    },
+    {
+      "data": {
+        "source": "708",
+        "target": "705",
+        "label": "同居家族"
+      }
     }
   ],
-  "lastUpdate": "2021\/03\/23 02:00"
+  "lastUpdate": "2021\/03\/25 02:40"
 }
