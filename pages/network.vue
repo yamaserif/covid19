@@ -7,7 +7,29 @@
       </span>
     </h2>
     <StaticCard>
-      <cytoscape ref="cy" :config="config" :pre-config="preConfig">
+      <client-only>
+        <span style="margin-right:5px">{{ $t('表示範囲') }}</span>
+        <date-picker
+          v-model="startDate"
+          :language="ja"
+          format="yyyy年MM月dd日"
+          class="datePicker"
+        />
+        <span>～</span>
+        <date-picker
+          v-model="endDate"
+          :language="ja"
+          format="yyyy年MM月dd日"
+          class="datePicker"
+        />
+      </client-only>
+      <cytoscape
+        v-if="isViewCytoscape"
+        ref="cy"
+        :config="config"
+        :pre-config="preConfig"
+        class="cytoscape"
+      >
         <cy-element
           v-for="def in elements"
           :key="`${def.data.id}`"
@@ -24,10 +46,15 @@ import Vue from 'vue'
 import { MetaInfo } from 'vue-meta'
 import VueCytoscape from 'vue-cytoscape'
 import dayjs from 'dayjs'
+import isSameOrBefore from 'dayjs/plugin/isSameOrBefore'
+import isSameOrAfter from 'dayjs/plugin/isSameOrAfter'
+import { ja } from 'vuejs-datepicker/dist/locale'
 import StaticCard from '@/components/StaticCard.vue'
 import VirusNetwork from '@/data/virusNetwork.json'
-import Data from '@/data/data.json'
 const coseBilkent = require('cytoscape-cose-bilkent')
+
+dayjs.extend(isSameOrBefore)
+dayjs.extend(isSameOrAfter)
 
 Vue.use(VueCytoscape)
 export default Vue.extend({
@@ -36,6 +63,9 @@ export default Vue.extend({
   },
   data() {
     const dataObject: any = {
+      ja,
+      startDate: '',
+      endDate: '',
       config: {
         style: [
           {
@@ -73,6 +103,12 @@ export default Vue.extend({
             style: {
               'background-color': 'hotpink'
             }
+          },
+          {
+            selector: '.else',
+            style: {
+              'background-color': 'gray'
+            }
           }
         ]
       },
@@ -83,63 +119,69 @@ export default Vue.extend({
         nodeDimensionsIncludeLabels: true
       },
       elements: [],
+      isViewCytoscape: true,
       lastUpdate: ''
     }
     return dataObject
   },
+  watch: {
+    startDate() {
+      this.elements = this.getElements()
+      this.updateLayout()
+    },
+    endDate() {
+      this.elements = this.getElements()
+      this.updateLayout()
+    }
+  },
   mounted() {
     this.lastUpdate = this.getLastUpdate()
-    this.elements = this.getElementsData()
-    this.$nextTick(() => {
-      const vueCy: any = this.$refs.cy
-      vueCy.cy.then((cy: any) => {
-        const layout = cy.elements().layout(this.layout)
-        layout.run()
-      })
-    })
+    this.startDate = dayjs()
+      .subtract(14, 'day')
+      .format()
+    this.endDate = dayjs().format()
+    this.updateLayout()
   },
   methods: {
     preConfig(cytoscape: any) {
       cytoscape.use(coseBilkent)
     },
     getLastUpdate() {
-      const dataDate = Data.patients.date
-      const virusNetworkDate = VirusNetwork.lastUpdate
-      return dayjs(dataDate).isAfter(dayjs(virusNetworkDate))
-        ? dataDate
-        : virusNetworkDate
+      return VirusNetwork.lastUpdate
     },
-    getElementsData() {
+    getElements() {
       const virusNetwork: any = VirusNetwork
-      const data: any = Data
+      const startDate = dayjs(this.startDate)
+      const endDate = dayjs(this.endDate)
 
-      const returnElementsData = data.patients.data.map(
-        (element: any, index: number) => {
-          const returnElement = {
-            data: {
-              id: index + 1,
-              label:
-                element.date.replace(/-/g, '/') +
-                '\n' +
-                element.居住地 +
-                '\n' +
-                element.年代 +
-                ' ' +
-                element.性別
-            },
-            classes: [
-              'multiline-manual',
-              element.性別 === '男性' ? 'male' : 'female'
-            ]
-          }
-          return returnElement
+      const returnElementsData = VirusNetwork.baseData.filter(
+        (element: any) => {
+          const date = dayjs(element.data.date)
+          return (
+            date.isSameOrAfter(startDate, 'day') &&
+            date.isSameOrBefore(endDate, 'day')
+          )
         }
       )
-      const edgeData = virusNetwork.data.map((edge: any) => {
+      const edgeData = virusNetwork.networkData.map((edge: any) => {
         edge.id = `edge${edge.source}to${edge.target}`
         return edge
       })
       return returnElementsData.concat(edgeData)
+    },
+    updateLayout() {
+      this.isViewCytoscape = false
+      this.$nextTick(() => {
+        this.isViewCytoscape = true
+        this.$nextTick(() => {
+          const vueCy: any = this.$refs.cy
+          vueCy.cy.then((cy: any) => {
+            const cyElements = cy.elements()
+            const layout = cyElements.layout(this.layout)
+            layout.run()
+          })
+        })
+      })
     },
     dateToFormatString(date: Date, format: string) {
       format = format.replace(/YYYY/, date.getFullYear().toString())
@@ -166,6 +208,10 @@ export default Vue.extend({
   }
 }
 
+.cytoscape {
+  border: double 5px #4ec4d3;
+}
+
 th {
   text-align: center;
 }
@@ -179,5 +225,12 @@ td {
 
   color: $gray-3;
   margin-bottom: 0.2rem;
+}
+.datePicker {
+  display: inline-block;
+  div > input {
+    border: 1px ridge #333;
+    text-align: center;
+  }
 }
 </style>
