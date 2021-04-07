@@ -11419,6 +11419,213 @@
             "label": "1082例目\n2021/4/6\n山形市\n幼児 男性"
         },
         "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1101,
+            "date": "2021/4/7",
+            "label": "1101例目\n2021/4/7\n山形市\n90代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1102,
+            "date": "2021/4/7",
+            "label": "1102例目\n2021/4/7\n山形市\n80代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1103,
+            "date": "2021/4/7",
+            "label": "1103例目\n2021/4/7\n山形市\n70代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1104,
+            "date": "2021/4/7",
+            "label": "1104例目\n2021/4/7\n山形市\n70代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1105,
+            "date": "2021/4/7",
+            "label": "1105例目\n2021/4/7\n山形市\n中学生 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1106,
+            "date": "2021/4/7",
+            "label": "1106例目\n2021/4/7\n山形市\n中学生 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1107,
+            "date": "2021/4/7",
+            "label": "1107例目\n2021/4/7\n山形市\n70代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1108,
+            "date": "2021/4/7",
+            "label": "1108例目\n2021/4/7\n山形市\n50代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1109,
+            "date": "2021/4/7",
+            "label": "1109例目\n2021/4/7\n山形市\n60代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1110,
+            "date": "2021/4/7",
+            "label": "1110例目\n2021/4/7\n山形市\n80代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1111,
+            "date": "2021/4/7",
+            "label": "1111例目\n2021/4/7\n山形市\n30代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1058,
+            "date": "2021/4/6",
+            "label": "1058例目\n2021/4/6\n上山市\n70代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1059,
+            "date": "2021/4/6",
+            "label": "1059例目\n2021/4/6\n天童市\n20代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1060,
+            "date": "2021/4/6",
+            "label": "1060例目\n2021/4/6\n天童市\n70代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1061,
+            "date": "2021/4/6",
+            "label": "1061例目\n2021/4/6\n東根市\n60代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1062,
+            "date": "2021/4/6",
+            "label": "1062例目\n2021/4/6\n山辺町\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1063,
+            "date": "2021/4/6",
+            "label": "1063例目\n2021/4/6\n河北町\n50代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1064,
+            "date": "2021/4/6",
+            "label": "1064例目\n2021/4/6\n河北町\n小学生 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1065,
+            "date": "2021/4/6",
+            "label": "1065例目\n2021/4/6\n河北町\n小学生 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1066,
+            "date": "2021/4/6",
+            "label": "1066例目\n2021/4/6\n大江町\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1067,
+            "date": "2021/4/6",
+            "label": "1067例目\n2021/4/6\n大石田町\n60代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1068,
+            "date": "2021/4/6",
+            "label": "1068例目\n2021/4/6\n新庄市\n30代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1069,
+            "date": "2021/4/6",
+            "label": "1069例目\n2021/4/6\n金山町\n40代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
     }
 
 ]
@@ -19519,8 +19726,120 @@
             "target": "444",
             "label": "同居家族"
         }
+    },
+
+    {
+        "data": {
+            "source": "1101",
+            "target": "382",
+            "label": "接触者"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1102",
+            "target": "382",
+            "label": "接触者"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1103",
+            "target": "382",
+            "label": "接触者"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1104",
+            "target": "382",
+            "label": "接触者"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1105",
+            "target": "412",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1106",
+            "target": "416",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1107",
+            "target": "428",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1108",
+            "target": "428",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1109",
+            "target": "1002",
+            "label": "友人"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1059",
+            "target": "874",
+            "label": "親族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1062",
+            "target": "981",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1064",
+            "target": "1006",
+            "label": "親族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1065",
+            "target": "1006",
+            "label": "親族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1066",
+            "target": "880",
+            "label": "同居家族"
+        }
     }
 
 ]
 ,
-"lastUpdate":"2021/4/7"}
+"lastUpdate":"2021/4/8"}
