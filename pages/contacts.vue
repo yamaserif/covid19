@@ -10,39 +10,69 @@
             <th class="text-center" scope="col">
               {{ $t('お問い合わせ内容') }}
             </th>
-            <th class="text-center" scope="col">{{ $t('局名') }}</th>
+            <th class="text-center" scope="col">{{ $t('お問い合わせ先') }}</th>
             <th class="text-center" scope="col">{{ $t('電話番号・FAX') }}</th>
           </tr>
         </thead>
         <tbody>
+		
           <tr>
             <td class="content" v-bind="headingAttrs">
-              {{ $t('毎日24時間対応・土日祝含む受診相談') }}
+              {{ $t('発熱や咳などの症状があり受診したい場合') }}<br />
+              {{ $t('→ かかりつけ医療機関がある') }}
             </td>
             <td class="bureau">
-              {{ $t('新型コロナ受診相談センター') }}
+              {{ $t('かかりつけ医療機関') }}
+            </td>
+            <td class="tel"></td>
+          </tr>
+		  
+          <tr>
+            <td class="content" v-bind="headingAttrs">
+              {{ $t('発熱や咳などの症状があり受診したい場合') }}<br />
+              {{ $t('→ かかりつけ医療機関がない（又は休診）') }}<br /><br />
+              {{ $t('風邪症状が続いている、発症者と濃厚接触、海外から帰国直後等、感染が心配される場合') }}
+            </td>
+            <td class="bureau">
+			  {{ $t('受診相談コールセンター') }}<br />
+              {{ $t('（受付時間　24時間（土日祝日も含む））') }}
             </td>
             <td class="tel">TEL:<a href="tel:0120880006">0120-88-0006</a></td>
           </tr>
+		  
           <tr>
             <td class="content" v-bind="headingAttrs">
-              {{ $t('聴覚や言語に障がいのある方向けの受診相談') }}<br />
-              {{ $t('(平日午前8時30分から午後5時15分まで)') }}
+              {{ $t('発熱や咳などの症状はないが、感染していないか不安、予防方法を聞きたい等') }}
             </td>
             <td class="bureau">
-              {{ $t('新型コロナ受診相談センター') }}
+			  {{ $t('一般相談コールセンター') }}<br />
+              {{ $t('（受付時間　8：30から18：00（土日祝日も含む））') }}
+            </td>
+            <td class="tel">TEL:<a href="tel:0120567383">0120-56-7383</a></td>
+          </tr>
+		  
+          <tr>
+            <td class="content" v-bind="headingAttrs">
+              {{ $t('聴覚や言語に障がいのある方向けの受診相談') }}
+            </td>
+            <td class="bureau">
+              {{ $t('新型コロナワクチン接種総合企画課') }}<br />
+              {{ $t('（受付時間　8：30から17：15（平日のみ））') }}
             </td>
             <td class="tel">FAX:023-625-4294</td>
           </tr>
+
+
           <tr>
             <td class="content" v-bind="headingAttrs">
-              {{ $t('総合的な新型コロナ対策に関するご相談') }}
+              {{ $t('その他のお問い合わせ') }}
             </td>
             <td class="bureau">
-              {{ $t('健康福祉企画課 薬務・感染症対策室') }}
+              {{ $t('新型コロナワクチン接種総合企画課') }}
             </td>
-            <td class="tel">TEL:<a href="tel:023-630-2315">023-630-2315</a></td>
+            <td class="tel">TEL:<a href="tel:0236302315">023-630-2315</a></td>
           </tr>
+		  
         </tbody>
       </table>
     </div>
