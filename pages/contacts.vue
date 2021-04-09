@@ -65,12 +65,12 @@
 
           <tr>
             <td class="content" v-bind="headingAttrs">
-              {{ $t('その他') }}
+              {{ $t('その他のお問い合わせ') }}
             </td>
             <td class="bureau">
               {{ $t('新型コロナワクチン接種総合企画課') }}
             </td>
-            <td class="tel">TEL:<a href="tel:023-630-2315">023-630-2315</a></td>
+            <td class="tel">TEL:<a href="tel:0236302315">023-630-2315</a></td>
           </tr>
 		  
         </tbody>
