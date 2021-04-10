@@ -11905,6 +11905,339 @@
             "label": "1100例目\n2021/4/7\n長井市\n70代 男性"
         },
         "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1112,
+            "date": "2021/4/8",
+            "label": "1112例目\n2021/4/8\n寒河江市\n70代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1113,
+            "date": "2021/4/8",
+            "label": "1113例目\n2021/4/8\n寒河江市\n50代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1114,
+            "date": "2021/4/8",
+            "label": "1114例目\n2021/4/8\n上山市\n50代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1115,
+            "date": "2021/4/8",
+            "label": "1115例目\n2021/4/8\n上山市\n幼児 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1116,
+            "date": "2021/4/8",
+            "label": "1116例目\n2021/4/8\n東根市\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1117,
+            "date": "2021/4/8",
+            "label": "1117例目\n2021/4/8\n中山町\n30代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1118,
+            "date": "2021/4/8",
+            "label": "1118例目\n2021/4/8\n河北町\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1119,
+            "date": "2021/4/8",
+            "label": "1119例目\n2021/4/8\n米沢市\n70代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1120,
+            "date": "2021/4/8",
+            "label": "1120例目\n2021/4/8\n南陽市\n80代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1121,
+            "date": "2021/4/8",
+            "label": "1121例目\n2021/4/8\n南陽市\n70代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1145,
+            "date": "2021/4/9",
+            "label": "1145例目\n2021/4/9\n山形市\n中学生 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1146,
+            "date": "2021/4/9",
+            "label": "1146例目\n2021/4/9\n山形市\n70代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1147,
+            "date": "2021/4/9",
+            "label": "1147例目\n2021/4/9\n山形市\n50代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1148,
+            "date": "2021/4/9",
+            "label": "1148例目\n2021/4/9\n山形市\n30代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1149,
+            "date": "2021/4/9",
+            "label": "1149例目\n2021/4/9\n山形市\n高校生 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1150,
+            "date": "2021/4/9",
+            "label": "1150例目\n2021/4/9\n山形市\n小学生 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1151,
+            "date": "2021/4/9",
+            "label": "1151例目\n2021/4/9\n山形市\n30代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1152,
+            "date": "2021/4/9",
+            "label": "1152例目\n2021/4/9\n山形市\n20代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1153,
+            "date": "2021/4/9",
+            "label": "1153例目\n2021/4/9\n山形市\n60代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1154,
+            "date": "2021/4/9",
+            "label": "1154例目\n2021/4/9\n山形市\n80代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1155,
+            "date": "2021/4/9",
+            "label": "1155例目\n2021/4/9\n山形市\n70代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1156,
+            "date": "2021/4/9",
+            "label": "1156例目\n2021/4/9\n山形市\n60代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1157,
+            "date": "2021/4/9",
+            "label": "1157例目\n2021/4/9\n山形市\n50代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1158,
+            "date": "2021/4/9",
+            "label": "1158例目\n2021/4/9\n山形市\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1179,
+            "date": "2021/4/10",
+            "label": "1179例目\n2021/4/10\n山形市\n20代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1180,
+            "date": "2021/4/10",
+            "label": "1180例目\n2021/4/10\n山形市\n70代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1181,
+            "date": "2021/4/10",
+            "label": "1181例目\n2021/4/10\n山形市\n40代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1182,
+            "date": "2021/4/10",
+            "label": "1182例目\n2021/4/10\n山形市\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1183,
+            "date": "2021/4/10",
+            "label": "1183例目\n2021/4/10\n山形市\n10代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1184,
+            "date": "2021/4/10",
+            "label": "1184例目\n2021/4/10\n山形市\n50代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1185,
+            "date": "2021/4/10",
+            "label": "1185例目\n2021/4/10\n山形市\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1186,
+            "date": "2021/4/10",
+            "label": "1186例目\n2021/4/10\n山形市\n70代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1187,
+            "date": "2021/4/10",
+            "label": "1187例目\n2021/4/10\n山形市\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1188,
+            "date": "2021/4/10",
+            "label": "1188例目\n2021/4/10\n山形市\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1189,
+            "date": "2021/4/10",
+            "label": "1189例目\n2021/4/10\n山形市\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1190,
+            "date": "2021/4/10",
+            "label": "1190例目\n2021/4/10\n山形市\n30代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1191,
+            "date": "2021/4/10",
+            "label": "1191例目\n2021/4/10\n山形市\n20代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
     }
 
 ]
@@ -18554,7 +18887,7 @@
     {
         "data": {
             "source": "856",
-            "target": "261",
+            "target": "745",
             "label": "同居家族"
         }
     },
@@ -18562,7 +18895,7 @@
     {
         "data": {
             "source": "857",
-            "target": "261",
+            "target": "745",
             "label": "同居家族"
         }
     },
@@ -18570,7 +18903,7 @@
     {
         "data": {
             "source": "858",
-            "target": "261",
+            "target": "745",
             "label": "同居家族"
         }
     },
@@ -18578,7 +18911,7 @@
     {
         "data": {
             "source": "859",
-            "target": "261",
+            "target": "745",
             "label": "接触者"
         }
     },
@@ -18586,7 +18919,7 @@
     {
         "data": {
             "source": "860",
-            "target": "281",
+            "target": "786",
             "label": "同居家族"
         }
     },
@@ -18594,7 +18927,7 @@
     {
         "data": {
             "source": "861",
-            "target": "300",
+            "target": "830",
             "label": "友人"
         }
     },
@@ -18602,7 +18935,7 @@
     {
         "data": {
             "source": "862",
-            "target": "299",
+            "target": "829",
             "label": "知人"
         }
     },
@@ -18610,7 +18943,7 @@
     {
         "data": {
             "source": "863",
-            "target": "236",
+            "target": "681",
             "label": "関連"
         }
     },
@@ -18618,7 +18951,7 @@
     {
         "data": {
             "source": "864",
-            "target": "236",
+            "target": "681",
             "label": "関連"
         }
     },
@@ -18626,7 +18959,7 @@
     {
         "data": {
             "source": "866",
-            "target": "306",
+            "target": "836",
             "label": "接触者"
         }
     },
@@ -18634,7 +18967,7 @@
     {
         "data": {
             "source": "870",
-            "target": "321",
+            "target": "869",
             "label": "同居家族"
         }
     },
@@ -18642,7 +18975,7 @@
     {
         "data": {
             "source": "941",
-            "target": "236",
+            "target": "681",
             "label": "関連"
         }
     },
@@ -18650,7 +18983,7 @@
     {
         "data": {
             "source": "942",
-            "target": "261",
+            "target": "745",
             "label": "接触者"
         }
     },
@@ -18658,7 +18991,7 @@
     {
         "data": {
             "source": "943",
-            "target": "261",
+            "target": "745",
             "label": "接触者"
         }
     },
@@ -18666,7 +18999,7 @@
     {
         "data": {
             "source": "944",
-            "target": "261",
+            "target": "745",
             "label": "接触者"
         }
     },
@@ -18674,7 +19007,7 @@
     {
         "data": {
             "source": "945",
-            "target": "324",
+            "target": "887",
             "label": "知人"
         }
     },
@@ -18682,7 +19015,7 @@
     {
         "data": {
             "source": "948",
-            "target": "356",
+            "target": "947",
             "label": "同居家族"
         }
     },
@@ -18690,7 +19023,7 @@
     {
         "data": {
             "source": "967",
-            "target": "261",
+            "target": "745",
             "label": "接触者"
         }
     },
@@ -18698,7 +19031,7 @@
     {
         "data": {
             "source": "968",
-            "target": "316",
+            "target": "864",
             "label": "同居家族"
         }
     },
@@ -18706,7 +19039,7 @@
     {
         "data": {
             "source": "969",
-            "target": "316",
+            "target": "864",
             "label": "同居家族"
         }
     },
@@ -18714,7 +19047,7 @@
     {
         "data": {
             "source": "970",
-            "target": "355",
+            "target": "946",
             "label": "同居家族"
         }
     },
@@ -18722,7 +19055,7 @@
     {
         "data": {
             "source": "975",
-            "target": "345",
+            "target": "916",
             "label": "職場関係者"
         }
     },
@@ -18730,7 +19063,7 @@
     {
         "data": {
             "source": "977",
-            "target": "261",
+            "target": "745",
             "label": "接触者"
         }
     },
@@ -18738,7 +19071,7 @@
     {
         "data": {
             "source": "1009",
-            "target": "372",
+            "target": "976",
             "label": "同居家族"
         }
     },
@@ -18746,7 +19079,7 @@
     {
         "data": {
             "source": "1010",
-            "target": "372",
+            "target": "976",
             "label": "同居家族"
         }
     },
@@ -18754,7 +19087,7 @@
     {
         "data": {
             "source": "1011",
-            "target": "372",
+            "target": "976",
             "label": "同居家族"
         }
     },
@@ -18770,7 +19103,7 @@
     {
         "data": {
             "source": "1013",
-            "target": "356",
+            "target": "947",
             "label": "接触者"
         }
     },
@@ -18786,7 +19119,7 @@
     {
         "data": {
             "source": "1016",
-            "target": "321",
+            "target": "869",
             "label": "親族"
         }
     },
@@ -19059,7 +19392,7 @@
         "data": {
             "source": "880",
             "target": "845",
-            "label": "同僚"
+            "label": "親族"
         }
     },
 
@@ -19290,7 +19623,7 @@
     {
         "data": {
             "source": "886",
-            "target": "228",
+            "target": "666",
             "label": "家族"
         }
     },
@@ -19298,7 +19631,7 @@
     {
         "data": {
             "source": "887",
-            "target": "259",
+            "target": "743",
             "label": "親族"
         }
     },
@@ -19306,7 +19639,7 @@
     {
         "data": {
             "source": "888",
-            "target": "259",
+            "target": "743",
             "label": "親族"
         }
     },
@@ -19314,7 +19647,7 @@
     {
         "data": {
             "source": "889",
-            "target": "259",
+            "target": "743",
             "label": "親族"
         }
     },
@@ -19322,7 +19655,7 @@
     {
         "data": {
             "source": "890",
-            "target": "281",
+            "target": "786",
             "label": "親族"
         }
     },
@@ -19330,7 +19663,7 @@
     {
         "data": {
             "source": "891",
-            "target": "261",
+            "target": "745",
             "label": "接触者"
         }
     },
@@ -19338,7 +19671,7 @@
     {
         "data": {
             "source": "892",
-            "target": "261",
+            "target": "745",
             "label": "接触者"
         }
     },
@@ -19346,7 +19679,7 @@
     {
         "data": {
             "source": "892",
-            "target": "328",
+            "target": "891",
             "label": "同居家族"
         }
     },
@@ -19354,7 +19687,7 @@
     {
         "data": {
             "source": "902",
-            "target": "260",
+            "target": "744",
             "label": "同居家族"
         }
     },
@@ -19362,7 +19695,7 @@
     {
         "data": {
             "source": "903",
-            "target": "280",
+            "target": "785",
             "label": "同居家族"
         }
     },
@@ -19370,7 +19703,7 @@
     {
         "data": {
             "source": "904",
-            "target": "280",
+            "target": "785",
             "label": "同居家族"
         }
     },
@@ -19378,7 +19711,7 @@
     {
         "data": {
             "source": "905",
-            "target": "300",
+            "target": "830",
             "label": "友人"
         }
     },
@@ -19386,7 +19719,7 @@
     {
         "data": {
             "source": "906",
-            "target": "300",
+            "target": "830",
             "label": "友人"
         }
     },
@@ -19394,7 +19727,7 @@
     {
         "data": {
             "source": "907",
-            "target": "306",
+            "target": "836",
             "label": "同居家族"
         }
     },
@@ -19402,7 +19735,7 @@
     {
         "data": {
             "source": "908",
-            "target": "311",
+            "target": "859",
             "label": "同居家族"
         }
     },
@@ -19410,7 +19743,7 @@
     {
         "data": {
             "source": "909",
-            "target": "311",
+            "target": "859",
             "label": "同居家族"
         }
     },
@@ -19418,7 +19751,7 @@
     {
         "data": {
             "source": "910",
-            "target": "319",
+            "target": "867",
             "label": "職場関係者"
         }
     },
@@ -19426,7 +19759,7 @@
     {
         "data": {
             "source": "911",
-            "target": "330",
+            "target": "893",
             "label": "家族"
         }
     },
@@ -19434,7 +19767,7 @@
     {
         "data": {
             "source": "912",
-            "target": "330",
+            "target": "893",
             "label": "家族"
         }
     },
@@ -19442,7 +19775,7 @@
     {
         "data": {
             "source": "913",
-            "target": "330",
+            "target": "893",
             "label": "家族"
         }
     },
@@ -19450,7 +19783,7 @@
     {
         "data": {
             "source": "915",
-            "target": "261",
+            "target": "745",
             "label": "接触者"
         }
     },
@@ -19458,7 +19791,7 @@
     {
         "data": {
             "source": "917",
-            "target": "322",
+            "target": "870",
             "label": "職場関係者"
         }
     },
@@ -19466,7 +19799,7 @@
     {
         "data": {
             "source": "918",
-            "target": "256",
+            "target": "740",
             "label": "友人"
         }
     },
@@ -19474,7 +19807,7 @@
     {
         "data": {
             "source": "920",
-            "target": "323",
+            "target": "886",
             "label": "同居家族"
         }
     },
@@ -19482,7 +19815,7 @@
     {
         "data": {
             "source": "984",
-            "target": "346",
+            "target": "917",
             "label": "職場関係者"
         }
     },
@@ -19490,7 +19823,7 @@
     {
         "data": {
             "source": "985",
-            "target": "351",
+            "target": "942",
             "label": "同居家族"
         }
     },
@@ -19498,7 +19831,7 @@
     {
         "data": {
             "source": "986",
-            "target": "355",
+            "target": "946",
             "label": "同居家族"
         }
     },
@@ -19506,7 +19839,7 @@
     {
         "data": {
             "source": "987",
-            "target": "355",
+            "target": "946",
             "label": "家族"
         }
     },
@@ -19514,7 +19847,7 @@
     {
         "data": {
             "source": "988",
-            "target": "356",
+            "target": "947",
             "label": "接触者"
         }
     },
@@ -19522,7 +19855,7 @@
     {
         "data": {
             "source": "989",
-            "target": "356",
+            "target": "947",
             "label": "接触者"
         }
     },
@@ -19530,7 +19863,7 @@
     {
         "data": {
             "source": "990",
-            "target": "368",
+            "target": "972",
             "label": "同居家族"
         }
     },
@@ -19538,7 +19871,7 @@
     {
         "data": {
             "source": "991",
-            "target": "371",
+            "target": "975",
             "label": "同居家族"
         }
     },
@@ -19546,7 +19879,7 @@
     {
         "data": {
             "source": "992",
-            "target": "371",
+            "target": "975",
             "label": "同居家族"
         }
     },
@@ -19554,7 +19887,7 @@
     {
         "data": {
             "source": "993",
-            "target": "362",
+            "target": "953",
             "label": "同居家族"
         }
     },
@@ -19562,7 +19895,7 @@
     {
         "data": {
             "source": "1021",
-            "target": "356",
+            "target": "947",
             "label": "接触者"
         }
     },
@@ -19570,7 +19903,7 @@
     {
         "data": {
             "source": "1022",
-            "target": "367",
+            "target": "971",
             "label": "同居家族"
         }
     },
@@ -19578,7 +19911,7 @@
     {
         "data": {
             "source": "1023",
-            "target": "372",
+            "target": "976",
             "label": "同居家族"
         }
     },
@@ -19586,7 +19919,7 @@
     {
         "data": {
             "source": "1024",
-            "target": "378",
+            "target": "988",
             "label": "同居家族"
         }
     },
@@ -19594,7 +19927,7 @@
     {
         "data": {
             "source": "1025",
-            "target": "384",
+            "target": "994",
             "label": "同居家族"
         }
     },
@@ -19602,7 +19935,7 @@
     {
         "data": {
             "source": "1026",
-            "target": "387",
+            "target": "997",
             "label": "同居家族"
         }
     },
@@ -19610,7 +19943,7 @@
     {
         "data": {
             "source": "1027",
-            "target": "388",
+            "target": "998",
             "label": "同居家族"
         }
     },
@@ -19618,7 +19951,7 @@
     {
         "data": {
             "source": "1028",
-            "target": "388",
+            "target": "998",
             "label": "同居家族"
         }
     },
@@ -19626,7 +19959,7 @@
     {
         "data": {
             "source": "1030",
-            "target": "408",
+            "target": "1029",
             "label": "同居家族"
         }
     },
@@ -19634,7 +19967,7 @@
     {
         "data": {
             "source": "1031",
-            "target": "408",
+            "target": "1029",
             "label": "同居家族"
         }
     },
@@ -19642,7 +19975,7 @@
     {
         "data": {
             "source": "1036",
-            "target": "382",
+            "target": "992",
             "label": "接触者"
         }
     },
@@ -19650,7 +19983,7 @@
     {
         "data": {
             "source": "1038",
-            "target": "384",
+            "target": "994",
             "label": "接触者"
         }
     },
@@ -19762,7 +20095,7 @@
     {
         "data": {
             "source": "1042",
-            "target": "178",
+            "target": "594",
             "label": "接触者"
         }
     },
@@ -19770,7 +20103,7 @@
     {
         "data": {
             "source": "1043",
-            "target": "322",
+            "target": "870",
             "label": "職場関係者"
         }
     },
@@ -19778,7 +20111,7 @@
     {
         "data": {
             "source": "1044",
-            "target": "356",
+            "target": "947",
             "label": "接触者"
         }
     },
@@ -19786,7 +20119,7 @@
     {
         "data": {
             "source": "1045",
-            "target": "356",
+            "target": "947",
             "label": "接触者"
         }
     },
@@ -19794,7 +20127,7 @@
     {
         "data": {
             "source": "1046",
-            "target": "356",
+            "target": "947",
             "label": "接触者"
         }
     },
@@ -19802,7 +20135,7 @@
     {
         "data": {
             "source": "1047",
-            "target": "356",
+            "target": "947",
             "label": "接触者"
         }
     },
@@ -19810,7 +20143,7 @@
     {
         "data": {
             "source": "1048",
-            "target": "379",
+            "target": "989",
             "label": "同居家族"
         }
     },
@@ -19818,7 +20151,7 @@
     {
         "data": {
             "source": "1049",
-            "target": "379",
+            "target": "989",
             "label": "同居家族"
         }
     },
@@ -19826,7 +20159,7 @@
     {
         "data": {
             "source": "1050",
-            "target": "379",
+            "target": "989",
             "label": "同居家族"
         }
     },
@@ -19834,7 +20167,7 @@
     {
         "data": {
             "source": "1051",
-            "target": "391",
+            "target": "1009",
             "label": "学校関係者"
         }
     },
@@ -19842,7 +20175,7 @@
     {
         "data": {
             "source": "1052",
-            "target": "391",
+            "target": "1009",
             "label": "学校関係者"
         }
     },
@@ -19850,7 +20183,7 @@
     {
         "data": {
             "source": "1053",
-            "target": "391",
+            "target": "1009",
             "label": "学校関係者"
         }
     },
@@ -19858,7 +20191,7 @@
     {
         "data": {
             "source": "1054",
-            "target": "400",
+            "target": "1021",
             "label": "同居家族"
         }
     },
@@ -19866,7 +20199,7 @@
     {
         "data": {
             "source": "1055",
-            "target": "413",
+            "target": "1034",
             "label": "同居家族"
         }
     },
@@ -19874,7 +20207,7 @@
     {
         "data": {
             "source": "1057",
-            "target": "411",
+            "target": "1032",
             "label": "同居家族"
         }
     },
@@ -19898,7 +20231,7 @@
     {
         "data": {
             "source": "1070",
-            "target": "291",
+            "target": "821",
             "label": "職場関係者"
         }
     },
@@ -19906,7 +20239,7 @@
     {
         "data": {
             "source": "1071",
-            "target": "356",
+            "target": "947",
             "label": "接触者"
         }
     },
@@ -19914,7 +20247,7 @@
     {
         "data": {
             "source": "1072",
-            "target": "382",
+            "target": "992",
             "label": "接触者"
         }
     },
@@ -19922,7 +20255,7 @@
     {
         "data": {
             "source": "1073",
-            "target": "382",
+            "target": "992",
             "label": "接触者"
         }
     },
@@ -19930,7 +20263,7 @@
     {
         "data": {
             "source": "1074",
-            "target": "437",
+            "target": "1073",
             "label": "同居家族"
         }
     },
@@ -19938,7 +20271,7 @@
     {
         "data": {
             "source": "1075",
-            "target": "396",
+            "target": "1014",
             "label": "知人"
         }
     },
@@ -19946,7 +20279,7 @@
     {
         "data": {
             "source": "1076",
-            "target": "408",
+            "target": "1029",
             "label": "同居家族"
         }
     },
@@ -19954,7 +20287,7 @@
     {
         "data": {
             "source": "1077",
-            "target": "411",
+            "target": "1032",
             "label": "職場関係者"
         }
     },
@@ -19962,7 +20295,7 @@
     {
         "data": {
             "source": "1078",
-            "target": "423",
+            "target": "1047",
             "label": "同居家族"
         }
     },
@@ -19986,7 +20319,7 @@
     {
         "data": {
             "source": "1081",
-            "target": "444",
+            "target": "1080",
             "label": "同居家族"
         }
     },
@@ -20002,7 +20335,7 @@
     {
         "data": {
             "source": "1082",
-            "target": "444",
+            "target": "1080",
             "label": "同居家族"
         }
     },
@@ -20010,7 +20343,7 @@
     {
         "data": {
             "source": "1101",
-            "target": "382",
+            "target": "992",
             "label": "接触者"
         }
     },
@@ -20018,7 +20351,7 @@
     {
         "data": {
             "source": "1102",
-            "target": "382",
+            "target": "992",
             "label": "接触者"
         }
     },
@@ -20026,7 +20359,7 @@
     {
         "data": {
             "source": "1103",
-            "target": "382",
+            "target": "992",
             "label": "接触者"
         }
     },
@@ -20034,7 +20367,7 @@
     {
         "data": {
             "source": "1104",
-            "target": "382",
+            "target": "992",
             "label": "接触者"
         }
     },
@@ -20042,7 +20375,7 @@
     {
         "data": {
             "source": "1105",
-            "target": "412",
+            "target": "1033",
             "label": "同居家族"
         }
     },
@@ -20050,7 +20383,7 @@
     {
         "data": {
             "source": "1106",
-            "target": "416",
+            "target": "1037",
             "label": "同居家族"
         }
     },
@@ -20058,7 +20391,7 @@
     {
         "data": {
             "source": "1107",
-            "target": "428",
+            "target": "1052",
             "label": "同居家族"
         }
     },
@@ -20066,7 +20399,7 @@
     {
         "data": {
             "source": "1108",
-            "target": "428",
+            "target": "1052",
             "label": "同居家族"
         }
     },
@@ -20122,7 +20455,7 @@
     {
         "data": {
             "source": "1122",
-            "target": "354",
+            "target": "945",
             "label": "同居家族"
         }
     },
@@ -20130,7 +20463,7 @@
     {
         "data": {
             "source": "1123",
-            "target": "422",
+            "target": "1046",
             "label": "同居家族"
         }
     },
@@ -20138,7 +20471,7 @@
     {
         "data": {
             "source": "1124",
-            "target": "422",
+            "target": "1046",
             "label": "同居家族"
         }
     },
@@ -20146,7 +20479,7 @@
     {
         "data": {
             "source": "1125",
-            "target": "435",
+            "target": "1071",
             "label": "同居家族"
         }
     },
@@ -20154,7 +20487,7 @@
     {
         "data": {
             "source": "1126",
-            "target": "456",
+            "target": "1110",
             "label": "同居家族"
         }
     },
@@ -20162,7 +20495,7 @@
     {
         "data": {
             "source": "1127",
-            "target": "456",
+            "target": "1110",
             "label": "同居家族"
         }
     },
@@ -20170,7 +20503,7 @@
     {
         "data": {
             "source": "1129",
-            "target": "464",
+            "target": "1128",
             "label": "同居家族"
         }
     },
@@ -20178,7 +20511,7 @@
     {
         "data": {
             "source": "1133",
-            "target": "411",
+            "target": "1032",
             "label": "知人"
         }
     },
@@ -20253,8 +20586,192 @@
             "target": "1067",
             "label": "同居家族"
         }
+    },
+
+    {
+        "data": {
+            "source": "1114",
+            "target": "1058",
+            "label": "親族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1115",
+            "target": "1058",
+            "label": "親族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1116",
+            "target": "1091",
+            "label": "同僚"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1121",
+            "target": "1099",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1145",
+            "target": "1029",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1146",
+            "target": "1125",
+            "label": "知人"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1147",
+            "target": "1131",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1148",
+            "target": "1131",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1149",
+            "target": "1131",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1150",
+            "target": "1131",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1151",
+            "target": "1132",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1152",
+            "target": "1111",
+            "label": "職場関係者"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1179",
+            "target": "1131",
+            "label": "知人"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1180",
+            "target": "1133",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1181",
+            "target": "1154",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1182",
+            "target": "1154",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1183",
+            "target": "1154",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1184",
+            "target": "1157",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1185",
+            "target": "1157",
+            "label": "職場関係者"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1187",
+            "target": "1091",
+            "label": "職場関係者"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1188",
+            "target": "1091",
+            "label": "職場関係者"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1189",
+            "target": "1091",
+            "label": "職場関係者"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1191",
+            "target": "953",
+            "label": "同居家族"
+        }
     }
 
 ]
 ,
-"lastUpdate":"2021/4/9"}
+"lastUpdate":"2021/4/11 02:39"}
