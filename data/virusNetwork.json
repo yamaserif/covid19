@@ -12238,6 +12238,42 @@
             "label": "1191例目\n2021/4/10\n山形市\n20代 男性"
         },
         "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1199,
+            "date": "2021/4/11",
+            "label": "1199例目\n2021/4/11\n山形市\n60代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1200,
+            "date": "2021/4/11",
+            "label": "1200例目\n2021/4/11\n山形市\n50代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1201,
+            "date": "2021/4/11",
+            "label": "1201例目\n2021/4/11\n県外\n40代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1202,
+            "date": "2021/4/11",
+            "label": "1202例目\n2021/4/11\n山形市\n80代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
     }
 
 ]
@@ -20774,4 +20810,4 @@
 
 ]
 ,
-"lastUpdate":"2021/4/11 02:39"}
+"lastUpdate":"2021/4/12 02:30"}
