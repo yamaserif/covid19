@@ -12316,45 +12316,45 @@
         "data": {
             "id": 1220,
             "date": "2021/4/12",
-            "label": "1220例目\n2021/4/12\n山形市\n50代女性 ー"
+            "label": "1220例目\n2021/4/12\n山形市\n50代 女性"
         },
-        "classes": ["multiline-manual", "else"]
+        "classes": ["multiline-manual", "female"]
     },
 
     {
         "data": {
             "id": 1221,
             "date": "2021/4/12",
-            "label": "1221例目\n2021/4/12\n山形市\n70代女性 ー"
+            "label": "1221例目\n2021/4/12\n山形市\n70代 女性"
         },
-        "classes": ["multiline-manual", "else"]
+        "classes": ["multiline-manual", "female"]
     },
 
     {
         "data": {
             "id": 1222,
             "date": "2021/4/12",
-            "label": "1222例目\n2021/4/12\n山形市\n10代男性 ー"
+            "label": "1222例目\n2021/4/12\n山形市\n10代 男性"
         },
-        "classes": ["multiline-manual", "else"]
+        "classes": ["multiline-manual", "male"]
     },
 
     {
         "data": {
             "id": 1223,
             "date": "2021/4/12",
-            "label": "1223例目\n2021/4/12\n山形市\n40代女性 ー"
+            "label": "1223例目\n2021/4/12\n山形市\n40代 女性"
         },
-        "classes": ["multiline-manual", "else"]
+        "classes": ["multiline-manual", "female"]
     },
 
     {
         "data": {
             "id": 1224,
             "date": "2021/4/12",
-            "label": "1224例目\n2021/4/12\n山形市\n40代男性 ー"
+            "label": "1224例目\n2021/4/12\n山形市\n40代 男性"
         },
-        "classes": ["multiline-manual", "else"]
+        "classes": ["multiline-manual", "male"]
     },
 
     {
@@ -12397,18 +12397,18 @@
         "data": {
             "id": 1229,
             "date": "2021/4/12",
-            "label": "1229例目\n2021/4/12\n山形市\n20代女性 ー"
+            "label": "1229例目\n2021/4/12\n山形市\n20代 女性"
         },
-        "classes": ["multiline-manual", "else"]
+        "classes": ["multiline-manual", "female"]
     },
 
     {
         "data": {
             "id": 1230,
             "date": "2021/4/12",
-            "label": "1230例目\n2021/4/12\n山形市\n50代男性 ー"
+            "label": "1230例目\n2021/4/12\n山形市\n50代 男性"
         },
-        "classes": ["multiline-manual", "else"]
+        "classes": ["multiline-manual", "male"]
     },
 
     {
@@ -12784,9 +12784,9 @@
         "data": {
             "id": 1247,
             "date": "2021/4/13",
-            "label": "1247例目\n2021/4/13\n山形市\n20代男性 ー"
+            "label": "1247例目\n2021/4/13\n山形市\n20代 男性"
         },
-        "classes": ["multiline-manual", "else"]
+        "classes": ["multiline-manual", "male"]
     },
 
     {
@@ -12829,18 +12829,18 @@
         "data": {
             "id": 1256,
             "date": "2021/4/14",
-            "label": "1256例目\n2021/4/14\n山形市\n70代女性 ー"
+            "label": "1256例目\n2021/4/14\n山形市\n70代 女性"
         },
-        "classes": ["multiline-manual", "else"]
+        "classes": ["multiline-manual", "female"]
     },
 
     {
         "data": {
             "id": 1257,
             "date": "2021/4/14",
-            "label": "1257例目\n2021/4/14\n山形市\n40代女性 ー"
+            "label": "1257例目\n2021/4/14\n山形市\n40代 女性"
         },
-        "classes": ["multiline-manual", "else"]
+        "classes": ["multiline-manual", "female"]
     },
 
     {
@@ -12856,18 +12856,18 @@
         "data": {
             "id": 1259,
             "date": "2021/4/14",
-            "label": "1259例目\n2021/4/14\n山形市\n50代女性 ー"
+            "label": "1259例目\n2021/4/14\n山形市\n50代 女性"
         },
-        "classes": ["multiline-manual", "else"]
+        "classes": ["multiline-manual", "female"]
     },
 
     {
         "data": {
             "id": 1260,
             "date": "2021/4/14",
-            "label": "1260例目\n2021/4/14\n山形市\n40代男性 ー"
+            "label": "1260例目\n2021/4/14\n山形市\n40代 男性"
         },
-        "classes": ["multiline-manual", "else"]
+        "classes": ["multiline-manual", "male"]
     },
 
     {
@@ -22280,4 +22280,4 @@
 
 ]
 ,
-"lastUpdate":"2021/4/15 01:34"}
+"lastUpdate":"2021/4/15 01:44"}
