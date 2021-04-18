@@ -13561,6 +13561,24 @@
             "label": "1328例目\n2021/4/17\n山形市\n70代 女性"
         },
         "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1335,
+            "date": "2021/4/18",
+            "label": "1335例目\n2021/4/18\n山形市\n70代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1336,
+            "date": "2021/4/18",
+            "label": "1336例目\n2021/4/18\n山形市\n80代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
     }
 
 ]
@@ -22965,8 +22983,16 @@
             "target": "1327",
             "label": "同居家族"
         }
+    },
+
+    {
+        "data": {
+            "source": "1336",
+            "target": "1202",
+            "label": "知人"
+        }
     }
 
 ]
 ,
-"lastUpdate":"2021/4/18 01:32"}
+"lastUpdate":"2021/4/19 01:00"}
