@@ -14155,6 +14155,123 @@
             "label": "1362例目\n2021/4/20\n遊佐町\n20代 女性"
         },
         "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1395,
+            "date": "2021/4/22",
+            "label": "1395例目\n2021/4/22\n山形市\n20代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1367,
+            "date": "2021/4/21",
+            "label": "1367例目\n2021/4/21\n上山市\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1368,
+            "date": "2021/4/21",
+            "label": "1368例目\n2021/4/21\n天童市\n50代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1369,
+            "date": "2021/4/21",
+            "label": "1369例目\n2021/4/21\n大江町\n60代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1370,
+            "date": "2021/4/21",
+            "label": "1370例目\n2021/4/21\n大江町\n30代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1371,
+            "date": "2021/4/21",
+            "label": "1371例目\n2021/4/21\n大江町\n高校生 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1372,
+            "date": "2021/4/21",
+            "label": "1372例目\n2021/4/21\n小国町\n60代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1373,
+            "date": "2021/4/21",
+            "label": "1373例目\n2021/4/21\n酒田市\n幼児 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1374,
+            "date": "2021/4/21",
+            "label": "1374例目\n2021/4/21\n酒田市\n幼児 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1375,
+            "date": "2021/4/21",
+            "label": "1375例目\n2021/4/21\n酒田市\n幼児 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1376,
+            "date": "2021/4/21",
+            "label": "1376例目\n2021/4/21\n酒田市\n幼児 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1377,
+            "date": "2021/4/21",
+            "label": "1377例目\n2021/4/21\n酒田市\n幼児 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1378,
+            "date": "2021/4/21",
+            "label": "1378例目\n2021/4/21\n庄内町\n20代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
     }
 
 ]
@@ -24015,8 +24132,80 @@
             "target": "1167",
             "label": "施設従事者"
         }
+    },
+
+    {
+        "data": {
+            "source": "1395",
+            "target": "1261",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1369",
+            "target": "1338",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1370",
+            "target": "1338",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1373",
+            "target": "1354",
+            "label": "同一施設利用者"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1374",
+            "target": "1354",
+            "label": "同一施設利用者"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1375",
+            "target": "1354",
+            "label": "同一施設利用者"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1376",
+            "target": "1354",
+            "label": "同一施設利用者"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1377",
+            "target": "1354",
+            "label": "同一施設利用者"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1378",
+            "target": "1362",
+            "label": "知人"
+        }
     }
 
 ]
 ,
-"lastUpdate":"2021/4/22 02:40"}
+"lastUpdate":"2021/4/23 01:54"}
