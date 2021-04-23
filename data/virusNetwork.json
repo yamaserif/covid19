@@ -14272,6 +14272,96 @@
             "label": "1378例目\n2021/4/21\n庄内町\n20代 女性"
         },
         "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1415,
+            "date": "2021/4/23",
+            "label": "1415例目\n2021/4/23\n山形市\n80代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1416,
+            "date": "2021/4/23",
+            "label": "1416例目\n2021/4/23\n山形市\n70代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1387,
+            "date": "2021/4/22",
+            "label": "1387例目\n2021/4/22\n寒河江市\n60代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1388,
+            "date": "2021/4/22",
+            "label": "1388例目\n2021/4/22\n上山市\n高校生 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1389,
+            "date": "2021/4/22",
+            "label": "1389例目\n2021/4/22\n天童市\n70代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1390,
+            "date": "2021/4/22",
+            "label": "1390例目\n2021/4/22\n酒田市\n20代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1391,
+            "date": "2021/4/22",
+            "label": "1391例目\n2021/4/22\n酒田市\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1392,
+            "date": "2021/4/22",
+            "label": "1392例目\n2021/4/22\n酒田市\n中学生 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1393,
+            "date": "2021/4/22",
+            "label": "1393例目\n2021/4/22\n酒田市\n高校生 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1394,
+            "date": "2021/4/22",
+            "label": "1394例目\n2021/4/22\n酒田市\n中学生 男性"
+        },
+        "classes": ["multiline-manual", "male"]
     }
 
 ]
@@ -24204,8 +24294,48 @@
             "target": "1362",
             "label": "知人"
         }
+    },
+
+    {
+        "data": {
+            "source": "1388",
+            "target": "1371",
+            "label": "接触者"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1390",
+            "target": "1375",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1391",
+            "target": "1375",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1392",
+            "target": "1375",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1394",
+            "target": "1393",
+            "label": "同居家族"
+        }
     }
 
 ]
 ,
-"lastUpdate":"2021/4/23 01:54"}
+"lastUpdate":"2021/4/24 01:53"}
