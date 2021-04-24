@@ -14362,6 +14362,15 @@
             "label": "1394例目\n2021/4/22\n酒田市\n中学生 男性"
         },
         "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1428,
+            "date": "2021/4/24",
+            "label": "1428例目\n2021/4/24\n山形市\n50代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
     }
 
 ]
@@ -24338,4 +24347,4 @@
 
 ]
 ,
-"lastUpdate":"2021/4/24 01:53"}
+"lastUpdate":"2021/4/25 05:14"}
