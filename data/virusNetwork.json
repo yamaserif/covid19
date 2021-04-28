@@ -14983,6 +14983,69 @@
             "label": "1472例目\n2021/4/27\n山形市\n中学生 男性"
         },
         "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1483,
+            "date": "2021/4/28",
+            "label": "1483例目\n2021/4/28\n山形市\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1466,
+            "date": "2021/4/27",
+            "label": "1466例目\n2021/4/27\n寒河江市\n80代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1467,
+            "date": "2021/4/27",
+            "label": "1467例目\n2021/4/27\n上山市\n50代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1468,
+            "date": "2021/4/27",
+            "label": "1468例目\n2021/4/27\n東根市\n30代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1469,
+            "date": "2021/4/27",
+            "label": "1469例目\n2021/4/27\n大江町\n20代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1470,
+            "date": "2021/4/27",
+            "label": "1470例目\n2021/4/27\n県外\n40代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1471,
+            "date": "2021/4/27",
+            "label": "1471例目\n2021/4/27\n鶴岡市\n高校生 男性"
+        },
+        "classes": ["multiline-manual", "male"]
     }
 
 ]
@@ -25427,8 +25490,48 @@
             "target": "1450",
             "label": "接触者"
         }
+    },
+
+    {
+        "data": {
+            "source": "1483",
+            "target": "1472",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1466",
+            "target": "1167",
+            "label": "同一施設入所者"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1467",
+            "target": "1270",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1469",
+            "target": "1338",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1471",
+            "target": "1402",
+            "label": "勤務先の生徒"
+        }
     }
 
 ]
 ,
-"lastUpdate":"2021/4/27 23:38"}
+"lastUpdate":"2021/4/29 01:54"}
