@@ -15397,6 +15397,105 @@
             "label": "1518例目\n2021/4/30\n山形市\n80代 女性"
         },
         "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1524,
+            "date": "2021/5/1",
+            "label": "1524例目\n2021/5/1\n山形市\n60代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1525,
+            "date": "2021/5/1",
+            "label": "1525例目\n2021/5/1\n山形市\n50代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1526,
+            "date": "2021/5/1",
+            "label": "1526例目\n2021/5/1\n山形市\n80代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1527,
+            "date": "2021/5/1",
+            "label": "1527例目\n2021/5/1\n山形市\n80代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1528,
+            "date": "2021/5/1",
+            "label": "1528例目\n2021/5/1\n山形市\n80代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1510,
+            "date": "2021/4/30",
+            "label": "1510例目\n2021/4/30\n鶴岡市\n高校生 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1511,
+            "date": "2021/4/30",
+            "label": "1511例目\n2021/4/30\n鶴岡市\n高校生 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1512,
+            "date": "2021/4/30",
+            "label": "1512例目\n2021/4/30\n鶴岡市\n高校生 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1513,
+            "date": "2021/4/30",
+            "label": "1513例目\n2021/4/30\n鶴岡市\n小学生 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1514,
+            "date": "2021/4/30",
+            "label": "1514例目\n2021/4/30\n酒田市\n50代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1515,
+            "date": "2021/4/30",
+            "label": "1515例目\n2021/4/30\n酒田市\n60代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
     }
 
 ]
@@ -26145,8 +26244,96 @@
             "target": "1509",
             "label": "関連"
         }
+    },
+
+    {
+        "data": {
+            "source": "1524",
+            "target": "1508",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1525",
+            "target": "1508",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1526",
+            "target": "1509",
+            "label": "関連"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1527",
+            "target": "1509",
+            "label": "関連"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1527",
+            "target": "1526",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1528",
+            "target": "1518",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1510",
+            "target": "1402",
+            "label": "勤務先の生徒"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1511",
+            "target": "1402",
+            "label": "勤務先の生徒"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1512",
+            "target": "1402",
+            "label": "勤務先の生徒"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1513",
+            "target": "1502",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1514",
+            "target": "1493",
+            "label": "同居家族"
+        }
     }
 
 ]
 ,
-"lastUpdate":"2021/5/1 02:42"}
+"lastUpdate":"2021/5/1 21:56"}
