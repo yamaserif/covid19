@@ -15622,6 +15622,15 @@
             "label": "1543例目\n2021/5/3\n山形市\n30代 女性"
         },
         "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1555,
+            "date": "2021/5/4",
+            "label": "1555例目\n2021/5/4\n山形市\n50代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
     }
 
 ]
@@ -26534,4 +26543,4 @@
 
 ]
 ,
-"lastUpdate":"2021/5/4 03:56"}
+"lastUpdate":"2021/5/5 03:01"}
