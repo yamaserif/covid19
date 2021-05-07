@@ -15991,6 +15991,60 @@
             "label": "1574例目\n2021/5/5\n酒田市\n70代 女性"
         },
         "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1577,
+            "date": "2021/5/6",
+            "label": "1577例目\n2021/5/6\n寒河江市\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1578,
+            "date": "2021/5/6",
+            "label": "1578例目\n2021/5/6\n中山町\n80代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1579,
+            "date": "2021/5/6",
+            "label": "1579例目\n2021/5/6\n米沢市\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1580,
+            "date": "2021/5/6",
+            "label": "1580例目\n2021/5/6\n米沢市\n50代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1587,
+            "date": "2021/5/7",
+            "label": "1587例目\n2021/5/7\n山形市\n40代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1588,
+            "date": "2021/5/7",
+            "label": "1588例目\n2021/5/7\n山形市\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
     }
 
 ]
@@ -27171,8 +27225,56 @@
             "target": "1534",
             "label": "同居家族"
         }
+    },
+
+    {
+        "data": {
+            "source": "1577",
+            "target": "1519",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1578",
+            "target": "1537",
+            "label": "勤務施設の利用者"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1579",
+            "target": "1552",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1580",
+            "target": "1552",
+            "label": "知人"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1587",
+            "target": "1576",
+            "label": "知人"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1588",
+            "target": "1582",
+            "label": "職場関係者"
+        }
     }
 
 ]
 ,
-"lastUpdate":"2021/5/7 01:25"}
+"lastUpdate":"2021/5/8 02:19"}
