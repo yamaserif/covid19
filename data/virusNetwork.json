@@ -16072,6 +16072,33 @@
             "label": "1596例目\n2021/5/8\n県外\n30代 男性"
         },
         "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1602,
+            "date": "2021/5/9",
+            "label": "1602例目\n2021/5/9\n山形市\n50代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1603,
+            "date": "2021/5/9",
+            "label": "1603例目\n2021/5/9\n県外\n50代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1604,
+            "date": "2021/5/9",
+            "label": "1604例目\n2021/5/9\n山形市\n40代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
     }
 
 ]
@@ -27300,8 +27327,16 @@
             "target": "1582",
             "label": "職場関係者"
         }
+    },
+
+    {
+        "data": {
+            "source": "1602",
+            "target": "1537",
+            "label": "職場関係者"
+        }
     }
 
 ]
 ,
-"lastUpdate":"2021/5/9 03:40"}
+"lastUpdate":"2021/5/10 00:56"}
