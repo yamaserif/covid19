@@ -16099,6 +16099,96 @@
             "label": "1604例目\n2021/5/9\n山形市\n40代 男性"
         },
         "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1608,
+            "date": "2021/5/10",
+            "label": "1608例目\n2021/5/10\n山形市\n50代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1609,
+            "date": "2021/5/10",
+            "label": "1609例目\n2021/5/10\n山形市\n50代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1610,
+            "date": "2021/5/10",
+            "label": "1610例目\n2021/5/10\n山形市\n40代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1611,
+            "date": "2021/5/10",
+            "label": "1611例目\n2021/5/10\n山形市\n30代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1612,
+            "date": "2021/5/10",
+            "label": "1612例目\n2021/5/10\n山形市\n20代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1613,
+            "date": "2021/5/10",
+            "label": "1613例目\n2021/5/10\n山形市\n20代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1583,
+            "date": "2021/5/7",
+            "label": "1583例目\n2021/5/7\n上山市\n40代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1584,
+            "date": "2021/5/7",
+            "label": "1584例目\n2021/5/7\n山辺町\n70代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1585,
+            "date": "2021/5/7",
+            "label": "1585例目\n2021/5/7\n鶴岡市\n30代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1586,
+            "date": "2021/5/7",
+            "label": "1586例目\n2021/5/7\n三川町\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
     }
 
 ]
@@ -27335,8 +27425,40 @@
             "target": "1537",
             "label": "職場関係者"
         }
+    },
+
+    {
+        "data": {
+            "source": "1608",
+            "target": "1575",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1583",
+            "target": "1576",
+            "label": "知人"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1584",
+            "target": "1537",
+            "label": "同僚"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1586",
+            "target": "1402",
+            "label": "同僚"
+        }
     }
 
 ]
 ,
-"lastUpdate":"2021/5/10 00:56"}
+"lastUpdate":"2021/5/11 00:52"}
