@@ -16189,6 +16189,33 @@
             "label": "1586例目\n2021/5/7\n三川町\n40代 女性"
         },
         "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1625,
+            "date": "2021/5/11",
+            "label": "1625例目\n2021/5/11\n山形市\n50代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1626,
+            "date": "2021/5/11",
+            "label": "1626例目\n2021/5/11\n山形市\n40代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1627,
+            "date": "2021/5/11",
+            "label": "1627例目\n2021/5/11\n山形市\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
     }
 
 ]
@@ -27457,8 +27484,32 @@
             "target": "1402",
             "label": "同僚"
         }
+    },
+
+    {
+        "data": {
+            "source": "1625",
+            "target": "1606",
+            "label": "関連"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1626",
+            "target": "1606",
+            "label": "関連"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1627",
+            "target": "1606",
+            "label": "関連"
+        }
     }
 
 ]
 ,
-"lastUpdate":"2021/5/11 00:52"}
+"lastUpdate":"2021/5/11 23:04"}
