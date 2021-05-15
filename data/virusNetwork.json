@@ -16864,6 +16864,105 @@
             "label": "1687例目\n2021/5/14\n山形市\n30代 女性"
         },
         "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1698,
+            "date": "2021/5/15",
+            "label": "1698例目\n2021/5/15\n山形市\n80代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1699,
+            "date": "2021/5/15",
+            "label": "1699例目\n2021/5/15\n山形市\n50代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1700,
+            "date": "2021/5/15",
+            "label": "1700例目\n2021/5/15\n山形市\n50代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1701,
+            "date": "2021/5/15",
+            "label": "1701例目\n2021/5/15\n山形市\n高校生 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1702,
+            "date": "2021/5/15",
+            "label": "1702例目\n2021/5/15\n山形市\n高校生 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1703,
+            "date": "2021/5/15",
+            "label": "1703例目\n2021/5/15\n山形市\n高校生 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1704,
+            "date": "2021/5/15",
+            "label": "1704例目\n2021/5/15\n山形市\n高校生 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1705,
+            "date": "2021/5/15",
+            "label": "1705例目\n2021/5/15\n山形市\n50代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1706,
+            "date": "2021/5/15",
+            "label": "1706例目\n2021/5/15\n山形市\n高校生 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1707,
+            "date": "2021/5/15",
+            "label": "1707例目\n2021/5/15\n山形市\n高校生 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1708,
+            "date": "2021/5/15",
+            "label": "1708例目\n2021/5/15\n山形市\n高校生 女性"
+        },
+        "classes": ["multiline-manual", "female"]
     }
 
 ]
@@ -28580,8 +28679,56 @@
             "target": "1641",
             "label": "関連"
         }
+    },
+
+    {
+        "data": {
+            "source": "1698",
+            "target": "1595",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1699",
+            "target": "1682",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1701",
+            "target": "1688",
+            "label": "学校関係者"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1702",
+            "target": "1688",
+            "label": "学校関係者"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1703",
+            "target": "1688",
+            "label": "学校関係者"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1704",
+            "target": "1688",
+            "label": "学校関係者"
+        }
     }
 
 ]
 ,
-"lastUpdate":"2021/5/15 00:21"}
+"lastUpdate":"2021/5/15 22:39"}
