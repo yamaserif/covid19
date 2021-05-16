@@ -16963,6 +16963,69 @@
             "label": "1708例目\n2021/5/15\n山形市\n高校生 女性"
         },
         "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1715,
+            "date": "2021/5/16",
+            "label": "1715例目\n2021/5/16\n山形市\n高校生 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1716,
+            "date": "2021/5/16",
+            "label": "1716例目\n2021/5/16\n山形市\n高校生 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1717,
+            "date": "2021/5/16",
+            "label": "1717例目\n2021/5/16\n山形市\n20代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1718,
+            "date": "2021/5/16",
+            "label": "1718例目\n2021/5/16\n山形市\n高校生 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1719,
+            "date": "2021/5/16",
+            "label": "1719例目\n2021/5/16\n山形市\n60代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1720,
+            "date": "2021/5/16",
+            "label": "1720例目\n2021/5/16\n山形市\n90代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1721,
+            "date": "2021/5/16",
+            "label": "1721例目\n2021/5/16\n山形市\n30代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
     }
 
 ]
@@ -28727,8 +28790,56 @@
             "target": "1688",
             "label": "学校関係者"
         }
+    },
+
+    {
+        "data": {
+            "source": "1715",
+            "target": "1623",
+            "label": "学校関係者"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1716",
+            "target": "1688",
+            "label": "学校関係者"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1717",
+            "target": "1627",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1718",
+            "target": "1707",
+            "label": "学校関係者"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1719",
+            "target": "1700",
+            "label": "知人"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1720",
+            "target": "1719",
+            "label": "同居家族"
+        }
     }
 
 ]
 ,
-"lastUpdate":"2021/5/15 22:39"}
+"lastUpdate":"2021/5/16 23:16"}
