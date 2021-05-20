@@ -17507,6 +17507,177 @@
 
     {
         "data": {
+            "id": 1758,
+            "date": "2021/5/19",
+            "label": "1758例目\n2021/5/19\n天童市\n30代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1759,
+            "date": "2021/5/19",
+            "label": "1759例目\n2021/5/19\n天童市\n50代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1760,
+            "date": "2021/5/19",
+            "label": "1760例目\n2021/5/19\n天童市\n高校生 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1761,
+            "date": "2021/5/19",
+            "label": "1761例目\n2021/5/19\n東根市\n50代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1762,
+            "date": "2021/5/19",
+            "label": "1762例目\n2021/5/19\n東根市\n50代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1763,
+            "date": "2021/5/19",
+            "label": "1763例目\n2021/5/19\n南陽市\n20代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1764,
+            "date": "2021/5/19",
+            "label": "1764例目\n2021/5/19\n南陽市\n40代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1765,
+            "date": "2021/5/19",
+            "label": "1765例目\n2021/5/19\n高畠町\n30代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1766,
+            "date": "2021/5/19",
+            "label": "1766例目\n2021/5/19\n高畠町\n30代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1767,
+            "date": "2021/5/19",
+            "label": "1767例目\n2021/5/19\n川西町\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1768,
+            "date": "2021/5/19",
+            "label": "1768例目\n2021/5/19\n川西町\n中学生 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1797,
+            "date": "2021/5/20",
+            "label": "1797例目\n2021/5/20\n山形市\n高校生 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1798,
+            "date": "2021/5/20",
+            "label": "1798例目\n2021/5/20\n山形市\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1799,
+            "date": "2021/5/20",
+            "label": "1799例目\n2021/5/20\n山形市\n70代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1800,
+            "date": "2021/5/20",
+            "label": "1800例目\n2021/5/20\n山形市\n40代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1801,
+            "date": "2021/5/20",
+            "label": "1801例目\n2021/5/20\n山形市\n40代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1802,
+            "date": "2021/5/20",
+            "label": "1802例目\n2021/5/20\n山形市\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1803,
+            "date": "2021/5/20",
+            "label": "1803例目\n2021/5/20\n県外\n20代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1804,
+            "date": "2021/5/20",
+            "label": "1804例目\n2021/5/20\n山形市\n高校生 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
             "id": 1736,
             "date": "2021/5/18",
             "label": "1736例目\n2021/5/18\n天童市\n50代 男性"
@@ -29798,6 +29969,86 @@
 
     {
         "data": {
+            "source": "1760",
+            "target": "1688",
+            "label": "同じ学校の生徒"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1762",
+            "target": "1746",
+            "label": "施設利用者"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1764",
+            "target": "1713",
+            "label": "同僚"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1765",
+            "target": "1713",
+            "label": "同僚"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1767",
+            "target": "1693",
+            "label": "同僚"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1768",
+            "target": "1623",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1798",
+            "target": "1732",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1799",
+            "target": "1746",
+            "label": "関連"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1801",
+            "target": "1800",
+            "label": "知人"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1803",
+            "target": "1802",
+            "label": "家族"
+        }
+    },
+
+    {
+        "data": {
             "source": "1736",
             "target": "1746",
             "label": "施設利用者"
@@ -29958,4 +30209,4 @@
 
 ]
 ,
-"lastUpdate":"2021/5/20 01:17"}
+"lastUpdate":"2021/5/21 00:34"}
