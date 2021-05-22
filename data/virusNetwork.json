@@ -18097,6 +18097,69 @@
             "label": "1826例目\n2021/5/21\n山形市\n60代 女性"
         },
         "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1852,
+            "date": "2021/5/22",
+            "label": "1852例目\n2021/5/22\n山形市\n高校生 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1853,
+            "date": "2021/5/22",
+            "label": "1853例目\n2021/5/22\n山形市\n40代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1854,
+            "date": "2021/5/22",
+            "label": "1854例目\n2021/5/22\n山形市\n20代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1855,
+            "date": "2021/5/22",
+            "label": "1855例目\n2021/5/22\n山形市\n60代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1856,
+            "date": "2021/5/22",
+            "label": "1856例目\n2021/5/22\n山形市\n20代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1857,
+            "date": "2021/5/22",
+            "label": "1857例目\n2021/5/22\n山形市\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1858,
+            "date": "2021/5/22",
+            "label": "1858例目\n2021/5/22\n山形市\n20代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
     }
 
 ]
@@ -30565,8 +30628,48 @@
             "target": "1825",
             "label": "同居家族"
         }
+    },
+
+    {
+        "data": {
+            "source": "1854",
+            "target": "1643",
+            "label": "知人"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1855",
+            "target": "1770",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1856",
+            "target": "1770",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1857",
+            "target": "1781",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1858",
+            "target": "1816",
+            "label": "知人"
+        }
     }
 
 ]
 ,
-"lastUpdate":"2021/5/22 02:07"}
+"lastUpdate":"2021/5/23 04:21"}
