@@ -18160,6 +18160,24 @@
             "label": "1858例目\n2021/5/22\n山形市\n20代 女性"
         },
         "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1887,
+            "date": "2021/5/23",
+            "label": "1887例目\n2021/5/23\n山形市\n50代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1888,
+            "date": "2021/5/23",
+            "label": "1888例目\n2021/5/23\n山形市\n20代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
     }
 
 ]
@@ -30672,4 +30690,4 @@
 
 ]
 ,
-"lastUpdate":"2021/5/23 04:21"}
+"lastUpdate":"2021/5/23 23:28"}
