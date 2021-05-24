@@ -18178,6 +18178,609 @@
             "label": "1888例目\n2021/5/23\n山形市\n20代 男性"
         },
         "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1859,
+            "date": "2021/5/23",
+            "label": "1859例目\n2021/5/23\n上山市\n40代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1860,
+            "date": "2021/5/23",
+            "label": "1860例目\n2021/5/23\n上山市\n高校生 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1861,
+            "date": "2021/5/23",
+            "label": "1861例目\n2021/5/23\n尾花沢市\n20代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1862,
+            "date": "2021/5/23",
+            "label": "1862例目\n2021/5/23\n山辺町\n60代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1863,
+            "date": "2021/5/23",
+            "label": "1863例目\n2021/5/23\n米沢市\n30代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1864,
+            "date": "2021/5/23",
+            "label": "1864例目\n2021/5/23\n長井市\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1865,
+            "date": "2021/5/23",
+            "label": "1865例目\n2021/5/23\n長井市\n高校生 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1866,
+            "date": "2021/5/23",
+            "label": "1866例目\n2021/5/23\n南陽市\n10代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1867,
+            "date": "2021/5/23",
+            "label": "1867例目\n2021/5/23\n南陽市\n30代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1868,
+            "date": "2021/5/23",
+            "label": "1868例目\n2021/5/23\n南陽市\n30代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1869,
+            "date": "2021/5/23",
+            "label": "1869例目\n2021/5/23\n南陽市\n50代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1870,
+            "date": "2021/5/23",
+            "label": "1870例目\n2021/5/23\n南陽市\n40代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1871,
+            "date": "2021/5/23",
+            "label": "1871例目\n2021/5/23\n南陽市\n80代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1872,
+            "date": "2021/5/23",
+            "label": "1872例目\n2021/5/23\n南陽市\n50代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1873,
+            "date": "2021/5/23",
+            "label": "1873例目\n2021/5/23\n南陽市\n50代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1874,
+            "date": "2021/5/23",
+            "label": "1874例目\n2021/5/23\n南陽市\n70代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1875,
+            "date": "2021/5/23",
+            "label": "1875例目\n2021/5/23\n南陽市\n40代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1876,
+            "date": "2021/5/23",
+            "label": "1876例目\n2021/5/23\n南陽市\n30代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1877,
+            "date": "2021/5/23",
+            "label": "1877例目\n2021/5/23\n南陽市\n50代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1878,
+            "date": "2021/5/23",
+            "label": "1878例目\n2021/5/23\n高畠町\n40代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1879,
+            "date": "2021/5/23",
+            "label": "1879例目\n2021/5/23\n高畠町\n70代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1880,
+            "date": "2021/5/23",
+            "label": "1880例目\n2021/5/23\n高畠町\n40代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1881,
+            "date": "2021/5/23",
+            "label": "1881例目\n2021/5/23\n高畠町\n30代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1882,
+            "date": "2021/5/23",
+            "label": "1882例目\n2021/5/23\n高畠町\n高校生 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1883,
+            "date": "2021/5/23",
+            "label": "1883例目\n2021/5/23\n高畠町\n50代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1884,
+            "date": "2021/5/23",
+            "label": "1884例目\n2021/5/23\n高畠町\n50代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1885,
+            "date": "2021/5/23",
+            "label": "1885例目\n2021/5/23\n高畠町\n40代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1886,
+            "date": "2021/5/23",
+            "label": "1886例目\n2021/5/23\n小国町\n50代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1827,
+            "date": "2021/5/22",
+            "label": "1827例目\n2021/5/22\n寒河江市\n30代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1828,
+            "date": "2021/5/22",
+            "label": "1828例目\n2021/5/22\n寒河江市\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1829,
+            "date": "2021/5/22",
+            "label": "1829例目\n2021/5/22\n上山市\n50代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1830,
+            "date": "2021/5/22",
+            "label": "1830例目\n2021/5/22\n上山市\n50代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1831,
+            "date": "2021/5/22",
+            "label": "1831例目\n2021/5/22\n上山市\n20代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1832,
+            "date": "2021/5/22",
+            "label": "1832例目\n2021/5/22\n河北町\n30代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1833,
+            "date": "2021/5/22",
+            "label": "1833例目\n2021/5/22\n長井市\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1834,
+            "date": "2021/5/22",
+            "label": "1834例目\n2021/5/22\n長井市\n30代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1835,
+            "date": "2021/5/22",
+            "label": "1835例目\n2021/5/22\n南陽市\n30代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1836,
+            "date": "2021/5/22",
+            "label": "1836例目\n2021/5/22\n南陽市\n50代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1837,
+            "date": "2021/5/22",
+            "label": "1837例目\n2021/5/22\n南陽市\n50代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1838,
+            "date": "2021/5/22",
+            "label": "1838例目\n2021/5/22\n高畠町\n30代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1839,
+            "date": "2021/5/22",
+            "label": "1839例目\n2021/5/22\n南陽市\n60代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1840,
+            "date": "2021/5/22",
+            "label": "1840例目\n2021/5/22\n南陽市\n50代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1841,
+            "date": "2021/5/22",
+            "label": "1841例目\n2021/5/22\n南陽市\n50代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1842,
+            "date": "2021/5/22",
+            "label": "1842例目\n2021/5/22\n南陽市\n50代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1843,
+            "date": "2021/5/22",
+            "label": "1843例目\n2021/5/22\n南陽市\n30代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1844,
+            "date": "2021/5/22",
+            "label": "1844例目\n2021/5/22\n南陽市\n70代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1845,
+            "date": "2021/5/22",
+            "label": "1845例目\n2021/5/22\n南陽市\n70代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1846,
+            "date": "2021/5/22",
+            "label": "1846例目\n2021/5/22\n南陽市\n60代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1847,
+            "date": "2021/5/22",
+            "label": "1847例目\n2021/5/22\n南陽市\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1848,
+            "date": "2021/5/22",
+            "label": "1848例目\n2021/5/22\n高畠町\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1849,
+            "date": "2021/5/22",
+            "label": "1849例目\n2021/5/22\n高畠町\n高校生 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1850,
+            "date": "2021/5/22",
+            "label": "1850例目\n2021/5/22\n小国町\n50代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1851,
+            "date": "2021/5/22",
+            "label": "1851例目\n2021/5/22\n県外\n30代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1805,
+            "date": "2021/5/21",
+            "label": "1805例目\n2021/5/21\n天童市\n90歳以上 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1806,
+            "date": "2021/5/21",
+            "label": "1806例目\n2021/5/21\n天童市\n90歳以上 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1807,
+            "date": "2021/5/21",
+            "label": "1807例目\n2021/5/21\n天童市\n60代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1808,
+            "date": "2021/5/21",
+            "label": "1808例目\n2021/5/21\n天童市\n20代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1809,
+            "date": "2021/5/21",
+            "label": "1809例目\n2021/5/21\n東根市\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1810,
+            "date": "2021/5/21",
+            "label": "1810例目\n2021/5/21\n山辺町\n50代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1811,
+            "date": "2021/5/21",
+            "label": "1811例目\n2021/5/21\n河北町\n高校生 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1812,
+            "date": "2021/5/21",
+            "label": "1812例目\n2021/5/21\n鮭川村\n40代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1813,
+            "date": "2021/5/21",
+            "label": "1813例目\n2021/5/21\n鮭川村\n小学生 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1814,
+            "date": "2021/5/21",
+            "label": "1814例目\n2021/5/21\n南陽市\n50代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1815,
+            "date": "2021/5/21",
+            "label": "1815例目\n2021/5/21\n南陽市\n30代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1816,
+            "date": "2021/5/21",
+            "label": "1816例目\n2021/5/21\n南陽市\n20代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1817,
+            "date": "2021/5/21",
+            "label": "1817例目\n2021/5/21\n川西町\n50代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1902,
+            "date": "2021/5/24",
+            "label": "1902例目\n2021/5/24\n山形市\n50代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
     }
 
 ]
@@ -30686,8 +31289,296 @@
             "target": "1816",
             "label": "知人"
         }
+    },
+
+    {
+        "data": {
+            "source": "1859",
+            "target": "1763",
+            "label": "施設利用者"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1860",
+            "target": "1804",
+            "label": "同じ学校の生徒"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1862",
+            "target": "1810",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1865",
+            "target": "1833",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1866",
+            "target": "1815",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1867",
+            "target": "1835",
+            "label": "知人"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1868",
+            "target": "1839",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1871",
+            "target": "1841",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1872",
+            "target": "1842",
+            "label": "同僚"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1873",
+            "target": "1872",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1874",
+            "target": "1844",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1875",
+            "target": "1844",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1876",
+            "target": "1845",
+            "label": "同僚"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1878",
+            "target": "1763",
+            "label": "施設利用者"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1879",
+            "target": "1790",
+            "label": "同僚"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1880",
+            "target": "1794",
+            "label": "知人"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1881",
+            "target": "1838",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1882",
+            "target": "1848",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1883",
+            "target": "1849",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1827",
+            "target": "1629",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1828",
+            "target": "1723",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1834",
+            "target": "1763",
+            "label": "接触者"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1835",
+            "target": "1763",
+            "label": "同僚"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1836",
+            "target": "1763",
+            "label": "施設利用者"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1837",
+            "target": "1763",
+            "label": "施設利用者"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1838",
+            "target": "1763",
+            "label": "施設利用者"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1843",
+            "target": "1763",
+            "label": "施設利用者"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1850",
+            "target": "1637",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1805",
+            "target": "1784",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1806",
+            "target": "1784",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1807",
+            "target": "1784",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1808",
+            "target": "1736",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1809",
+            "target": "1761",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1812",
+            "target": "1634",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1813",
+            "target": "1634",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1817",
+            "target": "1728",
+            "label": "同居家族"
+        }
     }
 
 ]
 ,
-"lastUpdate":"2021/5/23 23:28"}
+"lastUpdate":"2021/5/25 01:02"}
