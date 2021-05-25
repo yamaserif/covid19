@@ -18781,6 +18781,168 @@
             "label": "1902例目\n2021/5/24\n山形市\n50代 男性"
         },
         "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1889,
+            "date": "2021/5/24",
+            "label": "1889例目\n2021/5/24\n上山市\n20代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1890,
+            "date": "2021/5/24",
+            "label": "1890例目\n2021/5/24\n上山市\n80代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1891,
+            "date": "2021/5/24",
+            "label": "1891例目\n2021/5/24\n上山市\n60代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1892,
+            "date": "2021/5/24",
+            "label": "1892例目\n2021/5/24\n米沢市\n40代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1893,
+            "date": "2021/5/24",
+            "label": "1893例目\n2021/5/24\n長井市\n50代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1894,
+            "date": "2021/5/24",
+            "label": "1894例目\n2021/5/24\n南陽市\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1895,
+            "date": "2021/5/24",
+            "label": "1895例目\n2021/5/24\n南陽市\n20代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1896,
+            "date": "2021/5/24",
+            "label": "1896例目\n2021/5/24\n南陽市\n60代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1897,
+            "date": "2021/5/24",
+            "label": "1897例目\n2021/5/24\n川西町\n60代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1898,
+            "date": "2021/5/24",
+            "label": "1898例目\n2021/5/24\n川西町\n60代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1899,
+            "date": "2021/5/24",
+            "label": "1899例目\n2021/5/24\n川西町\n40代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1900,
+            "date": "2021/5/24",
+            "label": "1900例目\n2021/5/24\n飯豊町\n50代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1901,
+            "date": "2021/5/24",
+            "label": "1901例目\n2021/5/24\n鶴岡市\n40代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1908,
+            "date": "2021/5/25",
+            "label": "1908例目\n2021/5/25\n山形市\n20代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1909,
+            "date": "2021/5/25",
+            "label": "1909例目\n2021/5/25\n山形市\n50代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1910,
+            "date": "2021/5/25",
+            "label": "1910例目\n2021/5/25\n山形市\n20代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1911,
+            "date": "2021/5/25",
+            "label": "1911例目\n2021/5/25\n山形市\n20代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1912,
+            "date": "2021/5/25",
+            "label": "1912例目\n2021/5/25\n山形市\n20代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
     }
 
 ]
@@ -31577,8 +31739,128 @@
             "target": "1728",
             "label": "同居家族"
         }
+    },
+
+    {
+        "data": {
+            "source": "1889",
+            "target": "1763",
+            "label": "接触者"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1890",
+            "target": "1829",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1891",
+            "target": "1829",
+            "label": "知人"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1892",
+            "target": "1840",
+            "label": "知人"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1893",
+            "target": "1833",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1894",
+            "target": "1790",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1896",
+            "target": "1883",
+            "label": "施設利用者"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1897",
+            "target": "1883",
+            "label": "施設利用者"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1898",
+            "target": "1883",
+            "label": "施設利用者"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1899",
+            "target": "1883",
+            "label": "施設利用者"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1900",
+            "target": "1883",
+            "label": "施設利用者"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1901",
+            "target": "1763",
+            "label": "施設利用者"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1908",
+            "target": "1888",
+            "label": "知人"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1909",
+            "target": "1902",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1910",
+            "target": "1902",
+            "label": "同居家族"
+        }
     }
 
 ]
 ,
-"lastUpdate":"2021/5/25 01:02"}
+"lastUpdate":"2021/5/26 01:25"}
