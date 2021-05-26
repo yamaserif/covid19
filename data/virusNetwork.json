@@ -18943,6 +18943,60 @@
             "label": "1912例目\n2021/5/25\n山形市\n20代 女性"
         },
         "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1903,
+            "date": "2021/5/25",
+            "label": "1903例目\n2021/5/25\n上山市\n30代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1904,
+            "date": "2021/5/25",
+            "label": "1904例目\n2021/5/25\n天童市\n40代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1905,
+            "date": "2021/5/25",
+            "label": "1905例目\n2021/5/25\n南陽市\n60代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1906,
+            "date": "2021/5/25",
+            "label": "1906例目\n2021/5/25\n南陽市\n60代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1907,
+            "date": "2021/5/25",
+            "label": "1907例目\n2021/5/25\n高畠町\n70代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1927,
+            "date": "2021/5/26",
+            "label": "1927例目\n2021/5/26\n山形市\n70代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
     }
 
 ]
@@ -31859,8 +31913,40 @@
             "target": "1902",
             "label": "同居家族"
         }
+    },
+
+    {
+        "data": {
+            "source": "1903",
+            "target": "1860",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1905",
+            "target": "1876",
+            "label": "親族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1906",
+            "target": "1876",
+            "label": "親族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1907",
+            "target": "1879",
+            "label": "同居家族"
+        }
     }
 
 ]
 ,
-"lastUpdate":"2021/5/26 01:25"}
+"lastUpdate":"2021/5/27 01:03"}
