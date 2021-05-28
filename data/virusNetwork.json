@@ -19150,6 +19150,87 @@
             "label": "1938例目\n2021/5/27\n山形市\n90歳以上 男性"
         },
         "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1928,
+            "date": "2021/5/27",
+            "label": "1928例目\n2021/5/27\n南陽市\n80代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1929,
+            "date": "2021/5/27",
+            "label": "1929例目\n2021/5/27\n南陽市\n70代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1930,
+            "date": "2021/5/27",
+            "label": "1930例目\n2021/5/27\n南陽市\n50代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1931,
+            "date": "2021/5/27",
+            "label": "1931例目\n2021/5/27\n南陽市\n20代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1932,
+            "date": "2021/5/27",
+            "label": "1932例目\n2021/5/27\n南陽市\n40代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1933,
+            "date": "2021/5/27",
+            "label": "1933例目\n2021/5/27\n高畠町\n30代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1934,
+            "date": "2021/5/27",
+            "label": "1934例目\n2021/5/27\n高畠町\n60代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1935,
+            "date": "2021/5/27",
+            "label": "1935例目\n2021/5/27\n川西町\n60代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1946,
+            "date": "2021/5/28",
+            "label": "1946例目\n2021/5/28\n山形市\n30代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
     }
 
 ]
@@ -32178,8 +32259,40 @@
             "target": "1891",
             "label": "関連"
         }
+    },
+
+    {
+        "data": {
+            "source": "1929",
+            "target": "1928",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1930",
+            "target": "1928",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1931",
+            "target": "1928",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1935",
+            "target": "1924",
+            "label": "同居家族"
+        }
     }
 
 ]
 ,
-"lastUpdate":"2021/5/28 01:09"}
+"lastUpdate":"2021/5/29 02:49"}
