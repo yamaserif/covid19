@@ -19231,6 +19231,69 @@
             "label": "1946例目\n2021/5/28\n山形市\n30代 女性"
         },
         "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1948,
+            "date": "2021/5/29",
+            "label": "1948例目\n2021/5/29\n山形市\n40代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1949,
+            "date": "2021/5/29",
+            "label": "1949例目\n2021/5/29\n山形市\n30代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1950,
+            "date": "2021/5/29",
+            "label": "1950例目\n2021/5/29\n山形市\n幼児 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1951,
+            "date": "2021/5/29",
+            "label": "1951例目\n2021/5/29\n山形市\n幼児 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1952,
+            "date": "2021/5/29",
+            "label": "1952例目\n2021/5/29\n山形市\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1953,
+            "date": "2021/5/29",
+            "label": "1953例目\n2021/5/29\n山形市\n70代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1954,
+            "date": "2021/5/29",
+            "label": "1954例目\n2021/5/29\n山形市\n50代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
     }
 
 ]
@@ -32291,8 +32354,56 @@
             "target": "1924",
             "label": "同居家族"
         }
+    },
+
+    {
+        "data": {
+            "source": "1948",
+            "target": "1912",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1949",
+            "target": "1946",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1950",
+            "target": "1946",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1951",
+            "target": "1946",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1952",
+            "target": "1924",
+            "label": "関連"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1953",
+            "target": "1952",
+            "label": "同居家族"
+        }
     }
 
 ]
 ,
-"lastUpdate":"2021/5/29 02:49"}
+"lastUpdate":"2021/5/30 01:15"}
