@@ -19294,6 +19294,159 @@
             "label": "1954例目\n2021/5/29\n山形市\n50代 女性"
         },
         "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1947,
+            "date": "2021/5/29",
+            "label": "1947例目\n2021/5/29\n南陽市\n80代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1939,
+            "date": "2021/5/28",
+            "label": "1939例目\n2021/5/28\n寒河江市\n30代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1940,
+            "date": "2021/5/28",
+            "label": "1940例目\n2021/5/28\n米沢市\n40代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1941,
+            "date": "2021/5/28",
+            "label": "1941例目\n2021/5/28\n南陽市\n60代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1942,
+            "date": "2021/5/28",
+            "label": "1942例目\n2021/5/28\n南陽市\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1943,
+            "date": "2021/5/28",
+            "label": "1943例目\n2021/5/28\n南陽市\n高校生 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1944,
+            "date": "2021/5/28",
+            "label": "1944例目\n2021/5/28\n高畠町\n60代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1945,
+            "date": "2021/5/28",
+            "label": "1945例目\n2021/5/28\n高畠町\n60代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1967,
+            "date": "2021/5/31",
+            "label": "1967例目\n2021/5/31\n山形市\n70代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1955,
+            "date": "2021/5/30",
+            "label": "1955例目\n2021/5/30\n天童市\n20代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1956,
+            "date": "2021/5/30",
+            "label": "1956例目\n2021/5/30\n長井市\n60代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1957,
+            "date": "2021/5/30",
+            "label": "1957例目\n2021/5/30\n南陽市\n50代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1958,
+            "date": "2021/5/30",
+            "label": "1958例目\n2021/5/30\n南陽市\n50代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1959,
+            "date": "2021/5/30",
+            "label": "1959例目\n2021/5/30\n高畠町\n20代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1960,
+            "date": "2021/5/30",
+            "label": "1960例目\n2021/5/30\n川西町\n70代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1961,
+            "date": "2021/5/30",
+            "label": "1961例目\n2021/5/30\n長井市\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1962,
+            "date": "2021/5/30",
+            "label": "1962例目\n2021/5/30\n飯豊町\n高校生 女性"
+        },
+        "classes": ["multiline-manual", "female"]
     }
 
 ]
@@ -32402,8 +32555,88 @@
             "target": "1952",
             "label": "同居家族"
         }
+    },
+
+    {
+        "data": {
+            "source": "1947",
+            "target": "1923",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1939",
+            "target": "1913",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1940",
+            "target": "1725",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1941",
+            "target": "1839",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1942",
+            "target": "1932",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1944",
+            "target": "1693",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1945",
+            "target": "1924",
+            "label": "同僚"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1957",
+            "target": "1930",
+            "label": "知人"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1959",
+            "target": "1693",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1960",
+            "target": "1900",
+            "label": "知人"
+        }
     }
 
 ]
 ,
-"lastUpdate":"2021/5/30 01:15"}
+"lastUpdate":"2021/6/1 00:53"}
