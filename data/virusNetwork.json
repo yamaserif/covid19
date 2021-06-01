@@ -19447,6 +19447,42 @@
             "label": "1962例目\n2021/5/30\n飯豊町\n高校生 女性"
         },
         "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1963,
+            "date": "2021/5/31",
+            "label": "1963例目\n2021/5/31\n天童市\n小学生 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1964,
+            "date": "2021/5/31",
+            "label": "1964例目\n2021/5/31\n天童市\n幼児 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1965,
+            "date": "2021/5/31",
+            "label": "1965例目\n2021/5/31\n白鷹町\n30代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1966,
+            "date": "2021/5/31",
+            "label": "1966例目\n2021/5/31\n鶴岡市\n20代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
     }
 
 ]
@@ -32635,8 +32671,24 @@
             "target": "1900",
             "label": "知人"
         }
+    },
+
+    {
+        "data": {
+            "source": "1963",
+            "target": "1955",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1964",
+            "target": "1955",
+            "label": "同居家族"
+        }
     }
 
 ]
 ,
-"lastUpdate":"2021/6/1 00:53"}
+"lastUpdate":"2021/6/2 01:24"}
