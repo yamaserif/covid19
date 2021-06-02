@@ -19483,6 +19483,60 @@
             "label": "1966例目\n2021/5/31\n鶴岡市\n20代 男性"
         },
         "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1975,
+            "date": "2021/6/2",
+            "label": "1975例目\n2021/6/2\n山形市\n40代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1976,
+            "date": "2021/6/2",
+            "label": "1976例目\n2021/6/2\n山形市\n70代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1977,
+            "date": "2021/6/2",
+            "label": "1977例目\n2021/6/2\n山形市\n20代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1968,
+            "date": "2021/6/1",
+            "label": "1968例目\n2021/6/1\n長井市\n20代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1969,
+            "date": "2021/6/1",
+            "label": "1969例目\n2021/6/1\n南陽市\n60代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1970,
+            "date": "2021/6/1",
+            "label": "1970例目\n2021/6/1\n南陽市\n50代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
     }
 
 ]
@@ -32687,8 +32741,40 @@
             "target": "1955",
             "label": "同居家族"
         }
+    },
+
+    {
+        "data": {
+            "source": "1975",
+            "target": "1902",
+            "label": "職場関係者"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1968",
+            "target": "1956",
+            "label": "同僚"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1969",
+            "target": "1956",
+            "label": "同僚"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1970",
+            "target": "1841",
+            "label": "同居家族"
+        }
     }
 
 ]
 ,
-"lastUpdate":"2021/6/2 01:24"}
+"lastUpdate":"2021/6/3 01:39"}
