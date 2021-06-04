@@ -19591,6 +19591,78 @@
             "label": "1983例目\n2021/6/3\n山形市\n10代 男性"
         },
         "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1978,
+            "date": "2021/6/3",
+            "label": "1978例目\n2021/6/3\n米沢市\n30代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1979,
+            "date": "2021/6/3",
+            "label": "1979例目\n2021/6/3\n南陽市\n60代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1980,
+            "date": "2021/6/3",
+            "label": "1980例目\n2021/6/3\n南陽市\n70代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1981,
+            "date": "2021/6/3",
+            "label": "1981例目\n2021/6/3\n南陽市\n70代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1984,
+            "date": "2021/6/3",
+            "label": "1984例目\n2021/6/3\n南陽市\n小学生 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1987,
+            "date": "2021/6/4",
+            "label": "1987例目\n2021/6/4\n山形市\n中学生 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1988,
+            "date": "2021/6/4",
+            "label": "1988例目\n2021/6/4\n山形市\n小学生 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1989,
+            "date": "2021/6/4",
+            "label": "1989例目\n2021/6/4\n山形市\n30代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
     }
 
 ]
@@ -32859,8 +32931,56 @@
             "target": "1957",
             "label": "同居家族"
         }
+    },
+
+    {
+        "data": {
+            "source": "1979",
+            "target": "1972",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1981",
+            "target": "1980",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1984",
+            "target": "1815",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1987",
+            "target": "1982",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1988",
+            "target": "1982",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1989",
+            "target": "1978",
+            "label": "職場関係者"
+        }
     }
 
 ]
 ,
-"lastUpdate":"2021/6/4 00:58"}
+"lastUpdate":"2021/6/5 02:52"}
