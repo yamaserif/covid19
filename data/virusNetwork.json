@@ -19663,6 +19663,15 @@
             "label": "1989例目\n2021/6/4\n山形市\n30代 男性"
         },
         "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1996,
+            "date": "2021/6/5",
+            "label": "1996例目\n2021/6/5\n山形市\n30代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
     }
 
 ]
@@ -32979,8 +32988,16 @@
             "target": "1978",
             "label": "職場関係者"
         }
+    },
+
+    {
+        "data": {
+            "source": "1996",
+            "target": "1977",
+            "label": "職場関係者"
+        }
     }
 
 ]
 ,
-"lastUpdate":"2021/6/5 02:52"}
+"lastUpdate":"2021/6/5 22:26"}
