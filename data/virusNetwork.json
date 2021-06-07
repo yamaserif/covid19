@@ -19699,6 +19699,132 @@
             "label": "2004例目\n2021/6/6\n山形市\n40代 女性"
         },
         "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1997,
+            "date": "2021/6/6",
+            "label": "1997例目\n2021/6/6\n高畠町\n60代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1998,
+            "date": "2021/6/6",
+            "label": "1998例目\n2021/6/6\n酒田市\n30代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1999,
+            "date": "2021/6/6",
+            "label": "1999例目\n2021/6/6\n酒田市\n30代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 2000,
+            "date": "2021/6/6",
+            "label": "2000例目\n2021/6/6\n酒田市\n乳児 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 2001,
+            "date": "2021/6/6",
+            "label": "2001例目\n2021/6/6\n酒田市\n50代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1990,
+            "date": "2021/6/5",
+            "label": "1990例目\n2021/6/5\n南陽市\n30代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1991,
+            "date": "2021/6/5",
+            "label": "1991例目\n2021/6/5\n南陽市\n70代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1992,
+            "date": "2021/6/5",
+            "label": "1992例目\n2021/6/5\n南陽市\n50代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1993,
+            "date": "2021/6/5",
+            "label": "1993例目\n2021/6/5\n川西町\n50代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1994,
+            "date": "2021/6/5",
+            "label": "1994例目\n2021/6/5\n川西町\n70代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1995,
+            "date": "2021/6/5",
+            "label": "1995例目\n2021/6/5\n川西町\n60代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 1985,
+            "date": "2021/6/4",
+            "label": "1985例目\n2021/6/4\n南陽市\n70代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 1986,
+            "date": "2021/6/4",
+            "label": "1986例目\n2021/6/4\n南陽市\n50代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 2005,
+            "date": "2021/6/7",
+            "label": "2005例目\n2021/6/7\n山形市\n50代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
     }
 
 ]
@@ -33031,8 +33157,80 @@
             "target": "1989",
             "label": "同居家族"
         }
+    },
+
+    {
+        "data": {
+            "source": "1999",
+            "target": "1998",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "2000",
+            "target": "1998",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "2001",
+            "target": "1998",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1990",
+            "target": "1978",
+            "label": "同僚"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1991",
+            "target": "1985",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1992",
+            "target": "1985",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1994",
+            "target": "1993",
+            "label": "同僚"
+        }
+    },
+
+    {
+        "data": {
+            "source": "1995",
+            "target": "1993",
+            "label": "同僚"
+        }
+    },
+
+    {
+        "data": {
+            "source": "2005",
+            "target": "2004",
+            "label": "同居家族"
+        }
     }
 
 ]
 ,
-"lastUpdate":"2021/6/6 23:35"}
+"lastUpdate":"2021/6/8 01:17"}
