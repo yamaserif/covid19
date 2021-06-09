@@ -19825,6 +19825,15 @@
             "label": "2005例目\n2021/6/7\n山形市\n50代 男性"
         },
         "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 2006,
+            "date": "2021/6/8",
+            "label": "2006例目\n2021/6/8\n上山市\n30代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
     }
 
 ]
@@ -33229,8 +33238,16 @@
             "target": "2004",
             "label": "同居家族"
         }
+    },
+
+    {
+        "data": {
+            "source": "2006",
+            "target": "2005",
+            "label": "同僚"
+        }
     }
 
 ]
 ,
-"lastUpdate":"2021/6/8 01:17"}
+"lastUpdate":"2021/6/10 00:44"}
