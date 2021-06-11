@@ -19834,6 +19834,33 @@
             "label": "2006例目\n2021/6/8\n上山市\n30代 女性"
         },
         "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 2007,
+            "date": "2021/6/10",
+            "label": "2007例目\n2021/6/10\n長井市\n60代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 2008,
+            "date": "2021/6/10",
+            "label": "2008例目\n2021/6/10\n長井市\n50代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 2009,
+            "date": "2021/6/10",
+            "label": "2009例目\n2021/6/10\n長井市\n幼児 女性"
+        },
+        "classes": ["multiline-manual", "female"]
     }
 
 ]
@@ -33246,8 +33273,32 @@
             "target": "2005",
             "label": "同僚"
         }
+    },
+
+    {
+        "data": {
+            "source": "2007",
+            "target": "1968",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "2008",
+            "target": "1968",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "2009",
+            "target": "1968",
+            "label": "同居家族"
+        }
     }
 
 ]
 ,
-"lastUpdate":"2021/6/10 00:44"}
+"lastUpdate":"2021/6/12 00:40"}
