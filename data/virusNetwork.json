@@ -19861,6 +19861,24 @@
             "label": "2009例目\n2021/6/10\n長井市\n幼児 女性"
         },
         "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 2012,
+            "date": "2021/6/12",
+            "label": "2012例目\n2021/6/12\n山形市\n30代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 2013,
+            "date": "2021/6/12",
+            "label": "2013例目\n2021/6/12\n山形市\n乳児 女性"
+        },
+        "classes": ["multiline-manual", "female"]
     }
 
 ]
@@ -33297,8 +33315,16 @@
             "target": "1968",
             "label": "同居家族"
         }
+    },
+
+    {
+        "data": {
+            "source": "2013",
+            "target": "2012",
+            "label": "同居家族"
+        }
     }
 
 ]
 ,
-"lastUpdate":"2021/6/12 00:40"}
+"lastUpdate":"2021/6/13 01:56"}
