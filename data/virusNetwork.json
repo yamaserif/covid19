@@ -19879,6 +19879,24 @@
             "label": "2013例目\n2021/6/12\n山形市\n乳児 女性"
         },
         "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 2014,
+            "date": "2021/6/13",
+            "label": "2014例目\n2021/6/13\n山形市\n10代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 2015,
+            "date": "2021/6/13",
+            "label": "2015例目\n2021/6/13\n山形市\n30代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
     }
 
 ]
@@ -33323,8 +33341,16 @@
             "target": "2012",
             "label": "同居家族"
         }
+    },
+
+    {
+        "data": {
+            "source": "2015",
+            "target": "2014",
+            "label": "学校関係者"
+        }
     }
 
 ]
 ,
-"lastUpdate":"2021/6/13 01:56"}
+"lastUpdate":"2021/6/14 00:29"}
