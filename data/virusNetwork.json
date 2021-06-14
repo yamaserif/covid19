@@ -19897,6 +19897,33 @@
             "label": "2015例目\n2021/6/13\n山形市\n30代 男性"
         },
         "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 2010,
+            "date": "2021/6/11",
+            "label": "2010例目\n2021/6/11\n県外\n50代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 2011,
+            "date": "2021/6/12",
+            "label": "2011例目\n2021/6/12\n南陽市\n60代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 2017,
+            "date": "2021/6/14",
+            "label": "2017例目\n2021/6/14\n山形市\n10代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
     }
 
 ]
@@ -33349,8 +33376,16 @@
             "target": "2014",
             "label": "学校関係者"
         }
+    },
+
+    {
+        "data": {
+            "source": "2017",
+            "target": "2015",
+            "label": "学校関係者"
+        }
     }
 
 ]
 ,
-"lastUpdate":"2021/6/14 00:29"}
+"lastUpdate":"2021/6/15 00:47"}
