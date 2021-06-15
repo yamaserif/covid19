@@ -19924,6 +19924,15 @@
             "label": "2017例目\n2021/6/14\n山形市\n10代 男性"
         },
         "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 2016,
+            "date": "2021/6/14",
+            "label": "2016例目\n2021/6/14\n長井市\n50代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
     }
 
 ]
@@ -33388,4 +33397,4 @@
 
 ]
 ,
-"lastUpdate":"2021/6/15 00:47"}
+"lastUpdate":"2021/6/16 00:23"}
