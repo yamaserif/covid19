@@ -19933,6 +19933,51 @@
             "label": "2016例目\n2021/6/14\n長井市\n50代 男性"
         },
         "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 2018,
+            "date": "2021/6/15",
+            "label": "2018例目\n2021/6/15\n飯豊町\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 2020,
+            "date": "2021/6/16",
+            "label": "2020例目\n2021/6/16\n山形市\n70代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 2021,
+            "date": "2021/6/16",
+            "label": "2021例目\n2021/6/16\n山形市\n60代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 2022,
+            "date": "2021/6/16",
+            "label": "2022例目\n2021/6/16\n山形市\n90代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 2023,
+            "date": "2021/6/16",
+            "label": "2023例目\n2021/6/16\n山形市\n90代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
     }
 
 ]
@@ -33393,8 +33438,40 @@
             "target": "2015",
             "label": "学校関係者"
         }
+    },
+
+    {
+        "data": {
+            "source": "2018",
+            "target": "2016",
+            "label": "知人"
+        }
+    },
+
+    {
+        "data": {
+            "source": "2020",
+            "target": "1976",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "2022",
+            "target": "2021",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "2023",
+            "target": "2021",
+            "label": "同居家族"
+        }
     }
 
 ]
 ,
-"lastUpdate":"2021/6/16 00:23"}
+"lastUpdate":"2021/6/16 23:24"}
