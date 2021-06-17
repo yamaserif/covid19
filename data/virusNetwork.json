@@ -19978,6 +19978,15 @@
             "label": "2023例目\n2021/6/16\n山形市\n90代 女性"
         },
         "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 2019,
+            "date": "2021/6/16",
+            "label": "2019例目\n2021/6/16\n高畠町\n60代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
     }
 
 ]
@@ -33470,8 +33479,16 @@
             "target": "2021",
             "label": "同居家族"
         }
+    },
+
+    {
+        "data": {
+            "source": "2019",
+            "target": "2011",
+            "label": "知人"
+        }
     }
 
 ]
 ,
-"lastUpdate":"2021/6/16 23:24"}
+"lastUpdate":"2021/6/18 00:19"}
