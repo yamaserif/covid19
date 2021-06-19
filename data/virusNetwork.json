@@ -19987,6 +19987,24 @@
             "label": "2019例目\n2021/6/16\n高畠町\n60代 男性"
         },
         "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 2025,
+            "date": "2021/6/19",
+            "label": "2025例目\n2021/6/19\n山形市\n80代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 2026,
+            "date": "2021/6/19",
+            "label": "2026例目\n2021/6/19\n山形市\n60代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
     }
 
 ]
@@ -33487,8 +33505,16 @@
             "target": "2011",
             "label": "知人"
         }
+    },
+
+    {
+        "data": {
+            "source": "2026",
+            "target": "2025",
+            "label": "同居家族"
+        }
     }
 
 ]
 ,
-"lastUpdate":"2021/6/18 00:19"}
+"lastUpdate":"2021/6/20 01:39"}
