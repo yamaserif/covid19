@@ -20014,6 +20014,15 @@
             "label": "2024例目\n2021/6/19\n天童市\n40代 男性"
         },
         "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 2028,
+            "date": "2021/7/2",
+            "label": "2028例目\n2021/7/2\n山形市\n30代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
     }
 
 ]
@@ -33526,4 +33535,4 @@
 
 ]
 ,
-"lastUpdate":"2021/7/2 01:22"}
+"lastUpdate":"2021/7/3 03:46"}
