@@ -20068,6 +20068,24 @@
             "label": "2034例目\n2021/7/4\n山形市\n20代 女性"
         },
         "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 2027,
+            "date": "2021/7/2",
+            "label": "2027例目\n2021/7/2\n天童市\n20代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 2029,
+            "date": "2021/7/3",
+            "label": "2029例目\n2021/7/3\n天童市\n20代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
     }
 
 ]
@@ -33600,8 +33618,16 @@
             "target": "2028",
             "label": "関連"
         }
+    },
+
+    {
+        "data": {
+            "source": "2029",
+            "target": "2027",
+            "label": "同居家族"
+        }
     }
 
 ]
 ,
-"lastUpdate":"2021/7/5 00:27"}
+"lastUpdate":"2021/7/6 01:01"}
