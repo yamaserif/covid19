@@ -20086,6 +20086,42 @@
             "label": "2029例目\n2021/7/3\n天童市\n20代 女性"
         },
         "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 2035,
+            "date": "2021/7/7",
+            "label": "2035例目\n2021/7/7\n大江町\n20代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 2036,
+            "date": "2021/7/7",
+            "label": "2036例目\n2021/7/7\n県外\n20代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 2037,
+            "date": "2021/7/8",
+            "label": "2037例目\n2021/7/8\n山形市\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 2038,
+            "date": "2021/7/8",
+            "label": "2038例目\n2021/7/8\n山形市\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
     }
 
 ]
@@ -33626,8 +33662,16 @@
             "target": "2027",
             "label": "同居家族"
         }
+    },
+
+    {
+        "data": {
+            "source": "2038",
+            "target": "2037",
+            "label": "職場関係者"
+        }
     }
 
 ]
 ,
-"lastUpdate":"2021/7/8 1:27"}
+"lastUpdate":"2021/7/9 02:21"}
