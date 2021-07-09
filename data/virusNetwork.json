@@ -20122,6 +20122,96 @@
             "label": "2038例目\n2021/7/8\n山形市\n40代 女性"
         },
         "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 2041,
+            "date": "2021/7/9",
+            "label": "2041例目\n2021/7/9\n山形市\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 2042,
+            "date": "2021/7/9",
+            "label": "2042例目\n2021/7/9\n山形市\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 2043,
+            "date": "2021/7/9",
+            "label": "2043例目\n2021/7/9\n山形市\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 2044,
+            "date": "2021/7/9",
+            "label": "2044例目\n2021/7/9\n山形市\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 2045,
+            "date": "2021/7/9",
+            "label": "2045例目\n2021/7/9\n山形市\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 2046,
+            "date": "2021/7/9",
+            "label": "2046例目\n2021/7/9\n山形市\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 2047,
+            "date": "2021/7/9",
+            "label": "2047例目\n2021/7/9\n山形市\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 2048,
+            "date": "2021/7/9",
+            "label": "2048例目\n2021/7/9\n山形市\n70代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 2049,
+            "date": "2021/7/9",
+            "label": "2049例目\n2021/7/9\n山形市\n50代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 2050,
+            "date": "2021/7/9",
+            "label": "2050例目\n2021/7/9\n山形市\n10代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
     }
 
 ]
@@ -33670,8 +33760,72 @@
             "target": "2037",
             "label": "職場関係者"
         }
+    },
+
+    {
+        "data": {
+            "source": "2041",
+            "target": "2037",
+            "label": "職場関係者"
+        }
+    },
+
+    {
+        "data": {
+            "source": "2042",
+            "target": "2037",
+            "label": "職場関係者"
+        }
+    },
+
+    {
+        "data": {
+            "source": "2043",
+            "target": "2037",
+            "label": "職場関係者"
+        }
+    },
+
+    {
+        "data": {
+            "source": "2044",
+            "target": "2038",
+            "label": "友人"
+        }
+    },
+
+    {
+        "data": {
+            "source": "2045",
+            "target": "2037",
+            "label": "職場関係者"
+        }
+    },
+
+    {
+        "data": {
+            "source": "2046",
+            "target": "2037",
+            "label": "職場関係者"
+        }
+    },
+
+    {
+        "data": {
+            "source": "2047",
+            "target": "2037",
+            "label": "職場関係者"
+        }
+    },
+
+    {
+        "data": {
+            "source": "2048",
+            "target": "2037",
+            "label": "職場関係者"
+        }
     }
 
 ]
 ,
-"lastUpdate":"2021/7/9 02:21"}
+"lastUpdate":"2021/7/10 03:11"}
