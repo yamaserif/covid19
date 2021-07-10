@@ -20212,6 +20212,60 @@
             "label": "2050例目\n2021/7/9\n山形市\n10代 男性"
         },
         "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 2058,
+            "date": "2021/7/10",
+            "label": "2058例目\n2021/7/10\n山形市\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 2059,
+            "date": "2021/7/10",
+            "label": "2059例目\n2021/7/10\n山形市\n中学生 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 2060,
+            "date": "2021/7/10",
+            "label": "2060例目\n2021/7/10\n山形市\n小学生 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 2061,
+            "date": "2021/7/10",
+            "label": "2061例目\n2021/7/10\n山形市\n小学生 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 2062,
+            "date": "2021/7/10",
+            "label": "2062例目\n2021/7/10\n山形市\n小学生 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 2063,
+            "date": "2021/7/10",
+            "label": "2063例目\n2021/7/10\n山形市\n40代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
     }
 
 ]
@@ -33824,8 +33878,48 @@
             "target": "2037",
             "label": "職場関係者"
         }
+    },
+
+    {
+        "data": {
+            "source": "2058",
+            "target": "2039",
+            "label": "関連"
+        }
+    },
+
+    {
+        "data": {
+            "source": "2059",
+            "target": "2058",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "2060",
+            "target": "2058",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "2061",
+            "target": "2058",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "2062",
+            "target": "2039",
+            "label": "関連"
+        }
     }
 
 ]
 ,
-"lastUpdate":"2021/7/10 03:11"}
+"lastUpdate":"2021/7/11 01:42"}
