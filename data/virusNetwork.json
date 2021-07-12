@@ -20270,6 +20270,24 @@
 
     {
         "data": {
+            "id": 2039,
+            "date": "2021/7/9",
+            "label": "2039例目\n2021/7/9\n小国町\n50代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 2040,
+            "date": "2021/7/9",
+            "label": "2040例目\n2021/7/9\n県外\n20代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
             "id": 2066,
             "date": "2021/7/11",
             "label": "2066例目\n2021/7/11\n山形市 \n小学生 女性"
@@ -20282,6 +20300,24 @@
             "id": 2067,
             "date": "2021/7/11",
             "label": "2067例目\n2021/7/11\n山形市 \n20代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 2072,
+            "date": "2021/7/12",
+            "label": "2072例目\n2021/7/12\n山形市\n70代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 2073,
+            "date": "2021/7/12",
+            "label": "2073例目\n2021/7/12\n山形市\n40代 男性"
         },
         "classes": ["multiline-manual", "male"]
     }
@@ -33936,8 +33972,24 @@
             "target": "2039",
             "label": "関連"
         }
+    },
+
+    {
+        "data": {
+            "source": "2066",
+            "target": "2039",
+            "label": "関連"
+        }
+    },
+
+    {
+        "data": {
+            "source": "2072",
+            "target": "2058",
+            "label": "親族"
+        }
     }
 
 ]
 ,
-"lastUpdate":"2021/7/12 01:08"}
+"lastUpdate":"2021/7/13 00:36"}
