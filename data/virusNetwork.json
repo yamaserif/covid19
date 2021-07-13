@@ -20320,6 +20320,33 @@
             "label": "2073例目\n2021/7/12\n山形市\n40代 男性"
         },
         "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 2074,
+            "date": "2021/7/13",
+            "label": "2074例目\n2021/7/13\n山形市\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 2075,
+            "date": "2021/7/13",
+            "label": "2075例目\n2021/7/13\n山形市\n40代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 2076,
+            "date": "2021/7/13",
+            "label": "2076例目\n2021/7/13\n山形市\n高校生 男性"
+        },
+        "classes": ["multiline-manual", "male"]
     }
 
 ]
@@ -33988,8 +34015,24 @@
             "target": "2058",
             "label": "親族"
         }
+    },
+
+    {
+        "data": {
+            "source": "2074",
+            "target": "2073",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "2075",
+            "target": "2068",
+            "label": "職場関係者"
+        }
     }
 
 ]
 ,
-"lastUpdate":"2021/7/13 00:36"}
+"lastUpdate":"2021/7/14 00:57"}
