@@ -20401,6 +20401,15 @@
             "label": "2087例目\n2021/7/16\n山形市\n20代 女性"
         },
         "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 2090,
+            "date": "2021/7/17",
+            "label": "2090例目\n2021/7/17\n山形市\n20代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
     }
 
 ]
@@ -34105,4 +34114,4 @@
 
 ]
 ,
-"lastUpdate":"2021/7/17 03:43"}
+"lastUpdate":"2021/7/17 21:54"}
