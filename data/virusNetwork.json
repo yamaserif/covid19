@@ -20410,6 +20410,186 @@
             "label": "2090例目\n2021/7/17\n山形市\n20代 女性"
         },
         "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 2051,
+            "date": "2021/7/10",
+            "label": "2051例目\n2021/7/10\n寒河江市\n20代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 2052,
+            "date": "2021/7/10",
+            "label": "2052例目\n2021/7/10\n山辺町\n40代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 2053,
+            "date": "2021/7/10",
+            "label": "2053例目\n2021/7/10\n山辺町\n40代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 2054,
+            "date": "2021/7/10",
+            "label": "2054例目\n2021/7/10\n高畠町\n中学生 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 2055,
+            "date": "2021/7/10",
+            "label": "2055例目\n2021/7/10\n高畠町\n小学生 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 2056,
+            "date": "2021/7/10",
+            "label": "2056例目\n2021/7/10\n小国町\n60代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 2057,
+            "date": "2021/7/10",
+            "label": "2057例目\n2021/7/10\n県外\n40代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 2064,
+            "date": "2021/7/11",
+            "label": "2064例目\n2021/7/11\n寒河江市\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 2065,
+            "date": "2021/7/11",
+            "label": "2065例目\n2021/7/11\n寒河江市\n40代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 2068,
+            "date": "2021/7/12",
+            "label": "2068例目\n2021/7/12\n寒河江市\n60代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 2069,
+            "date": "2021/7/12",
+            "label": "2069例目\n2021/7/12\n山辺町\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 2070,
+            "date": "2021/7/12",
+            "label": "2070例目\n2021/7/12\n山辺町\n高校生 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 2071,
+            "date": "2021/7/12",
+            "label": "2071例目\n2021/7/12\n山辺町\n40代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 2079,
+            "date": "2021/7/15",
+            "label": "2079例目\n2021/7/15\n村山市\n20代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 2082,
+            "date": "2021/7/16",
+            "label": "2082例目\n2021/7/16\n村山市\n40代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 2083,
+            "date": "2021/7/16",
+            "label": "2083例目\n2021/7/16\n長井市\n50代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 2084,
+            "date": "2021/7/16",
+            "label": "2084例目\n2021/7/16\n長井市\n40代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 2085,
+            "date": "2021/7/16",
+            "label": "2085例目\n2021/7/16\n県外\n40代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 2088,
+            "date": "2021/7/17",
+            "label": "2088例目\n2021/7/17\n長井市\n40代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 2089,
+            "date": "2021/7/17",
+            "label": "2089例目\n2021/7/17\n長井市\n中学生 女性"
+        },
+        "classes": ["multiline-manual", "female"]
     }
 
 ]
@@ -34110,8 +34290,120 @@
             "target": "2063",
             "label": "同居家族"
         }
+    },
+
+    {
+        "data": {
+            "source": "2051",
+            "target": "2035",
+            "label": "知人"
+        }
+    },
+
+    {
+        "data": {
+            "source": "2054",
+            "target": "2039",
+            "label": "知人"
+        }
+    },
+
+    {
+        "data": {
+            "source": "2055",
+            "target": "2039",
+            "label": "知人"
+        }
+    },
+
+    {
+        "data": {
+            "source": "2056",
+            "target": "2039",
+            "label": "知人"
+        }
+    },
+
+    {
+        "data": {
+            "source": "2057",
+            "target": "2039",
+            "label": "知人"
+        }
+    },
+
+    {
+        "data": {
+            "source": "2064",
+            "target": "2063",
+            "label": "同僚"
+        }
+    },
+
+    {
+        "data": {
+            "source": "2065",
+            "target": "2063",
+            "label": "同僚"
+        }
+    },
+
+    {
+        "data": {
+            "source": "2068",
+            "target": "2037",
+            "label": "施設（飲食店）利用者"
+        }
+    },
+
+    {
+        "data": {
+            "source": "2069",
+            "target": "2052",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "2070",
+            "target": "2052",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "2071",
+            "target": "2063",
+            "label": "同僚"
+        }
+    },
+
+    {
+        "data": {
+            "source": "2082",
+            "target": "2079",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "2088",
+            "target": "2084",
+            "label": "知人"
+        }
+    },
+
+    {
+        "data": {
+            "source": "2089",
+            "target": "2084",
+            "label": "親族"
+        }
     }
 
 ]
 ,
-"lastUpdate":"2021/7/18 21:15"}
+"lastUpdate":"2021/7/20 00:35"}
