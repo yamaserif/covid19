@@ -20590,6 +20590,15 @@
             "label": "2089例目\n2021/7/17\n長井市\n中学生 女性"
         },
         "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 2091,
+            "date": "2021/7/20",
+            "label": "2091例目\n2021/7/20\n村山市\n20代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
     }
 
 ]
@@ -34402,8 +34411,16 @@
             "target": "2084",
             "label": "親族"
         }
+    },
+
+    {
+        "data": {
+            "source": "2091",
+            "target": "2079",
+            "label": "知人"
+        }
     }
 
 ]
 ,
-"lastUpdate":"2021/7/21 00:33"}
+"lastUpdate":"2021/7/22 01:48"}
