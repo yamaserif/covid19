@@ -20599,6 +20599,24 @@
             "label": "2091例目\n2021/7/20\n村山市\n20代 女性"
         },
         "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 2096,
+            "date": "2021/7/22",
+            "label": "2096例目\n2021/7/22\n山形市\n50代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 2097,
+            "date": "2021/7/22",
+            "label": "2097例目\n2021/7/22\n山形市\n50代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
     }
 
 ]
@@ -34419,8 +34437,16 @@
             "target": "2079",
             "label": "知人"
         }
+    },
+
+    {
+        "data": {
+            "source": "2097",
+            "target": "2096",
+            "label": "同居家族"
+        }
     }
 
 ]
 ,
-"lastUpdate":"2021/7/22 01:48"}
+"lastUpdate":"2021/7/23 02:36"}
