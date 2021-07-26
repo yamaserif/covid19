@@ -20626,6 +20626,42 @@
             "label": "2098例目\n2021/7/24\n県外\n20代 女性"
         },
         "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 2092,
+            "date": "2021/7/21",
+            "label": "2092例目\n2021/7/21\n寒河江市\n20代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 2093,
+            "date": "2021/7/21",
+            "label": "2093例目\n2021/7/21\n大江町\n50代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 2094,
+            "date": "2021/7/22",
+            "label": "2094例目\n2021/7/22\n酒田市\n30代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 2095,
+            "date": "2021/7/22",
+            "label": "2095例目\n2021/7/22\n庄内町\n50代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
     }
 
 ]
@@ -34454,8 +34490,32 @@
             "target": "2096",
             "label": "同居家族"
         }
+    },
+
+    {
+        "data": {
+            "source": "2093",
+            "target": "2035",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "2094",
+            "target": "2092",
+            "label": "同僚"
+        }
+    },
+
+    {
+        "data": {
+            "source": "2095",
+            "target": "2092",
+            "label": "同僚"
+        }
     }
 
 ]
 ,
-"lastUpdate":"2021/7/25 22:10"}
+"lastUpdate":"2021/7/27 00:23"}
