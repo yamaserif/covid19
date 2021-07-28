@@ -20662,6 +20662,87 @@
             "label": "2095例目\n2021/7/22\n庄内町\n50代 男性"
         },
         "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 2099,
+            "date": "2021/7/27",
+            "label": "2099例目\n2021/7/27\n寒河江市\n80代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 2100,
+            "date": "2021/7/27",
+            "label": "2100例目\n2021/7/27\n寒河江市\n20代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 2101,
+            "date": "2021/7/27",
+            "label": "2101例目\n2021/7/27\n大江町\n50代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 2102,
+            "date": "2021/7/27",
+            "label": "2102例目\n2021/7/27\n長井市\n20代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 2103,
+            "date": "2021/7/27",
+            "label": "2103例目\n2021/7/27\n酒田市\n50代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 2104,
+            "date": "2021/7/27",
+            "label": "2104例目\n2021/7/27\n東根市\n20代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 2105,
+            "date": "2021/7/28",
+            "label": "2105例目\n2021/7/28\n山形市\n幼児 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 2106,
+            "date": "2021/7/28",
+            "label": "2106例目\n2021/7/28\n山形市\n幼児 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 2107,
+            "date": "2021/7/28",
+            "label": "2107例目\n2021/7/28\n山形市\n50代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
     }
 
 ]
@@ -34514,8 +34595,24 @@
             "target": "2092",
             "label": "同僚"
         }
+    },
+
+    {
+        "data": {
+            "source": "2105",
+            "target": "2101",
+            "label": "関連"
+        }
+    },
+
+    {
+        "data": {
+            "source": "2106",
+            "target": "2101",
+            "label": "関連"
+        }
     }
 
 ]
 ,
-"lastUpdate":"2021/7/27 23:43"}
+"lastUpdate":"2021/7/29 00:38"}
