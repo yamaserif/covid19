@@ -20743,6 +20743,114 @@
             "label": "2107例目\n2021/7/28\n山形市\n50代 男性"
         },
         "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 2114,
+            "date": "2021/7/29",
+            "label": "2114例目\n2021/7/29\n山形市\n30代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 2115,
+            "date": "2021/7/29",
+            "label": "2115例目\n2021/7/29\n山形市\n幼児 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 2116,
+            "date": "2021/7/29",
+            "label": "2116例目\n2021/7/29\n山形市\n幼児 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 2117,
+            "date": "2021/7/29",
+            "label": "2117例目\n2021/7/29\n山形市\n30代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 2118,
+            "date": "2021/7/29",
+            "label": "2118例目\n2021/7/29\n山形市\n40代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 2119,
+            "date": "2021/7/29",
+            "label": "2119例目\n2021/7/29\n山形市\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 2120,
+            "date": "2021/7/29",
+            "label": "2120例目\n2021/7/29\n県外\n10代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 2121,
+            "date": "2021/7/29",
+            "label": "2121例目\n2021/7/29\n山形市\n50代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 2122,
+            "date": "2021/7/29",
+            "label": "2122例目\n2021/7/29\n山形市\n30代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 2123,
+            "date": "2021/7/29",
+            "label": "2123例目\n2021/7/29\n山形市\n30代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 2124,
+            "date": "2021/7/29",
+            "label": "2124例目\n2021/7/29\n山形市\n小学生 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 2125,
+            "date": "2021/7/29",
+            "label": "2125例目\n2021/7/29\n山形市\n幼児 男性"
+        },
+        "classes": ["multiline-manual", "male"]
     }
 
 ]
@@ -34611,8 +34719,88 @@
             "target": "2101",
             "label": "関連"
         }
+    },
+
+    {
+        "data": {
+            "source": "2114",
+            "target": "2101",
+            "label": "関連"
+        }
+    },
+
+    {
+        "data": {
+            "source": "2115",
+            "target": "2101",
+            "label": "関連"
+        }
+    },
+
+    {
+        "data": {
+            "source": "2116",
+            "target": "2101",
+            "label": "関連"
+        }
+    },
+
+    {
+        "data": {
+            "source": "2117",
+            "target": "2116",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "2118",
+            "target": "2104",
+            "label": "知人"
+        }
+    },
+
+    {
+        "data": {
+            "source": "2119",
+            "target": "2118",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "2122",
+            "target": "2121",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "2123",
+            "target": "2121",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "2124",
+            "target": "2121",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "2125",
+            "target": "2121",
+            "label": "同居家族"
+        }
     }
 
 ]
 ,
-"lastUpdate":"2021/7/29 00:38"}
+"lastUpdate":"2021/7/30 00:41"}
