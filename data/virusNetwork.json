@@ -20851,6 +20851,105 @@
             "label": "2125例目\n2021/7/29\n山形市\n幼児 男性"
         },
         "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 2108,
+            "date": "2021/7/29",
+            "label": "2108例目\n2021/7/29\n寒河江市\n50代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 2109,
+            "date": "2021/7/29",
+            "label": "2109例目\n2021/7/29\n寒河江市\n50代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 2110,
+            "date": "2021/7/29",
+            "label": "2110例目\n2021/7/29\n天童市\n30代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 2111,
+            "date": "2021/7/29",
+            "label": "2111例目\n2021/7/29\n県外\n30代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 2112,
+            "date": "2021/7/29",
+            "label": "2112例目\n2021/7/29\n天童市\n50代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 2113,
+            "date": "2021/7/29",
+            "label": "2113例目\n2021/7/29\n県外\n10代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 2128,
+            "date": "2021/7/30",
+            "label": "2128例目\n2021/7/30\n山形市\n50代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 2129,
+            "date": "2021/7/30",
+            "label": "2129例目\n2021/7/30\n山形市\n40代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 2130,
+            "date": "2021/7/30",
+            "label": "2130例目\n2021/7/30\n山形市\n小学生 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 2131,
+            "date": "2021/7/30",
+            "label": "2131例目\n2021/7/30\n山形市\n小学生 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 2132,
+            "date": "2021/7/30",
+            "label": "2132例目\n2021/7/30\n山形市\n30代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
     }
 
 ]
@@ -34799,8 +34898,40 @@
             "target": "2121",
             "label": "同居家族"
         }
+    },
+
+    {
+        "data": {
+            "source": "2108",
+            "target": "2099",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "2109",
+            "target": "2099",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "2130",
+            "target": "2129",
+            "label": "同居家族"
+        }
+    },
+
+    {
+        "data": {
+            "source": "2131",
+            "target": "2129",
+            "label": "同居家族"
+        }
     }
 
 ]
 ,
-"lastUpdate":"2021/7/30 00:41"}
+"lastUpdate":"2021/7/31 03:02"}
