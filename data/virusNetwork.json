@@ -22579,6 +22579,60 @@
             "label": "2365例目\n2021/8/8\n山形市\n20代 男性"
         },
         "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 2379,
+            "date": "2021/8/9",
+            "label": "2379例目\n2021/8/9\n山形市\n20代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 2380,
+            "date": "2021/8/9",
+            "label": "2380例目\n2021/8/9\n山形市\n中学生 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 2381,
+            "date": "2021/8/9",
+            "label": "2381例目\n2021/8/9\n山形市\n60代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 2382,
+            "date": "2021/8/9",
+            "label": "2382例目\n2021/8/9\n山形市\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+
+    {
+        "data": {
+            "id": 2383,
+            "date": "2021/8/9",
+            "label": "2383例目\n2021/8/9\n山形市\n20代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+
+    {
+        "data": {
+            "id": 2384,
+            "date": "2021/8/9",
+            "label": "2384例目\n2021/8/9\n山形市\n20代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
     }
 
 ]
@@ -37383,8 +37437,24 @@
             "target": "2364",
             "label": "友人"
         }
+    },
+
+    {
+        "data": {
+            "source": "2379",
+            "target": "2246",
+            "label": "知人"
+        }
+    },
+
+    {
+        "data": {
+            "source": "2380",
+            "target": "2322",
+            "label": "知人"
+        }
     }
 
 ]
 ,
-"lastUpdate":"2021/8/9 01:20"}
+"lastUpdate":"2021/8/9 21:45"}
