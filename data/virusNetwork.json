@@ -21597,6 +21597,14 @@
             "label": "2534例目\n2021/8/14\n山形市\n20代 女性"
         },
         "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 2554,
+            "date": "2021/8/15",
+            "label": "2554例目\n2021/8/15\n山形市\n20代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
     }
 ],
 "networkData":[    {
@@ -35432,4 +35440,4 @@
         }
     }
 ],
-"lastUpdate":"2021/8/14 20:43"}
+"lastUpdate":"2021/8/16 00:25"}
