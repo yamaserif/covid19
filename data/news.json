@@ -1,8 +1,18 @@
 {
     "newsItems": [
         {
-            "date": "2021\/8\/16",
+            "date": "2021\/8\/18",
             "url": "https:\/\/www.pref.yamagata.jp\/090016\/bosai\/kochibou\/kikikanri\/covid19\/shingata_corona16.html",
+            "text": "8月18日、本県2616～2666例目となる新型コロナウイルスの感染者が確認されました。"
+        },
+        {
+            "date": "2021\/8\/17",
+            "url": "https:\/\/www.pref.yamagata.jp\/090016\/bosai\/kochibou\/kikikanri\/covid19\/shingata_corona17.html",
+            "text": "8月17日、本県2572～2615例目となる新型コロナウイルスの感染者が確認されました。"
+        },
+        {
+            "date": "2021\/8\/16",
+            "url": "https:\/\/www.pref.yamagata.jp\/090016\/bosai\/kochibou\/kikikanri\/covid19\/shingata_corona17.html",
             "text": "8月16日、本県2555～2571例目となる新型コロナウイルスの感染者が確認されました。"
         },
         {
