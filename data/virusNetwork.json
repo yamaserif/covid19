@@ -23293,6 +23293,158 @@
             "label": "2759例目\n2021/8/20\n山形市\n20代 男性"
         },
         "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 2810,
+            "date": "2021/8/21",
+            "label": "2810例目\n2021/8/21\n山形市\n30代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 2811,
+            "date": "2021/8/21",
+            "label": "2811例目\n2021/8/21\n山形市\n幼児 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 2812,
+            "date": "2021/8/21",
+            "label": "2812例目\n2021/8/21\n山形市\n30代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 2813,
+            "date": "2021/8/21",
+            "label": "2813例目\n2021/8/21\n山形市\n30代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 2814,
+            "date": "2021/8/21",
+            "label": "2814例目\n2021/8/21\n山形市\n20代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 2815,
+            "date": "2021/8/21",
+            "label": "2815例目\n2021/8/21\n山形市\n幼児 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 2816,
+            "date": "2021/8/21",
+            "label": "2816例目\n2021/8/21\n山形市\n10代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 2817,
+            "date": "2021/8/21",
+            "label": "2817例目\n2021/8/21\n山形市\n40代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 2818,
+            "date": "2021/8/21",
+            "label": "2818例目\n2021/8/21\n山形市\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 2819,
+            "date": "2021/8/21",
+            "label": "2819例目\n2021/8/21\n山形市\n10代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 2820,
+            "date": "2021/8/21",
+            "label": "2820例目\n2021/8/21\n山形市\n高校生 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 2821,
+            "date": "2021/8/21",
+            "label": "2821例目\n2021/8/21\n山形市\n小学生 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 2822,
+            "date": "2021/8/21",
+            "label": "2822例目\n2021/8/21\n山形市\n50代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 2823,
+            "date": "2021/8/21",
+            "label": "2823例目\n2021/8/21\n山形市\n中学生 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 2824,
+            "date": "2021/8/21",
+            "label": "2824例目\n2021/8/21\n山形市\n小学生 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 2825,
+            "date": "2021/8/21",
+            "label": "2825例目\n2021/8/21\n山形市\n50代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 2826,
+            "date": "2021/8/21",
+            "label": "2826例目\n2021/8/21\n山形市\n30代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 2827,
+            "date": "2021/8/21",
+            "label": "2827例目\n2021/8/21\n山形市\n30代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 2828,
+            "date": "2021/8/21",
+            "label": "2828例目\n2021/8/21\n山形市\n20代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
     }
 ],
 "networkData":[    {
@@ -38008,6 +38160,97 @@
             "target": "2576",
             "label": "家族"
         }
+    },
+    {
+        "data": {
+            "source": "2810",
+            "target": "2464",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "2811",
+            "target": "2464",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "2812",
+            "target": "2524",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "2813",
+            "target": "2525",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "2814",
+            "target": "2756",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "2815",
+            "target": "2757",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "2816",
+            "target": "2713",
+            "label": "友人"
+        }
+    },
+    {
+        "data": {
+            "source": "2818",
+            "target": "2817",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "2819",
+            "target": "2817",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "2820",
+            "target": "2817",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "2821",
+            "target": "2817",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "2823",
+            "target": "2822",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "2824",
+            "target": "2822",
+            "label": "同居家族"
+        }
     }
 ],
-"lastUpdate":"2021/8/21 00:03"}
+"lastUpdate":"2021/8/22 01:10"}
