@@ -25829,6 +25829,62 @@
             "label": "3048例目\n2021/8/27\n山形市\n20代 女性"
         },
         "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3095,
+            "date": "2021/8/28",
+            "label": "3095例目\n2021/8/28\n山形市\n幼児 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3096,
+            "date": "2021/8/28",
+            "label": "3096例目\n2021/8/28\n山形市\n30代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3097,
+            "date": "2021/8/28",
+            "label": "3097例目\n2021/8/28\n山形市\n20代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3098,
+            "date": "2021/8/28",
+            "label": "3098例目\n2021/8/28\n山形市\n20代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3099,
+            "date": "2021/8/28",
+            "label": "3099例目\n2021/8/28\n山形市\n20代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3100,
+            "date": "2021/8/28",
+            "label": "3100例目\n2021/8/28\n山形市\n20代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3101,
+            "date": "2021/8/28",
+            "label": "3101例目\n2021/8/28\n山形市\n10代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
     }
 ],
 "networkData":[    {
@@ -41685,6 +41741,13 @@
             "target": "2442",
             "label": "家族"
         }
+    },
+    {
+        "data": {
+            "source": "3095",
+            "target": "2662",
+            "label": "親族"
+        }
     }
 ],
-"lastUpdate":"2021/8/27 20:13"}
+"lastUpdate":"2021/8/28 22:30"}
