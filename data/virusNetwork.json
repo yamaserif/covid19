@@ -25885,6 +25885,22 @@
             "label": "3101例目\n2021/8/28\n山形市\n10代 女性"
         },
         "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3130,
+            "date": "2021/8/29",
+            "label": "3130例目\n2021/8/29\n山形市\n20代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3131,
+            "date": "2021/8/29",
+            "label": "3131例目\n2021/8/29\n山形市\n10代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
     }
 ],
 "networkData":[    {
@@ -41748,6 +41764,13 @@
             "target": "2662",
             "label": "親族"
         }
+    },
+    {
+        "data": {
+            "source": "3130",
+            "target": "3097",
+            "label": "職場関係者"
+        }
     }
 ],
-"lastUpdate":"2021/8/28 22:30"}
+"lastUpdate":"2021/8/29 18:51"}
