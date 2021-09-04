@@ -27317,6 +27317,62 @@
             "label": "3261例目\n2021/9/3\n山形市\n30代 女性"
         },
         "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3275,
+            "date": "2021/9/4",
+            "label": "3275例目\n2021/9/4\n山形市\n50代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3276,
+            "date": "2021/9/4",
+            "label": "3276例目\n2021/9/4\n山形市\n50代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3277,
+            "date": "2021/9/4",
+            "label": "3277例目\n2021/9/4\n山形市\n30代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3278,
+            "date": "2021/9/4",
+            "label": "3278例目\n2021/9/4\n山形市\n30代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3279,
+            "date": "2021/9/4",
+            "label": "3279例目\n2021/9/4\n山形市\n中学生 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3280,
+            "date": "2021/9/4",
+            "label": "3280例目\n2021/9/4\n山形市\n50代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3281,
+            "date": "2021/9/4",
+            "label": "3281例目\n2021/9/4\n山形市\n30代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
     }
 ],
 "networkData":[    {
@@ -44020,6 +44076,34 @@
             "target": "3215",
             "label": "職場関係者"
         }
+    },
+    {
+        "data": {
+            "source": "3275",
+            "target": "3207",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "3276",
+            "target": "3243",
+            "label": "知人"
+        }
+    },
+    {
+        "data": {
+            "source": "3277",
+            "target": "3261",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "3278",
+            "target": "3250",
+            "label": "職場関係者"
+        }
     }
 ],
-"lastUpdate":"2021/9/4 05:27"}
+"lastUpdate":"2021/9/4 21:44"}
