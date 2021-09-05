@@ -27373,6 +27373,38 @@
             "label": "3281例目\n2021/9/4\n山形市\n30代 男性"
         },
         "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3291,
+            "date": "2021/9/5",
+            "label": "3291例目\n2021/9/5\n山形市\n20代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3292,
+            "date": "2021/9/5",
+            "label": "3292例目\n2021/9/5\n山形市\n40代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3293,
+            "date": "2021/9/5",
+            "label": "3293例目\n2021/9/5\n山形市\n50代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3294,
+            "date": "2021/9/5",
+            "label": "3294例目\n2021/9/5\n山形市\n20代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
     }
 ],
 "networkData":[    {
@@ -44104,6 +44136,27 @@
             "target": "3250",
             "label": "職場関係者"
         }
+    },
+    {
+        "data": {
+            "source": "3291",
+            "target": "3148",
+            "label": "知人"
+        }
+    },
+    {
+        "data": {
+            "source": "3292",
+            "target": "3280",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "3294",
+            "target": "3293",
+            "label": "職場関係者"
+        }
     }
 ],
-"lastUpdate":"2021/9/4 21:44"}
+"lastUpdate":"2021/9/5 17:43"}
