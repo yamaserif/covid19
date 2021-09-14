@@ -28957,6 +28957,94 @@
             "label": "3426例目\n2021/9/13\n山形市\n20代 女性"
         },
         "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3422,
+            "date": "2021/9/13",
+            "label": "3422例目\n2021/9/13\n新庄市\n60代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3423,
+            "date": "2021/9/13",
+            "label": "3423例目\n2021/9/13\n米沢市\n40代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3424,
+            "date": "2021/9/13",
+            "label": "3424例目\n2021/9/13\n川西町\n80代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3425,
+            "date": "2021/9/13",
+            "label": "3425例目\n2021/9/13\n川西町\n70代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3435,
+            "date": "2021/9/14",
+            "label": "3435例目\n2021/9/14\n山形市\n30代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3436,
+            "date": "2021/9/14",
+            "label": "3436例目\n2021/9/14\n山形市\n乳児 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3437,
+            "date": "2021/9/14",
+            "label": "3437例目\n2021/9/14\n山形市\n30代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3438,
+            "date": "2021/9/14",
+            "label": "3438例目\n2021/9/14\n山形市\n50代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3439,
+            "date": "2021/9/14",
+            "label": "3439例目\n2021/9/14\n県外\n10代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3440,
+            "date": "2021/9/14",
+            "label": "3440例目\n2021/9/14\n山形市\n40代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3441,
+            "date": "2021/9/14",
+            "label": "3441例目\n2021/9/14\n山形市\n20代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
     }
 ],
 "networkData":[    {
@@ -46542,6 +46630,55 @@
             "target": "3368",
             "label": "知人"
         }
+    },
+    {
+        "data": {
+            "source": "3422",
+            "target": "2831",
+            "label": "同じ施設利用者"
+        }
+    },
+    {
+        "data": {
+            "source": "3424",
+            "target": "3394",
+            "label": "勤務施設の利用者"
+        }
+    },
+    {
+        "data": {
+            "source": "3425",
+            "target": "3394",
+            "label": "勤務施設の利用者"
+        }
+    },
+    {
+        "data": {
+            "source": "3435",
+            "target": "3419",
+            "label": "親族"
+        }
+    },
+    {
+        "data": {
+            "source": "3436",
+            "target": "3435",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "3437",
+            "target": "3404",
+            "label": "知人"
+        }
+    },
+    {
+        "data": {
+            "source": "3439",
+            "target": "3438",
+            "label": "家族"
+        }
     }
 ],
-"lastUpdate":"2021/9/14 00:23"}
+"lastUpdate":"2021/9/15 00:29"}
