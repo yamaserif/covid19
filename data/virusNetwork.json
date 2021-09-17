@@ -29213,6 +29213,46 @@
             "label": "3457例目\n2021/9/16\n山形市\n30代 男性"
         },
         "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3451,
+            "date": "2021/9/16",
+            "label": "3451例目\n2021/9/16\n寒河江市\n30代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3452,
+            "date": "2021/9/16",
+            "label": "3452例目\n2021/9/16\n川西町\n80代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3453,
+            "date": "2021/9/16",
+            "label": "3453例目\n2021/9/16\n酒田市\n60代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3460,
+            "date": "2021/9/17",
+            "label": "3460例目\n2021/9/17\n県外\n10代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3461,
+            "date": "2021/9/17",
+            "label": "3461例目\n2021/9/17\n県外\n10代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
     }
 ],
 "networkData":[    {
@@ -46945,6 +46985,20 @@
             "target": "3449",
             "label": "友人"
         }
+    },
+    {
+        "data": {
+            "source": "3452",
+            "target": "3431",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "3453",
+            "target": "3447",
+            "label": "同居家族"
+        }
     }
 ],
-"lastUpdate":"2021/9/16 23:54"}
+"lastUpdate":"2021/9/18 03:03"}
