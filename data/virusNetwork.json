@@ -29253,6 +29253,14 @@
             "label": "3461例目\n2021/9/17\n県外\n10代 男性"
         },
         "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3464,
+            "date": "2021/9/18",
+            "label": "3464例目\n2021/9/18\n県外\n10代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
     }
 ],
 "networkData":[    {
@@ -46999,6 +47007,13 @@
             "target": "3447",
             "label": "同居家族"
         }
+    },
+    {
+        "data": {
+            "source": "3464",
+            "target": "3460",
+            "label": "友人"
+        }
     }
 ],
-"lastUpdate":"2021/9/18 03:03"}
+"lastUpdate":"2021/9/19 03:24"}
