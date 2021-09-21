@@ -29261,6 +29261,78 @@
             "label": "3464例目\n2021/9/18\n県外\n10代 男性"
         },
         "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3458,
+            "date": "2021/9/17",
+            "label": "3458例目\n2021/9/17\n寒河江市\n50代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3459,
+            "date": "2021/9/17",
+            "label": "3459例目\n2021/9/17\n酒田市\n30代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3462,
+            "date": "2021/9/18",
+            "label": "3462例目\n2021/9/18\n東根市\n40代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3463,
+            "date": "2021/9/18",
+            "label": "3463例目\n2021/9/18\n長井市\n30代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3465,
+            "date": "2021/9/19",
+            "label": "3465例目\n2021/9/19\n寒河江市\n40代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3466,
+            "date": "2021/9/20",
+            "label": "3466例目\n2021/9/20\n新庄市\n60代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3467,
+            "date": "2021/9/20",
+            "label": "3467例目\n2021/9/20\n新庄市\n60代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3468,
+            "date": "2021/9/20",
+            "label": "3468例目\n2021/9/20\n長井市\n小学生 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3469,
+            "date": "2021/9/21",
+            "label": "3469例目\n2021/9/21\n山形市\n30代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
     }
 ],
 "networkData":[    {
@@ -47014,6 +47086,55 @@
             "target": "3460",
             "label": "友人"
         }
+    },
+    {
+        "data": {
+            "source": "3458",
+            "target": "3448",
+            "label": "知人"
+        }
+    },
+    {
+        "data": {
+            "source": "3459",
+            "target": "3453",
+            "label": "同僚"
+        }
+    },
+    {
+        "data": {
+            "source": "3462",
+            "target": "3448",
+            "label": "知人"
+        }
+    },
+    {
+        "data": {
+            "source": "3463",
+            "target": "3394",
+            "label": "同僚"
+        }
+    },
+    {
+        "data": {
+            "source": "3466",
+            "target": "2831",
+            "label": "同じ施設利用者"
+        }
+    },
+    {
+        "data": {
+            "source": "3467",
+            "target": "2831",
+            "label": "同じ施設利用者"
+        }
+    },
+    {
+        "data": {
+            "source": "3468",
+            "target": "3463",
+            "label": "同居家族"
+        }
     }
 ],
-"lastUpdate":"2021/9/20 23:50"}
+"lastUpdate":"2021/9/22 00:53"}
