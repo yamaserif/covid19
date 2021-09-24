@@ -29389,6 +29389,38 @@
             "label": "3479例目\n2021/9/23\n県外\n20代 男性"
         },
         "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3473,
+            "date": "2021/9/23",
+            "label": "3473例目\n2021/9/23\n寒河江市\n30代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3474,
+            "date": "2021/9/23",
+            "label": "3474例目\n2021/9/23\n長井市\n70代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3475,
+            "date": "2021/9/23",
+            "label": "3475例目\n2021/9/23\n長井市\n60代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3481,
+            "date": "2021/9/24",
+            "label": "3481例目\n2021/9/24\n山形市\n30代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
     }
 ],
 "networkData":[    {
@@ -47198,6 +47230,20 @@
             "target": "3478",
             "label": "知人"
         }
+    },
+    {
+        "data": {
+            "source": "3474",
+            "target": "3463",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "3475",
+            "target": "3463",
+            "label": "同居家族"
+        }
     }
 ],
-"lastUpdate":"2021/9/23 19:00"}
+"lastUpdate":"2021/9/25 05:18"}
