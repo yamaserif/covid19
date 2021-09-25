@@ -29421,6 +29421,14 @@
             "label": "3481例目\n2021/9/24\n山形市\n30代 男性"
         },
         "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3500,
+            "date": "2021/9/25",
+            "label": "3500例目\n2021/9/25\n県外\n20代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
     }
 ],
 "networkData":[    {
@@ -47246,4 +47254,4 @@
         }
     }
 ],
-"lastUpdate":"2021/9/25 05:18"}
+"lastUpdate":"2021/9/26 00:46"}
