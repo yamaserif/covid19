@@ -29597,6 +29597,14 @@
             "label": "3502例目\n2021/9/27\n山形市\n70代 男性"
         },
         "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3503,
+            "date": "2021/9/28",
+            "label": "3503例目\n2021/9/28\n寒河江市\n20代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
     }
 ],
 "networkData":[    {
@@ -47534,4 +47542,4 @@
         }
     }
 ],
-"lastUpdate":"2021/9/28 23:50"}
+"lastUpdate":"2021/9/30 00:13"}
