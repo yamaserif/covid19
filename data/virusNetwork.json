@@ -29605,6 +29605,14 @@
             "label": "3503例目\n2021/9/28\n寒河江市\n20代 女性"
         },
         "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3504,
+            "date": "2021/9/29",
+            "label": "3504例目\n2021/9/29\n上山市\n60代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
     }
 ],
 "networkData":[    {
@@ -47542,4 +47550,4 @@
         }
     }
 ],
-"lastUpdate":"2021/9/30 00:13"}
+"lastUpdate":"2021/9/30 23:40"}
