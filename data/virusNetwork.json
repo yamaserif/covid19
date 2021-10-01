@@ -29613,6 +29613,30 @@
             "label": "3504例目\n2021/9/29\n上山市\n60代 男性"
         },
         "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3505,
+            "date": "2021/9/30",
+            "label": "3505例目\n2021/9/30\n天童市\n40代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3511,
+            "date": "2021/10/1",
+            "label": "3511例目\n2021/10/1\n山形市\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3512,
+            "date": "2021/10/1",
+            "label": "3512例目\n2021/10/1\n山形市\n70代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
     }
 ],
 "networkData":[    {
@@ -47548,6 +47572,13 @@
             "target": "3501",
             "label": "同居家族"
         }
+    },
+    {
+        "data": {
+            "source": "3512",
+            "target": "3511",
+            "label": "同居家族"
+        }
     }
 ],
-"lastUpdate":"2021/9/30 23:40"}
+"lastUpdate":"2021/10/2 05:48"}
