@@ -29637,6 +29637,62 @@
             "label": "3512例目\n2021/10/1\n山形市\n70代 男性"
         },
         "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3506,
+            "date": "2021/10/1",
+            "label": "3506例目\n2021/10/1\n上山市\n60代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3507,
+            "date": "2021/10/1",
+            "label": "3507例目\n2021/10/1\n天童市\n30代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3508,
+            "date": "2021/10/1",
+            "label": "3508例目\n2021/10/1\n酒田市\n50代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3509,
+            "date": "2021/10/1",
+            "label": "3509例目\n2021/10/1\n酒田市\n60代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3510,
+            "date": "2021/10/1",
+            "label": "3510例目\n2021/10/1\n庄内町\n20代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3513,
+            "date": "2021/10/3",
+            "label": "3513例目\n2021/10/3\n新庄市\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3514,
+            "date": "2021/10/3",
+            "label": "3514例目\n2021/10/3\n米沢市\n20代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
     }
 ],
 "networkData":[    {
@@ -47579,6 +47635,41 @@
             "target": "3511",
             "label": "同居家族"
         }
+    },
+    {
+        "data": {
+            "source": "3506",
+            "target": "3504",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "3507",
+            "target": "3505",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "3509",
+            "target": "3508",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "3510",
+            "target": "3489",
+            "label": "クラスター関連"
+        }
+    },
+    {
+        "data": {
+            "source": "3513",
+            "target": "3484",
+            "label": "同居家族"
+        }
     }
 ],
-"lastUpdate":"2021/10/4 00:50"}
+"lastUpdate":"2021/10/5 01:04"}
