@@ -29693,6 +29693,30 @@
             "label": "3514例目\n2021/10/3\n米沢市\n20代 男性"
         },
         "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3515,
+            "date": "2021/10/5",
+            "label": "3515例目\n2021/10/5\n新庄市\n小学生 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3516,
+            "date": "2021/10/5",
+            "label": "3516例目\n2021/10/5\n新庄市\n幼児 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3517,
+            "date": "2021/10/6",
+            "label": "3517例目\n2021/10/6\n山形市\n50代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
     }
 ],
 "networkData":[    {
@@ -47670,6 +47694,13 @@
             "target": "3484",
             "label": "同居家族"
         }
+    },
+    {
+        "data": {
+            "source": "3515",
+            "target": "3484",
+            "label": "同居家族"
+        }
     }
 ],
-"lastUpdate":"2021/10/5 23:50"}
+"lastUpdate":"2021/10/7 00:05"}
