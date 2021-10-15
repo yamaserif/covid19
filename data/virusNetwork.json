@@ -29789,6 +29789,54 @@
             "label": "3525例目\n2021/10/13\n新庄市\n小学生 女性"
         },
         "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3527,
+            "date": "2021/10/14",
+            "label": "3527例目\n2021/10/14\n寒河江市\n20代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3528,
+            "date": "2021/10/14",
+            "label": "3528例目\n2021/10/14\n新庄市\n幼児 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3529,
+            "date": "2021/10/14",
+            "label": "3529例目\n2021/10/14\n新庄市\n50代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3530,
+            "date": "2021/10/14",
+            "label": "3530例目\n2021/10/14\n新庄市\n小学生 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3531,
+            "date": "2021/10/14",
+            "label": "3531例目\n2021/10/14\n新庄市\n幼児 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3535,
+            "date": "2021/10/15",
+            "label": "3535例目\n2021/10/15\n山形市\n20代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
     }
 ],
 "networkData":[    {
@@ -47808,6 +47856,41 @@
             "target": "3522",
             "label": "同居家族"
         }
+    },
+    {
+        "data": {
+            "source": "3528",
+            "target": "3520",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "3529",
+            "target": "3521",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "3530",
+            "target": "3521",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "3531",
+            "target": "3521",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "3535",
+            "target": "3527",
+            "label": "職場関係者"
+        }
     }
 ],
-"lastUpdate":"2021/10/15 01:47"}
+"lastUpdate":"2021/10/16 05:15"}
