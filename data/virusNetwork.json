@@ -29837,6 +29837,22 @@
             "label": "3535例目\n2021/10/15\n山形市\n20代 男性"
         },
         "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3538,
+            "date": "2021/10/17",
+            "label": "3538例目\n2021/10/17\n山形市\n90歳以上 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3539,
+            "date": "2021/10/17",
+            "label": "3539例目\n2021/10/17\n山形市\n20代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
     }
 ],
 "networkData":[    {
@@ -47891,6 +47907,20 @@
             "target": "3527",
             "label": "職場関係者"
         }
+    },
+    {
+        "data": {
+            "source": "3538",
+            "target": "3535",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "3539",
+            "target": "3535",
+            "label": "友人"
+        }
     }
 ],
-"lastUpdate":"2021/10/16 21:00"}
+"lastUpdate":"2021/10/18 00:18"}
