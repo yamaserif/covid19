@@ -29853,6 +29853,46 @@
             "label": "3539例目\n2021/10/17\n山形市\n20代 男性"
         },
         "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3536,
+            "date": "2021/10/17",
+            "label": "3536例目\n2021/10/17\n天童市\n30代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3537,
+            "date": "2021/10/17",
+            "label": "3537例目\n2021/10/17\n天童市\n幼児 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3532,
+            "date": "2021/10/15",
+            "label": "3532例目\n2021/10/15\n新庄市\n幼児 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3533,
+            "date": "2021/10/15",
+            "label": "3533例目\n2021/10/15\n新庄市\n小学生 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3534,
+            "date": "2021/10/15",
+            "label": "3534例目\n2021/10/15\n新庄市\n30代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
     }
 ],
 "networkData":[    {
@@ -47921,6 +47961,34 @@
             "target": "3535",
             "label": "友人"
         }
+    },
+    {
+        "data": {
+            "source": "3537",
+            "target": "3536",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "3532",
+            "target": "3520",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "3533",
+            "target": "3532",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "3534",
+            "target": "3528",
+            "label": "同居家族"
+        }
     }
 ],
-"lastUpdate":"2021/10/18 00:18"}
+"lastUpdate":"2021/10/19 00:46"}
