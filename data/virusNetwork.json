@@ -29893,6 +29893,78 @@
             "label": "3534例目\n2021/10/15\n新庄市\n30代 女性"
         },
         "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3540,
+            "date": "2021/10/19",
+            "label": "3540例目\n2021/10/19\n天童市\n30代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3541,
+            "date": "2021/10/19",
+            "label": "3541例目\n2021/10/19\n天童市\n幼児 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3542,
+            "date": "2021/10/19",
+            "label": "3542例目\n2021/10/19\n天童市\n50代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3543,
+            "date": "2021/10/19",
+            "label": "3543例目\n2021/10/19\n天童市\n50代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3544,
+            "date": "2021/10/19",
+            "label": "3544例目\n2021/10/19\n天童市\n80代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3545,
+            "date": "2021/10/19",
+            "label": "3545例目\n2021/10/19\n天童市\n30代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3546,
+            "date": "2021/10/19",
+            "label": "3546例目\n2021/10/19\n天童市\n30代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3547,
+            "date": "2021/10/19",
+            "label": "3547例目\n2021/10/19\n天童市\n幼児 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3548,
+            "date": "2021/10/19",
+            "label": "3548例目\n2021/10/19\n天童市\n幼児 男性"
+        },
+        "classes": ["multiline-manual", "male"]
     }
 ],
 "networkData":[    {
@@ -47989,6 +48061,69 @@
             "target": "3528",
             "label": "同居家族"
         }
+    },
+    {
+        "data": {
+            "source": "3540",
+            "target": "3536",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "3541",
+            "target": "3536",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "3542",
+            "target": "3536",
+            "label": "親族"
+        }
+    },
+    {
+        "data": {
+            "source": "3543",
+            "target": "3536",
+            "label": "親族"
+        }
+    },
+    {
+        "data": {
+            "source": "3544",
+            "target": "3536",
+            "label": "親族"
+        }
+    },
+    {
+        "data": {
+            "source": "3545",
+            "target": "3536",
+            "label": "親族"
+        }
+    },
+    {
+        "data": {
+            "source": "3546",
+            "target": "3536",
+            "label": "親族"
+        }
+    },
+    {
+        "data": {
+            "source": "3547",
+            "target": "3536",
+            "label": "親族"
+        }
+    },
+    {
+        "data": {
+            "source": "3548",
+            "target": "3537",
+            "label": "知人"
+        }
     }
 ],
-"lastUpdate":"2021/10/20 01:10"}
+"lastUpdate":"2021/10/21 01:14"}
