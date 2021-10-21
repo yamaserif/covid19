@@ -29965,6 +29965,14 @@
             "label": "3548例目\n2021/10/19\n天童市\n幼児 男性"
         },
         "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3549,
+            "date": "2021/10/20",
+            "label": "3549例目\n2021/10/20\n天童市\n80代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
     }
 ],
 "networkData":[    {
@@ -48124,6 +48132,13 @@
             "target": "3537",
             "label": "知人"
         }
+    },
+    {
+        "data": {
+            "source": "3549",
+            "target": "3544",
+            "label": "親族"
+        }
     }
 ],
-"lastUpdate":"2021/10/21 01:14"}
+"lastUpdate":"2021/10/22 01:11"}
