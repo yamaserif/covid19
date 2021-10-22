@@ -29973,6 +29973,14 @@
             "label": "3549例目\n2021/10/20\n天童市\n80代 女性"
         },
         "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3551,
+            "date": "2021/10/22",
+            "label": "3551例目\n2021/10/22\n山形市\n70代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
     }
 ],
 "networkData":[    {
@@ -48139,6 +48147,13 @@
             "target": "3544",
             "label": "親族"
         }
+    },
+    {
+        "data": {
+            "source": "3551",
+            "target": "3539",
+            "label": "同居家族"
+        }
     }
 ],
-"lastUpdate":"2021/10/22 01:11"}
+"lastUpdate":"2021/10/23 04:32"}
