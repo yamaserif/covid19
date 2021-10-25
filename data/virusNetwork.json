@@ -29981,6 +29981,14 @@
             "label": "3551例目\n2021/10/22\n山形市\n70代 男性"
         },
         "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3550,
+            "date": "2021/10/22",
+            "label": "3550例目\n2021/10/22\n天童市\n幼児 女性"
+        },
+        "classes": ["multiline-manual", "female"]
     }
 ],
 "networkData":[    {
@@ -48154,6 +48162,13 @@
             "target": "3539",
             "label": "同居家族"
         }
+    },
+    {
+        "data": {
+            "source": "3550",
+            "target": "3537",
+            "label": "知人"
+        }
     }
 ],
-"lastUpdate":"2021/10/25 00:00"}
+"lastUpdate":"2021/10/26 00:23"}
