@@ -29989,6 +29989,22 @@
             "label": "3550例目\n2021/10/22\n天童市\n幼児 女性"
         },
         "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3553,
+            "date": "2021/10/26",
+            "label": "3553例目\n2021/10/26\n山形市\n50代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3554,
+            "date": "2021/10/26",
+            "label": "3554例目\n2021/10/26\n山形市\n70代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
     }
 ],
 "networkData":[    {
@@ -48169,6 +48185,20 @@
             "target": "3537",
             "label": "知人"
         }
+    },
+    {
+        "data": {
+            "source": "3553",
+            "target": "3539",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "3554",
+            "target": "3539",
+            "label": "同居家族"
+        }
     }
 ],
-"lastUpdate":"2021/10/26 00:23"}
+"lastUpdate":"2021/10/27 00:39"}
