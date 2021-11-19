@@ -30045,6 +30045,14 @@
             "label": "3556例目\n2021/11/2\n寒河江市\n50代 男性"
         },
         "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3559,
+            "date": "2021/11/18",
+            "label": "3559例目\n2021/11/18\n長井市\n10代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
     }
 ],
 "networkData":[    {
@@ -48248,4 +48256,4 @@
         }
     }
 ],
-"lastUpdate":"2021/11/19 00:00"}
+"lastUpdate":"2021/11/20 02:28"}
