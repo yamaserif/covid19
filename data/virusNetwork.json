@@ -30053,6 +30053,22 @@
             "label": "3559例目\n2021/11/18\n長井市\n10代 男性"
         },
         "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3560,
+            "date": "2021/11/19",
+            "label": "3560例目\n2021/11/19\n長井市\n20代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3561,
+            "date": "2021/11/19",
+            "label": "3561例目\n2021/11/19\n米沢市\n30代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
     }
 ],
 "networkData":[    {
@@ -48254,6 +48270,20 @@
             "target": "3552",
             "label": "同居家族"
         }
+    },
+    {
+        "data": {
+            "source": "3560",
+            "target": "3559",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "3561",
+            "target": "3559",
+            "label": "知人"
+        }
     }
 ],
-"lastUpdate":"2021/11/22 02:00"}
+"lastUpdate":"2021/11/23 00:31"}
