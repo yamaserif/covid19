@@ -30085,6 +30085,22 @@
             "label": "3563例目\n2021/11/27\n天童市\n30代 女性"
         },
         "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3564,
+            "date": "2021/11/29",
+            "label": "3564例目\n2021/11/29\n天童市\n幼児 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3565,
+            "date": "2021/11/29",
+            "label": "3565例目\n2021/11/29\n天童市\n幼児 女性"
+        },
+        "classes": ["multiline-manual", "female"]
     }
 ],
 "networkData":[    {
@@ -48300,6 +48316,20 @@
             "target": "3559",
             "label": "知人"
         }
+    },
+    {
+        "data": {
+            "source": "3564",
+            "target": "3563",
+            "label": "勤務先の利用者"
+        }
+    },
+    {
+        "data": {
+            "source": "3565",
+            "target": "3563",
+            "label": "勤務先の利用者"
+        }
     }
 ],
-"lastUpdate":"2021/11/30 00:00"}
+"lastUpdate":"2021/11/30 22:47"}
