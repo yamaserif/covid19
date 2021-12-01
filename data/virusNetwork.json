@@ -30101,6 +30101,62 @@
             "label": "3565例目\n2021/11/29\n天童市\n幼児 女性"
         },
         "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3566,
+            "date": "2021/11/30",
+            "label": "3566例目\n2021/11/30\n天童市\n幼児 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3567,
+            "date": "2021/11/30",
+            "label": "3567例目\n2021/11/30\n天童市\n幼児 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3568,
+            "date": "2021/11/30",
+            "label": "3568例目\n2021/11/30\n天童市\n幼児 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3569,
+            "date": "2021/11/30",
+            "label": "3569例目\n2021/11/30\n天童市\n幼児 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3570,
+            "date": "2021/11/30",
+            "label": "3570例目\n2021/11/30\n天童市\n40代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3571,
+            "date": "2021/11/30",
+            "label": "3571例目\n2021/11/30\n天童市\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3574,
+            "date": "2021/12/1",
+            "label": "3574例目\n2021/12/1\n山形市\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
     }
 ],
 "networkData":[    {
@@ -48330,6 +48386,41 @@
             "target": "3563",
             "label": "勤務先の利用者"
         }
+    },
+    {
+        "data": {
+            "source": "3567",
+            "target": "3566",
+            "label": "集団感染関連"
+        }
+    },
+    {
+        "data": {
+            "source": "3568",
+            "target": "3566",
+            "label": "集団感染関連"
+        }
+    },
+    {
+        "data": {
+            "source": "3569",
+            "target": "3566",
+            "label": "集団感染関連"
+        }
+    },
+    {
+        "data": {
+            "source": "3570",
+            "target": "3565",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "3571",
+            "target": "3567",
+            "label": "同居家族"
+        }
     }
 ],
-"lastUpdate":"2021/11/30 22:47"}
+"lastUpdate":"2021/12/1 23:58"}
