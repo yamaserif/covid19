@@ -30157,6 +30157,30 @@
             "label": "3574例目\n2021/12/1\n山形市\n40代 女性"
         },
         "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3574,
+            "date": "2021/12/1",
+            "label": "3574例目\n2021/12/1\n山形市\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3572,
+            "date": "2021/12/1",
+            "label": "3572例目\n2021/12/1\n東根市\n20代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3573,
+            "date": "2021/12/1",
+            "label": "3573例目\n2021/12/1\n東根市\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
     }
 ],
 "networkData":[    {
@@ -48421,6 +48445,20 @@
             "target": "3567",
             "label": "同居家族"
         }
+    },
+    {
+        "data": {
+            "source": "3572",
+            "target": "3566",
+            "label": "集団感染関連"
+        }
+    },
+    {
+        "data": {
+            "source": "3573",
+            "target": "3566",
+            "label": "集団感染関連"
+        }
     }
 ],
-"lastUpdate":"2021/12/1 23:58"}
+"lastUpdate":"2021/12/2 23:58"}
