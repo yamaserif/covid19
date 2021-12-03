@@ -30181,6 +30181,142 @@
             "label": "3573例目\n2021/12/1\n東根市\n40代 女性"
         },
         "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3598,
+            "date": "2021/12/3",
+            "label": "3598例目\n2021/12/3\n山形市\n50代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3599,
+            "date": "2021/12/3",
+            "label": "3599例目\n2021/12/3\n山形市\n中学生 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3600,
+            "date": "2021/12/3",
+            "label": "3600例目\n2021/12/3\n山形市\n小学生 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3575,
+            "date": "2021/12/2",
+            "label": "3575例目\n2021/12/2\n天童市\n幼児 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3576,
+            "date": "2021/12/2",
+            "label": "3576例目\n2021/12/2\n天童市\n幼児 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3577,
+            "date": "2021/12/2",
+            "label": "3577例目\n2021/12/2\n天童市\n幼児 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3578,
+            "date": "2021/12/2",
+            "label": "3578例目\n2021/12/2\n天童市\n幼児 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3579,
+            "date": "2021/12/2",
+            "label": "3579例目\n2021/12/2\n天童市\n幼児 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3580,
+            "date": "2021/12/2",
+            "label": "3580例目\n2021/12/2\n天童市\n幼児 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3581,
+            "date": "2021/12/2",
+            "label": "3581例目\n2021/12/2\n天童市\n幼児 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3582,
+            "date": "2021/12/2",
+            "label": "3582例目\n2021/12/2\n天童市\n幼児 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3583,
+            "date": "2021/12/2",
+            "label": "3583例目\n2021/12/2\n天童市\n幼児 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3584,
+            "date": "2021/12/2",
+            "label": "3584例目\n2021/12/2\n天童市\n幼児 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3585,
+            "date": "2021/12/2",
+            "label": "3585例目\n2021/12/2\n天童市\n幼児 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3586,
+            "date": "2021/12/2",
+            "label": "3586例目\n2021/12/2\n天童市\n幼児 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3588,
+            "date": "2021/12/2",
+            "label": "3588例目\n2021/12/2\n東根市\n40代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3589,
+            "date": "2021/12/2",
+            "label": "3589例目\n2021/12/2\n東根市\n10代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
     }
 ],
 "networkData":[    {
@@ -48459,6 +48595,125 @@
             "target": "3566",
             "label": "集団感染関連"
         }
+    },
+    {
+        "data": {
+            "source": "3598",
+            "target": "3574",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "3599",
+            "target": "3574",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "3600",
+            "target": "3574",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "3575",
+            "target": "3566",
+            "label": "集団感染関連"
+        }
+    },
+    {
+        "data": {
+            "source": "3576",
+            "target": "3566",
+            "label": "集団感染関連"
+        }
+    },
+    {
+        "data": {
+            "source": "3577",
+            "target": "3566",
+            "label": "集団感染関連"
+        }
+    },
+    {
+        "data": {
+            "source": "3578",
+            "target": "3566",
+            "label": "集団感染関連"
+        }
+    },
+    {
+        "data": {
+            "source": "3579",
+            "target": "3566",
+            "label": "集団感染関連"
+        }
+    },
+    {
+        "data": {
+            "source": "3580",
+            "target": "3566",
+            "label": "集団感染関連"
+        }
+    },
+    {
+        "data": {
+            "source": "3581",
+            "target": "3566",
+            "label": "集団感染関連"
+        }
+    },
+    {
+        "data": {
+            "source": "3582",
+            "target": "3566",
+            "label": "集団感染関連"
+        }
+    },
+    {
+        "data": {
+            "source": "3583",
+            "target": "3566",
+            "label": "集団感染関連"
+        }
+    },
+    {
+        "data": {
+            "source": "3584",
+            "target": "3566",
+            "label": "集団感染関連"
+        }
+    },
+    {
+        "data": {
+            "source": "3585",
+            "target": "3566",
+            "label": "集団感染関連"
+        }
+    },
+    {
+        "data": {
+            "source": "3586",
+            "target": "3566",
+            "label": "集団感染関連"
+        }
+    },
+    {
+        "data": {
+            "source": "3588",
+            "target": "3573",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "3589",
+            "target": "3573",
+            "label": "同居家族"
+        }
     }
 ],
-"lastUpdate":"2021/12/2 23:58"}
+"lastUpdate":"2021/12/4 07:23"}
