@@ -30317,6 +30317,118 @@
             "label": "3589例目\n2021/12/2\n東根市\n10代 男性"
         },
         "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3611,
+            "date": "2021/12/6",
+            "label": "3611例目\n2021/12/6\n山形市\n幼児 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3604,
+            "date": "2021/12/5",
+            "label": "3604例目\n2021/12/5\n天童市\n小学生 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3605,
+            "date": "2021/12/5",
+            "label": "3605例目\n2021/12/5\n天童市\n幼児 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3601,
+            "date": "2021/12/4",
+            "label": "3601例目\n2021/12/4\n天童市\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3602,
+            "date": "2021/12/4",
+            "label": "3602例目\n2021/12/4\n天童市\n幼児 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3603,
+            "date": "2021/12/4",
+            "label": "3603例目\n2021/12/4\n天童市\n幼児 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3590,
+            "date": "2021/12/3",
+            "label": "3590例目\n2021/12/3\n天童市\n30代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3591,
+            "date": "2021/12/3",
+            "label": "3591例目\n2021/12/3\n天童市\n40代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3592,
+            "date": "2021/12/3",
+            "label": "3592例目\n2021/12/3\n天童市\n30代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3593,
+            "date": "2021/12/3",
+            "label": "3593例目\n2021/12/3\n天童市\n30代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3594,
+            "date": "2021/12/3",
+            "label": "3594例目\n2021/12/3\n天童市\n30代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3595,
+            "date": "2021/12/3",
+            "label": "3595例目\n2021/12/3\n天童市\n小学生 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3596,
+            "date": "2021/12/3",
+            "label": "3596例目\n2021/12/3\n天童市\n幼児 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3597,
+            "date": "2021/12/3",
+            "label": "3597例目\n2021/12/3\n天童市\n幼児 男性"
+        },
+        "classes": ["multiline-manual", "male"]
     }
 ],
 "networkData":[    {
@@ -48714,6 +48826,104 @@
             "target": "3573",
             "label": "同居家族"
         }
+    },
+    {
+        "data": {
+            "source": "3611",
+            "target": "3601",
+            "label": "接触者"
+        }
+    },
+    {
+        "data": {
+            "source": "3604",
+            "target": "3565",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "3605",
+            "target": "3566",
+            "label": "集団感染関連"
+        }
+    },
+    {
+        "data": {
+            "source": "3601",
+            "target": "3579",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "3602",
+            "target": "3566",
+            "label": "集団感染者の知人"
+        }
+    },
+    {
+        "data": {
+            "source": "3603",
+            "target": "3566",
+            "label": "集団感染者の知人"
+        }
+    },
+    {
+        "data": {
+            "source": "3590",
+            "target": "3566",
+            "label": "集団感染関連"
+        }
+    },
+    {
+        "data": {
+            "source": "3591",
+            "target": "3577",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "3592",
+            "target": "3577",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "3593",
+            "target": "3578",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "3594",
+            "target": "3582",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "3595",
+            "target": "3582",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "3596",
+            "target": "3582",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "3597",
+            "target": "3566",
+            "label": "集団感染者の知人"
+        }
     }
 ],
-"lastUpdate":"2021/12/6 00:00"}
+"lastUpdate":"2021/12/6 23:34"}
