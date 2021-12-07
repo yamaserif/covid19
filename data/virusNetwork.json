@@ -30429,6 +30429,46 @@
             "label": "3597例目\n2021/12/3\n天童市\n幼児 男性"
         },
         "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3606,
+            "date": "2021/12/6",
+            "label": "3606例目\n2021/12/6\n天童市\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3607,
+            "date": "2021/12/6",
+            "label": "3607例目\n2021/12/6\n天童市\n40代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3608,
+            "date": "2021/12/6",
+            "label": "3608例目\n2021/12/6\n天童市\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3609,
+            "date": "2021/12/6",
+            "label": "3609例目\n2021/12/6\n天童市\n40代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3610,
+            "date": "2021/12/6",
+            "label": "3610例目\n2021/12/6\n天童市\n60代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
     }
 ],
 "networkData":[    {
@@ -48924,6 +48964,41 @@
             "target": "3566",
             "label": "集団感染者の知人"
         }
+    },
+    {
+        "data": {
+            "source": "3606",
+            "target": "3565",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "3607",
+            "target": "3605",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "3608",
+            "target": "3605",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "3609",
+            "target": "3603",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "3610",
+            "target": "3602",
+            "label": "親族"
+        }
     }
 ],
-"lastUpdate":"2021/12/6 23:34"}
+"lastUpdate":"2021/12/7 23:40"}
