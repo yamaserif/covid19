@@ -37,7 +37,7 @@
           :sync="true"
         />
       </cytoscape>
-      <span>※山形県及び山形市公式ホームページにて公開されているPDFを元に表示</span>
+      <div style="margin-top:5px">※山形県及び山形市公式ホームページにて公開されているPDFを元に表示。</div>
     </StaticCard>
   </div>
 </template>
