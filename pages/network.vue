@@ -37,6 +37,7 @@
           :sync="true"
         />
       </cytoscape>
+      <span>※山形県及び山形市公式ホームページにて公開されているPDFを元に表示</span>
     </StaticCard>
   </div>
 </template>
