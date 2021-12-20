@@ -30469,6 +30469,14 @@
             "label": "3610例目\n2021/12/6\n天童市\n60代 女性"
         },
         "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3612,
+            "date": "2021/12/17",
+            "label": "3612例目\n2021/12/17\n天童市\n30代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
     }
 ],
 "networkData":[    {
@@ -48999,6 +49007,13 @@
             "target": "3602",
             "label": "親族"
         }
+    },
+    {
+        "data": {
+            "source": "3612",
+            "target": "3582",
+            "label": "同居家族"
+        }
     }
 ],
-"lastUpdate":"2021/12/20 02:15"}
+"lastUpdate":"2021/12/20 23:25"}
