@@ -30493,6 +30493,14 @@
             "label": "3614例目\n2021/12/29\n山形市\n30代 女性"
         },
         "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3615,
+            "date": "2022/1/3",
+            "label": "3615例目\n2022/1/3\n県外\n40代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
     }
 ],
 "networkData":[    {
@@ -49032,4 +49040,4 @@
         }
     }
 ],
-"lastUpdate":"2022/01/03 23:50"}
+"lastUpdate":"2022/1/5 00:28"}
