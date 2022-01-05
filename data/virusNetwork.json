@@ -30501,6 +30501,78 @@
             "label": "3615例目\n2022/1/3\n県外\n40代 男性"
         },
         "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3621,
+            "date": "2022/1/5",
+            "label": "3621例目\n2022/1/5\n山形市\n30代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3622,
+            "date": "2022/1/5",
+            "label": "3622例目\n2022/1/5\n山形市\n70代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3623,
+            "date": "2022/1/5",
+            "label": "3623例目\n2022/1/5\n山形市\n60代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3624,
+            "date": "2022/1/5",
+            "label": "3624例目\n2022/1/5\n山形市\n30代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3625,
+            "date": "2022/1/5",
+            "label": "3625例目\n2022/1/5\n山形市\n70代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3626,
+            "date": "2022/1/5",
+            "label": "3626例目\n2022/1/5\n山形市\n40代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3627,
+            "date": "2022/1/5",
+            "label": "3627例目\n2022/1/5\n山形市\n30代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3628,
+            "date": "2022/1/5",
+            "label": "3628例目\n2022/1/5\n山形市\n中学生 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3629,
+            "date": "2022/1/5",
+            "label": "3629例目\n2022/1/5\n山形市\n小学生 男性"
+        },
+        "classes": ["multiline-manual", "male"]
     }
 ],
 "networkData":[    {
@@ -49038,6 +49110,55 @@
             "target": "3582",
             "label": "同居家族"
         }
+    },
+    {
+        "data": {
+            "source": "3622",
+            "target": "3618",
+            "label": "親族"
+        }
+    },
+    {
+        "data": {
+            "source": "3623",
+            "target": "3618",
+            "label": "親族"
+        }
+    },
+    {
+        "data": {
+            "source": "3624",
+            "target": "3618",
+            "label": "親族"
+        }
+    },
+    {
+        "data": {
+            "source": "3626",
+            "target": "3625",
+            "label": "親族"
+        }
+    },
+    {
+        "data": {
+            "source": "3627",
+            "target": "3625",
+            "label": "親族"
+        }
+    },
+    {
+        "data": {
+            "source": "3628",
+            "target": "3625",
+            "label": "親族"
+        }
+    },
+    {
+        "data": {
+            "source": "3629",
+            "target": "3625",
+            "label": "親族"
+        }
     }
 ],
-"lastUpdate":"2022/1/5 00:28"}
+"lastUpdate":"2022/1/6 01:38"}
