@@ -30573,6 +30573,14 @@
             "label": "3629例目\n2022/1/5\n山形市\n小学生 男性"
         },
         "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3631,
+            "date": "2022/1/6",
+            "label": "3631例目\n2022/1/6\n山形市\n中学生 女性"
+        },
+        "classes": ["multiline-manual", "female"]
     }
 ],
 "networkData":[    {
@@ -49159,6 +49167,13 @@
             "target": "3625",
             "label": "親族"
         }
+    },
+    {
+        "data": {
+            "source": "3631",
+            "target": "3626",
+            "label": "同居家族"
+        }
     }
 ],
-"lastUpdate":"2022/1/6 01:38"}
+"lastUpdate":"2022/1/6 23:17"}
