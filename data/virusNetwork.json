@@ -30581,6 +30581,38 @@
             "label": "3631例目\n2022/1/6\n山形市\n中学生 女性"
         },
         "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3641,
+            "date": "2022/1/8",
+            "label": "3641例目\n2022/1/8\n山形市\n90歳以上 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3642,
+            "date": "2022/1/8",
+            "label": "3642例目\n2022/1/8\n山形市\n50代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3643,
+            "date": "2022/1/8",
+            "label": "3643例目\n2022/1/8\n山形市\n小学生 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3644,
+            "date": "2022/1/8",
+            "label": "3644例目\n2022/1/8\n山形市\n小学生 女性"
+        },
+        "classes": ["multiline-manual", "female"]
     }
 ],
 "networkData":[    {
@@ -49174,6 +49206,27 @@
             "target": "3626",
             "label": "同居家族"
         }
+    },
+    {
+        "data": {
+            "source": "3641",
+            "target": "3622",
+            "label": "親族"
+        }
+    },
+    {
+        "data": {
+            "source": "3643",
+            "target": "3642",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "3644",
+            "target": "3642",
+            "label": "同居家族"
+        }
     }
 ],
-"lastUpdate":"2022/1/8 3:25"}
+"lastUpdate":"2022/1/9 04:35"}
