@@ -30613,6 +30613,14 @@
             "label": "3644例目\n2022/1/8\n山形市\n小学生 女性"
         },
         "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3649,
+            "date": "2022/1/9",
+            "label": "3649例目\n2022/1/9\n山形市\n20代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
     }
 ],
 "networkData":[    {
@@ -49229,4 +49237,4 @@
         }
     }
 ],
-"lastUpdate":"2022/1/9 04:35"}
+"lastUpdate":"2022/1/9 18:44"}
