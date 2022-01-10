@@ -30621,6 +30621,78 @@
             "label": "3649例目\n2022/1/9\n山形市\n20代 女性"
         },
         "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3616,
+            "date": "2022/1/5",
+            "label": "3616例目\n2022/1/5\n村山市\n60代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3617,
+            "date": "2022/1/5",
+            "label": "3617例目\n2022/1/5\n県外\n30代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3618,
+            "date": "2022/1/5",
+            "label": "3618例目\n2022/1/5\n酒田市\n40代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3619,
+            "date": "2022/1/5",
+            "label": "3619例目\n2022/1/5\n酒田市\n30代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3620,
+            "date": "2022/1/5",
+            "label": "3620例目\n2022/1/5\n酒田市\n小学生 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3630,
+            "date": "2022/1/6",
+            "label": "3630例目\n2022/1/6\n米沢市\n20代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3658,
+            "date": "2022/1/10",
+            "label": "3658例目\n2022/1/10\n山形市\n小学生 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3659,
+            "date": "2022/1/10",
+            "label": "3659例目\n2022/1/10\n山形市\n20代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3660,
+            "date": "2022/1/10",
+            "label": "3660例目\n2022/1/10\n山形市\n幼児 男性"
+        },
+        "classes": ["multiline-manual", "male"]
     }
 ],
 "networkData":[    {
@@ -49235,6 +49307,48 @@
             "target": "3642",
             "label": "同居家族"
         }
+    },
+    {
+        "data": {
+            "source": "3617",
+            "target": "3616",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "3619",
+            "target": "3618",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "3620",
+            "target": "3618",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "3658",
+            "target": "3642",
+            "label": "親族"
+        }
+    },
+    {
+        "data": {
+            "source": "3659",
+            "target": "3649",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "3660",
+            "target": "3649",
+            "label": "同居家族"
+        }
     }
 ],
-"lastUpdate":"2022/1/9 18:44"}
+"lastUpdate":"2022/1/10 22:40"}
