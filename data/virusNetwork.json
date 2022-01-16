@@ -31589,6 +31589,86 @@
             "label": "3825例目\n2022/1/15\n山形市\n30代 男性"
         },
         "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3842,
+            "date": "2022/1/16",
+            "label": "3842例目\n2022/1/16\n山形市\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3843,
+            "date": "2022/1/16",
+            "label": "3843例目\n2022/1/16\n山形市\n20代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3844,
+            "date": "2022/1/16",
+            "label": "3844例目\n2022/1/16\n山形市\n小学生 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3845,
+            "date": "2022/1/16",
+            "label": "3845例目\n2022/1/16\n山形市\n20代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3846,
+            "date": "2022/1/16",
+            "label": "3846例目\n2022/1/16\n山形市\n20代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 3847,
+            "date": "2022/1/16",
+            "label": "3847例目\n2022/1/16\n山形市\n50代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3848,
+            "date": "2022/1/16",
+            "label": "3848例目\n2022/1/16\n山形市\n50代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3849,
+            "date": "2022/1/16",
+            "label": "3849例目\n2022/1/16\n山形市\n30代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3850,
+            "date": "2022/1/16",
+            "label": "3850例目\n2022/1/16\n山形市\n20代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 3851,
+            "date": "2022/1/16",
+            "label": "3851例目\n2022/1/16\n山形市\n小学生 女性"
+        },
+        "classes": ["multiline-manual", "female"]
     }
 ],
 "networkData":[    {
@@ -50707,6 +50787,34 @@
             "target": "3824",
             "label": "職場関係者"
         }
+    },
+    {
+        "data": {
+            "source": "3842",
+            "target": "3699",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "3843",
+            "target": "3812",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "3844",
+            "target": "3813",
+            "label": "学校関係者"
+        }
+    },
+    {
+        "data": {
+            "source": "3846",
+            "target": "3845",
+            "label": "知人"
+        }
     }
 ],
-"lastUpdate":"2022/1/16 00:55"}
+"lastUpdate":"2022/1/16 21:12"}
