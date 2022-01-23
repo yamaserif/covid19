@@ -34653,6 +34653,142 @@
             "label": "4203例目\n2022/1/22\n山形市\n60代 男性"
         },
         "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 4247,
+            "date": "2022/1/23",
+            "label": "4247例目\n2022/1/23\n山形市\n30代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 4248,
+            "date": "2022/1/23",
+            "label": "4248例目\n2022/1/23\n山形市\n幼児 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 4249,
+            "date": "2022/1/23",
+            "label": "4249例目\n2022/1/23\n山形市\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 4250,
+            "date": "2022/1/23",
+            "label": "4250例目\n2022/1/23\n山形市\n30代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 4251,
+            "date": "2022/1/23",
+            "label": "4251例目\n2022/1/23\n山形市\n30代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 4252,
+            "date": "2022/1/23",
+            "label": "4252例目\n2022/1/23\n山形市\n30代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 4253,
+            "date": "2022/1/23",
+            "label": "4253例目\n2022/1/23\n山形市\n幼児 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 4254,
+            "date": "2022/1/23",
+            "label": "4254例目\n2022/1/23\n山形市\n50代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 4255,
+            "date": "2022/1/23",
+            "label": "4255例目\n2022/1/23\n山形市\n40代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 4256,
+            "date": "2022/1/23",
+            "label": "4256例目\n2022/1/23\n山形市\n50代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 4257,
+            "date": "2022/1/23",
+            "label": "4257例目\n2022/1/23\n山形市\n幼児 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 4258,
+            "date": "2022/1/23",
+            "label": "4258例目\n2022/1/23\n山形市\n50代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 4259,
+            "date": "2022/1/23",
+            "label": "4259例目\n2022/1/23\n山形市\n10代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 4260,
+            "date": "2022/1/23",
+            "label": "4260例目\n2022/1/23\n山形市\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 4261,
+            "date": "2022/1/23",
+            "label": "4261例目\n2022/1/23\n山形市\n50代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 4262,
+            "date": "2022/1/23",
+            "label": "4262例目\n2022/1/23\n山形市\n40代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 4263,
+            "date": "2022/1/23",
+            "label": "4263例目\n2022/1/23\n山形市\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
     }
 ],
 "networkData":[    {
@@ -55227,6 +55363,97 @@
             "target": "4200",
             "label": "同居家族"
         }
+    },
+    {
+        "data": {
+            "source": "4247",
+            "target": "4040",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "4248",
+            "target": "4040",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "4249",
+            "target": "4178",
+            "label": "接触者"
+        }
+    },
+    {
+        "data": {
+            "source": "4250",
+            "target": "4187",
+            "label": "職場関係者"
+        }
+    },
+    {
+        "data": {
+            "source": "4251",
+            "target": "4187",
+            "label": "職場関係者"
+        }
+    },
+    {
+        "data": {
+            "source": "4252",
+            "target": "4188",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "4253",
+            "target": "4188",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "4254",
+            "target": "4189",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "4255",
+            "target": "4193",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "4256",
+            "target": "4202",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "4260",
+            "target": "4125",
+            "label": "知人"
+        }
+    },
+    {
+        "data": {
+            "source": "4261",
+            "target": "4106",
+            "label": "接触者"
+        }
+    },
+    {
+        "data": {
+            "source": "4262",
+            "target": "4109",
+            "label": "職場関係者"
+        }
     }
 ],
-"lastUpdate":"2022/1/23 08:18"}
+"lastUpdate":"2022/1/23 23:51"}
