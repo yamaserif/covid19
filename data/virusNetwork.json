@@ -42373,6 +42373,166 @@
             "label": "5250例目\n2022/1/29\n山形市\n60代 女性"
         },
         "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 5488,
+            "date": "2022/1/30",
+            "label": "5488例目\n2022/1/30\n山形市\n30代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 5489,
+            "date": "2022/1/30",
+            "label": "5489例目\n2022/1/30\n山形市\n幼児 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 5490,
+            "date": "2022/1/30",
+            "label": "5490例目\n2022/1/30\n山形市\n30代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 5491,
+            "date": "2022/1/30",
+            "label": "5491例目\n2022/1/30\n山形市\n70代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 5492,
+            "date": "2022/1/30",
+            "label": "5492例目\n2022/1/30\n山形市\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 5493,
+            "date": "2022/1/30",
+            "label": "5493例目\n2022/1/30\n山形市\n小学生 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 5494,
+            "date": "2022/1/30",
+            "label": "5494例目\n2022/1/30\n山形市\n幼児 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 5495,
+            "date": "2022/1/30",
+            "label": "5495例目\n2022/1/30\n山形市\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 5496,
+            "date": "2022/1/30",
+            "label": "5496例目\n2022/1/30\n山形市\n30代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 5497,
+            "date": "2022/1/30",
+            "label": "5497例目\n2022/1/30\n山形市\n幼児 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 5498,
+            "date": "2022/1/30",
+            "label": "5498例目\n2022/1/30\n山形市\n40代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 5499,
+            "date": "2022/1/30",
+            "label": "5499例目\n2022/1/30\n山形市\n30代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 5500,
+            "date": "2022/1/30",
+            "label": "5500例目\n2022/1/30\n山形市\n60代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 5501,
+            "date": "2022/1/30",
+            "label": "5501例目\n2022/1/30\n山形市\n30代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 5502,
+            "date": "2022/1/30",
+            "label": "5502例目\n2022/1/30\n山形市\n小学生 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 5503,
+            "date": "2022/1/30",
+            "label": "5503例目\n2022/1/30\n山形市\n20代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 5504,
+            "date": "2022/1/30",
+            "label": "5504例目\n2022/1/30\n山形市\n60代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 5505,
+            "date": "2022/1/30",
+            "label": "5505例目\n2022/1/30\n山形市\n高校生 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 5506,
+            "date": "2022/1/30",
+            "label": "5506例目\n2022/1/30\n山形市\n50代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 5507,
+            "date": "2022/1/30",
+            "label": "5507例目\n2022/1/30\n山形市\n20代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
     }
 ],
 "networkData":[    {
@@ -65761,6 +65921,97 @@
             "target": "5243",
             "label": "同居家族"
         }
+    },
+    {
+        "data": {
+            "source": "5488",
+            "target": "4530",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "5489",
+            "target": "4666",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "5490",
+            "target": "4824",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "5491",
+            "target": "4845",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "5492",
+            "target": "5078",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "5493",
+            "target": "5078",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "5494",
+            "target": "5078",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "5495",
+            "target": "5231",
+            "label": "接触者"
+        }
+    },
+    {
+        "data": {
+            "source": "5496",
+            "target": "5248",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "5497",
+            "target": "5248",
+            "label": "接触者"
+        }
+    },
+    {
+        "data": {
+            "source": "5498",
+            "target": "4701",
+            "label": "職場関係者"
+        }
+    },
+    {
+        "data": {
+            "source": "5500",
+            "target": "5499",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "5507",
+            "target": "5248",
+            "label": "接触者"
+        }
     }
 ],
-"lastUpdate":"2022/1/30 03:24"}
+"lastUpdate":"2022/1/30 23:49"}
