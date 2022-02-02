@@ -49378,9 +49378,9 @@
         "data": {
             "id": 6214,
             "date": "2022/2/2",
-            "label": "6214例目\n2022/2/2\n山形市\n高校生 ー"
+            "label": "6214例目\n2022/2/2\n山形市\n高校生 女性"
         },
-        "classes": ["multiline-manual", "else"]
+        "classes": ["multiline-manual", "female"]
     },
     {
         "data": {
@@ -74383,4 +74383,4 @@
         }
     }
 ],
-"lastUpdate":"2022/2/2 23:57"}
+"lastUpdate":"2022/2/3 00:02"}
