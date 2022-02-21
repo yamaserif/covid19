@@ -81781,6 +81781,2342 @@
             "label": "10216例目\n2022/2/20\n山形市\n10歳未満 女性"
         },
         "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10021,
+            "date": "2022/2/20",
+            "label": "10021例目\n2022/2/20\n寒河江市\n10歳未満 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10022,
+            "date": "2022/2/20",
+            "label": "10022例目\n2022/2/20\n寒河江市\n70代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10023,
+            "date": "2022/2/20",
+            "label": "10023例目\n2022/2/20\n中山町\n10歳未満 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10024,
+            "date": "2022/2/20",
+            "label": "10024例目\n2022/2/20\n寒河江市\n60代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10025,
+            "date": "2022/2/20",
+            "label": "10025例目\n2022/2/20\n尾花沢市\n70代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10026,
+            "date": "2022/2/20",
+            "label": "10026例目\n2022/2/20\n上山市\n40代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10027,
+            "date": "2022/2/20",
+            "label": "10027例目\n2022/2/20\n寒河江市\n70代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10028,
+            "date": "2022/2/20",
+            "label": "10028例目\n2022/2/20\n寒河江市\n70代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10029,
+            "date": "2022/2/20",
+            "label": "10029例目\n2022/2/20\n上山市\n10代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10030,
+            "date": "2022/2/20",
+            "label": "10030例目\n2022/2/20\n尾花沢市\n60代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10031,
+            "date": "2022/2/20",
+            "label": "10031例目\n2022/2/20\n尾花沢市\n70代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10032,
+            "date": "2022/2/20",
+            "label": "10032例目\n2022/2/20\n尾花沢市\n30代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10033,
+            "date": "2022/2/20",
+            "label": "10033例目\n2022/2/20\n尾花沢市\n10歳未満 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10034,
+            "date": "2022/2/20",
+            "label": "10034例目\n2022/2/20\n尾花沢市\n10歳未満 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10035,
+            "date": "2022/2/20",
+            "label": "10035例目\n2022/2/20\n寒河江市\n60代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10036,
+            "date": "2022/2/20",
+            "label": "10036例目\n2022/2/20\n寒河江市\n70代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10037,
+            "date": "2022/2/20",
+            "label": "10037例目\n2022/2/20\n山辺町\n70代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10038,
+            "date": "2022/2/20",
+            "label": "10038例目\n2022/2/20\n村山市\n40代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10039,
+            "date": "2022/2/20",
+            "label": "10039例目\n2022/2/20\n村山市\n10歳未満 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10040,
+            "date": "2022/2/20",
+            "label": "10040例目\n2022/2/20\n天童市\n50代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10041,
+            "date": "2022/2/20",
+            "label": "10041例目\n2022/2/20\n天童市\n60代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10042,
+            "date": "2022/2/20",
+            "label": "10042例目\n2022/2/20\n西川町\n90歳以上 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10043,
+            "date": "2022/2/20",
+            "label": "10043例目\n2022/2/20\n寒河江市\n20代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10044,
+            "date": "2022/2/20",
+            "label": "10044例目\n2022/2/20\n尾花沢市\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10045,
+            "date": "2022/2/20",
+            "label": "10045例目\n2022/2/20\n河北町\n70代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10046,
+            "date": "2022/2/20",
+            "label": "10046例目\n2022/2/20\n東根市\n10歳未満 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10047,
+            "date": "2022/2/20",
+            "label": "10047例目\n2022/2/20\n東根市\n30代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10048,
+            "date": "2022/2/20",
+            "label": "10048例目\n2022/2/20\n村山市\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10049,
+            "date": "2022/2/20",
+            "label": "10049例目\n2022/2/20\n尾花沢市\n10歳未満 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10050,
+            "date": "2022/2/20",
+            "label": "10050例目\n2022/2/20\n東根市\n10歳未満 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10051,
+            "date": "2022/2/20",
+            "label": "10051例目\n2022/2/20\n大江町\n30代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10052,
+            "date": "2022/2/20",
+            "label": "10052例目\n2022/2/20\n寒河江市\n30代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10053,
+            "date": "2022/2/20",
+            "label": "10053例目\n2022/2/20\n寒河江市\n60代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10054,
+            "date": "2022/2/20",
+            "label": "10054例目\n2022/2/20\n大石田町\n50代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10055,
+            "date": "2022/2/20",
+            "label": "10055例目\n2022/2/20\n寒河江市\n80代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10056,
+            "date": "2022/2/20",
+            "label": "10056例目\n2022/2/20\n寒河江市\n70代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10057,
+            "date": "2022/2/20",
+            "label": "10057例目\n2022/2/20\n寒河江市\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10058,
+            "date": "2022/2/20",
+            "label": "10058例目\n2022/2/20\n寒河江市\n70代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10059,
+            "date": "2022/2/20",
+            "label": "10059例目\n2022/2/20\n天童市\n20代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10060,
+            "date": "2022/2/20",
+            "label": "10060例目\n2022/2/20\n寒河江市\n30代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10061,
+            "date": "2022/2/20",
+            "label": "10061例目\n2022/2/20\n寒河江市\n30代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10062,
+            "date": "2022/2/20",
+            "label": "10062例目\n2022/2/20\n大江町\n10歳未満 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10063,
+            "date": "2022/2/20",
+            "label": "10063例目\n2022/2/20\n尾花沢市\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10064,
+            "date": "2022/2/20",
+            "label": "10064例目\n2022/2/20\n村山市\n70代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10065,
+            "date": "2022/2/20",
+            "label": "10065例目\n2022/2/20\n村山市\n60代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10066,
+            "date": "2022/2/20",
+            "label": "10066例目\n2022/2/20\n尾花沢市\n20代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10067,
+            "date": "2022/2/20",
+            "label": "10067例目\n2022/2/20\n尾花沢市\n20代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10068,
+            "date": "2022/2/20",
+            "label": "10068例目\n2022/2/20\n尾花沢市\n10歳未満 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10069,
+            "date": "2022/2/20",
+            "label": "10069例目\n2022/2/20\n東根市\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10070,
+            "date": "2022/2/20",
+            "label": "10070例目\n2022/2/20\n村山市\n80代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10071,
+            "date": "2022/2/20",
+            "label": "10071例目\n2022/2/20\n東根市\n70代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10072,
+            "date": "2022/2/20",
+            "label": "10072例目\n2022/2/20\n山辺町\n80代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10073,
+            "date": "2022/2/20",
+            "label": "10073例目\n2022/2/20\n東根市\n10代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10074,
+            "date": "2022/2/20",
+            "label": "10074例目\n2022/2/20\n東根市\n70代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10075,
+            "date": "2022/2/20",
+            "label": "10075例目\n2022/2/20\n東根市\n60代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10076,
+            "date": "2022/2/20",
+            "label": "10076例目\n2022/2/20\n西川町\n90歳以上 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10077,
+            "date": "2022/2/20",
+            "label": "10077例目\n2022/2/20\n寒河江市\n90歳以上 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10078,
+            "date": "2022/2/20",
+            "label": "10078例目\n2022/2/20\n天童市\n10代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10079,
+            "date": "2022/2/20",
+            "label": "10079例目\n2022/2/20\n東根市\n50代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10080,
+            "date": "2022/2/20",
+            "label": "10080例目\n2022/2/20\n新庄市\n70代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10081,
+            "date": "2022/2/20",
+            "label": "10081例目\n2022/2/20\n新庄市\n70代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10082,
+            "date": "2022/2/20",
+            "label": "10082例目\n2022/2/20\n新庄市\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10083,
+            "date": "2022/2/20",
+            "label": "10083例目\n2022/2/20\n新庄市\n30代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10084,
+            "date": "2022/2/20",
+            "label": "10084例目\n2022/2/20\n新庄市\n60代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10085,
+            "date": "2022/2/20",
+            "label": "10085例目\n2022/2/20\n新庄市\n10歳未満 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10086,
+            "date": "2022/2/20",
+            "label": "10086例目\n2022/2/20\n新庄市\n50代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10087,
+            "date": "2022/2/20",
+            "label": "10087例目\n2022/2/20\n戸沢村\n30代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10088,
+            "date": "2022/2/20",
+            "label": "10088例目\n2022/2/20\n新庄市\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10089,
+            "date": "2022/2/20",
+            "label": "10089例目\n2022/2/20\n新庄市\n30代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10090,
+            "date": "2022/2/20",
+            "label": "10090例目\n2022/2/20\n新庄市\n80代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10091,
+            "date": "2022/2/20",
+            "label": "10091例目\n2022/2/20\n最上町\n10代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10092,
+            "date": "2022/2/20",
+            "label": "10092例目\n2022/2/20\n長井市\n80代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10093,
+            "date": "2022/2/20",
+            "label": "10093例目\n2022/2/20\n長井市\n80代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10094,
+            "date": "2022/2/20",
+            "label": "10094例目\n2022/2/20\n飯豊町\n80代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10095,
+            "date": "2022/2/20",
+            "label": "10095例目\n2022/2/20\n飯豊町\n20代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10096,
+            "date": "2022/2/20",
+            "label": "10096例目\n2022/2/20\n飯豊町\n10代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10097,
+            "date": "2022/2/20",
+            "label": "10097例目\n2022/2/20\n南陽市\n30代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10098,
+            "date": "2022/2/20",
+            "label": "10098例目\n2022/2/20\n米沢市\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10099,
+            "date": "2022/2/20",
+            "label": "10099例目\n2022/2/20\n長井市\n10代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10100,
+            "date": "2022/2/20",
+            "label": "10100例目\n2022/2/20\n米沢市\n50代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10101,
+            "date": "2022/2/20",
+            "label": "10101例目\n2022/2/20\n米沢市\n70代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10102,
+            "date": "2022/2/20",
+            "label": "10102例目\n2022/2/20\n米沢市\n10代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10103,
+            "date": "2022/2/20",
+            "label": "10103例目\n2022/2/20\n高畠町\n10代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10104,
+            "date": "2022/2/20",
+            "label": "10104例目\n2022/2/20\n米沢市\n30代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10105,
+            "date": "2022/2/20",
+            "label": "10105例目\n2022/2/20\n南陽市\n10代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10106,
+            "date": "2022/2/20",
+            "label": "10106例目\n2022/2/20\n小国町\n20代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10107,
+            "date": "2022/2/20",
+            "label": "10107例目\n2022/2/20\n米沢市\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10108,
+            "date": "2022/2/20",
+            "label": "10108例目\n2022/2/20\n米沢市\n10代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10109,
+            "date": "2022/2/20",
+            "label": "10109例目\n2022/2/20\n米沢市\n10代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10110,
+            "date": "2022/2/20",
+            "label": "10110例目\n2022/2/20\n長井市\n10代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10111,
+            "date": "2022/2/20",
+            "label": "10111例目\n2022/2/20\n米沢市\n60代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10112,
+            "date": "2022/2/20",
+            "label": "10112例目\n2022/2/20\n米沢市\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10113,
+            "date": "2022/2/20",
+            "label": "10113例目\n2022/2/20\n米沢市\n70代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10114,
+            "date": "2022/2/20",
+            "label": "10114例目\n2022/2/20\n米沢市\n10代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10115,
+            "date": "2022/2/20",
+            "label": "10115例目\n2022/2/20\n高畠町\n50代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10116,
+            "date": "2022/2/20",
+            "label": "10116例目\n2022/2/20\n長井市\n10代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10117,
+            "date": "2022/2/20",
+            "label": "10117例目\n2022/2/20\n酒田市\n30代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10118,
+            "date": "2022/2/20",
+            "label": "10118例目\n2022/2/20\n鶴岡市\n50代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10119,
+            "date": "2022/2/20",
+            "label": "10119例目\n2022/2/20\n三川町\n10歳未満 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10120,
+            "date": "2022/2/20",
+            "label": "10120例目\n2022/2/20\n鶴岡市\n10歳未満 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10121,
+            "date": "2022/2/20",
+            "label": "10121例目\n2022/2/20\n鶴岡市\n10歳未満 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10122,
+            "date": "2022/2/20",
+            "label": "10122例目\n2022/2/20\n鶴岡市\n10歳未満 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10123,
+            "date": "2022/2/20",
+            "label": "10123例目\n2022/2/20\n三川町\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10124,
+            "date": "2022/2/20",
+            "label": "10124例目\n2022/2/20\n鶴岡市\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10125,
+            "date": "2022/2/20",
+            "label": "10125例目\n2022/2/20\n三川町\n10代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10126,
+            "date": "2022/2/20",
+            "label": "10126例目\n2022/2/20\n三川町\n10歳未満 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10127,
+            "date": "2022/2/20",
+            "label": "10127例目\n2022/2/20\n鶴岡市\n10代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10128,
+            "date": "2022/2/20",
+            "label": "10128例目\n2022/2/20\n酒田市\n30代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10129,
+            "date": "2022/2/20",
+            "label": "10129例目\n2022/2/20\n鶴岡市\n10代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10130,
+            "date": "2022/2/20",
+            "label": "10130例目\n2022/2/20\n鶴岡市\n90歳以上 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10131,
+            "date": "2022/2/20",
+            "label": "10131例目\n2022/2/20\n鶴岡市\n30代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10132,
+            "date": "2022/2/20",
+            "label": "10132例目\n2022/2/20\n鶴岡市\n10歳未満 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10133,
+            "date": "2022/2/20",
+            "label": "10133例目\n2022/2/20\n鶴岡市\n10歳未満 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10134,
+            "date": "2022/2/20",
+            "label": "10134例目\n2022/2/20\n庄内町\n70代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10135,
+            "date": "2022/2/20",
+            "label": "10135例目\n2022/2/20\n庄内町\n10歳未満 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10136,
+            "date": "2022/2/20",
+            "label": "10136例目\n2022/2/20\n酒田市\n50代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10137,
+            "date": "2022/2/20",
+            "label": "10137例目\n2022/2/20\n酒田市\n30代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10138,
+            "date": "2022/2/20",
+            "label": "10138例目\n2022/2/20\n鶴岡市\n30代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10139,
+            "date": "2022/2/20",
+            "label": "10139例目\n2022/2/20\n酒田市\n10代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10140,
+            "date": "2022/2/20",
+            "label": "10140例目\n2022/2/20\n酒田市\n30代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10141,
+            "date": "2022/2/20",
+            "label": "10141例目\n2022/2/20\n鶴岡市\n40代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10142,
+            "date": "2022/2/20",
+            "label": "10142例目\n2022/2/20\n鶴岡市\n90歳以上 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10143,
+            "date": "2022/2/20",
+            "label": "10143例目\n2022/2/20\n鶴岡市\n90歳以上 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10144,
+            "date": "2022/2/20",
+            "label": "10144例目\n2022/2/20\n鶴岡市\n90歳以上 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10145,
+            "date": "2022/2/20",
+            "label": "10145例目\n2022/2/20\n三川町\n10歳未満 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10146,
+            "date": "2022/2/20",
+            "label": "10146例目\n2022/2/20\n酒田市\n60代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10147,
+            "date": "2022/2/20",
+            "label": "10147例目\n2022/2/20\n酒田市\n20代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10148,
+            "date": "2022/2/20",
+            "label": "10148例目\n2022/2/20\n鶴岡市\n90歳以上 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10149,
+            "date": "2022/2/20",
+            "label": "10149例目\n2022/2/20\n酒田市\n10代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10150,
+            "date": "2022/2/20",
+            "label": "10150例目\n2022/2/20\n県外\n10代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10151,
+            "date": "2022/2/20",
+            "label": "10151例目\n2022/2/20\n酒田市\n10代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10152,
+            "date": "2022/2/20",
+            "label": "10152例目\n2022/2/20\n酒田市\n50代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10153,
+            "date": "2022/2/20",
+            "label": "10153例目\n2022/2/20\n酒田市\n30代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10154,
+            "date": "2022/2/20",
+            "label": "10154例目\n2022/2/20\n酒田市\n10歳未満 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10155,
+            "date": "2022/2/20",
+            "label": "10155例目\n2022/2/20\n酒田市\n10歳未満 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10156,
+            "date": "2022/2/20",
+            "label": "10156例目\n2022/2/20\n酒田市\n30代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10157,
+            "date": "2022/2/20",
+            "label": "10157例目\n2022/2/20\n酒田市\n10歳未満 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10158,
+            "date": "2022/2/20",
+            "label": "10158例目\n2022/2/20\n酒田市\n70代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10159,
+            "date": "2022/2/20",
+            "label": "10159例目\n2022/2/20\n酒田市\n10歳未満 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10160,
+            "date": "2022/2/20",
+            "label": "10160例目\n2022/2/20\n酒田市\n30代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10161,
+            "date": "2022/2/20",
+            "label": "10161例目\n2022/2/20\n酒田市\n60代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10162,
+            "date": "2022/2/20",
+            "label": "10162例目\n2022/2/20\n酒田市\n30代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10163,
+            "date": "2022/2/20",
+            "label": "10163例目\n2022/2/20\n鶴岡市\n30代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10164,
+            "date": "2022/2/20",
+            "label": "10164例目\n2022/2/20\n酒田市\n10代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10165,
+            "date": "2022/2/20",
+            "label": "10165例目\n2022/2/20\n遊佐町\n30代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10166,
+            "date": "2022/2/20",
+            "label": "10166例目\n2022/2/20\n庄内町\n10歳未満 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10167,
+            "date": "2022/2/20",
+            "label": "10167例目\n2022/2/20\n庄内町\n10代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10168,
+            "date": "2022/2/20",
+            "label": "10168例目\n2022/2/20\n庄内町\n30代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10169,
+            "date": "2022/2/20",
+            "label": "10169例目\n2022/2/20\n酒田市\n10歳未満 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10170,
+            "date": "2022/2/20",
+            "label": "10170例目\n2022/2/20\n酒田市\n30代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10171,
+            "date": "2022/2/20",
+            "label": "10171例目\n2022/2/20\n鶴岡市\n10歳未満 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10172,
+            "date": "2022/2/20",
+            "label": "10172例目\n2022/2/20\n鶴岡市\n30代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10173,
+            "date": "2022/2/20",
+            "label": "10173例目\n2022/2/20\n鶴岡市\n30代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10174,
+            "date": "2022/2/20",
+            "label": "10174例目\n2022/2/20\n鶴岡市\n10歳未満 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10175,
+            "date": "2022/2/20",
+            "label": "10175例目\n2022/2/20\n鶴岡市\n10歳未満 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10176,
+            "date": "2022/2/20",
+            "label": "10176例目\n2022/2/20\n鶴岡市\n10歳未満 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10177,
+            "date": "2022/2/20",
+            "label": "10177例目\n2022/2/20\n鶴岡市\n10代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10178,
+            "date": "2022/2/20",
+            "label": "10178例目\n2022/2/20\n鶴岡市\n10歳未満 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10179,
+            "date": "2022/2/20",
+            "label": "10179例目\n2022/2/20\n鶴岡市\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10180,
+            "date": "2022/2/20",
+            "label": "10180例目\n2022/2/20\n鶴岡市\n10代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10181,
+            "date": "2022/2/20",
+            "label": "10181例目\n2022/2/20\n鶴岡市\n30代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10182,
+            "date": "2022/2/20",
+            "label": "10182例目\n2022/2/20\n鶴岡市\n10歳未満 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10183,
+            "date": "2022/2/20",
+            "label": "10183例目\n2022/2/20\n鶴岡市\n10歳未満 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10217,
+            "date": "2022/2/21",
+            "label": "10217例目\n2022/2/21\n欠番\n欠番 ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 10219,
+            "date": "2022/2/21",
+            "label": "10219例目\n2022/2/21\n中山町\n30代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10220,
+            "date": "2022/2/21",
+            "label": "10220例目\n2022/2/21\n村山市\n10歳未満 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10221,
+            "date": "2022/2/21",
+            "label": "10221例目\n2022/2/21\n天童市\n10代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10222,
+            "date": "2022/2/21",
+            "label": "10222例目\n2022/2/21\n上山市\n50代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10223,
+            "date": "2022/2/21",
+            "label": "10223例目\n2022/2/21\n尾花沢市\n30代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10224,
+            "date": "2022/2/21",
+            "label": "10224例目\n2022/2/21\n尾花沢市\n30代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10225,
+            "date": "2022/2/21",
+            "label": "10225例目\n2022/2/21\n尾花沢市\n40代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10226,
+            "date": "2022/2/21",
+            "label": "10226例目\n2022/2/21\n尾花沢市\n10歳未満 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10227,
+            "date": "2022/2/21",
+            "label": "10227例目\n2022/2/21\n尾花沢市\n30代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10228,
+            "date": "2022/2/21",
+            "label": "10228例目\n2022/2/21\n尾花沢市\n40代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10229,
+            "date": "2022/2/21",
+            "label": "10229例目\n2022/2/21\n尾花沢市\n50代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10230,
+            "date": "2022/2/21",
+            "label": "10230例目\n2022/2/21\n西川町\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10231,
+            "date": "2022/2/21",
+            "label": "10231例目\n2022/2/21\n東根市\n30代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10232,
+            "date": "2022/2/21",
+            "label": "10232例目\n2022/2/21\n天童市\n40代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10233,
+            "date": "2022/2/21",
+            "label": "10233例目\n2022/2/21\n尾花沢市\n30代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10234,
+            "date": "2022/2/21",
+            "label": "10234例目\n2022/2/21\n大石田町\n50代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10235,
+            "date": "2022/2/21",
+            "label": "10235例目\n2022/2/21\n上山市\n50代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10236,
+            "date": "2022/2/21",
+            "label": "10236例目\n2022/2/21\n東根市\n30代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10237,
+            "date": "2022/2/21",
+            "label": "10237例目\n2022/2/21\n河北町\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10238,
+            "date": "2022/2/21",
+            "label": "10238例目\n2022/2/21\n寒河江市\n40代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10239,
+            "date": "2022/2/21",
+            "label": "10239例目\n2022/2/21\n寒河江市\n10代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10240,
+            "date": "2022/2/21",
+            "label": "10240例目\n2022/2/21\n寒河江市\n10代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10241,
+            "date": "2022/2/21",
+            "label": "10241例目\n2022/2/21\n河北町\n20代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10242,
+            "date": "2022/2/21",
+            "label": "10242例目\n2022/2/21\n河北町\n50代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10243,
+            "date": "2022/2/21",
+            "label": "10243例目\n2022/2/21\n山辺町\n90歳以上 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10244,
+            "date": "2022/2/21",
+            "label": "10244例目\n2022/2/21\n東根市\n30代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10245,
+            "date": "2022/2/21",
+            "label": "10245例目\n2022/2/21\n東根市\n40代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10246,
+            "date": "2022/2/21",
+            "label": "10246例目\n2022/2/21\n寒河江市\n30代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10247,
+            "date": "2022/2/21",
+            "label": "10247例目\n2022/2/21\n天童市\n10歳未満 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10248,
+            "date": "2022/2/21",
+            "label": "10248例目\n2022/2/21\n村山市\n10歳未満 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10249,
+            "date": "2022/2/21",
+            "label": "10249例目\n2022/2/21\n尾花沢市\n30代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10250,
+            "date": "2022/2/21",
+            "label": "10250例目\n2022/2/21\n河北町\n30代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10251,
+            "date": "2022/2/21",
+            "label": "10251例目\n2022/2/21\n新庄市\n10代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10252,
+            "date": "2022/2/21",
+            "label": "10252例目\n2022/2/21\n新庄市\n90歳以上 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10253,
+            "date": "2022/2/21",
+            "label": "10253例目\n2022/2/21\n新庄市\n10代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10254,
+            "date": "2022/2/21",
+            "label": "10254例目\n2022/2/21\n新庄市\n30代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10255,
+            "date": "2022/2/21",
+            "label": "10255例目\n2022/2/21\n新庄市\n60代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10256,
+            "date": "2022/2/21",
+            "label": "10256例目\n2022/2/21\n新庄市\n10代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10257,
+            "date": "2022/2/21",
+            "label": "10257例目\n2022/2/21\n新庄市\n30代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10258,
+            "date": "2022/2/21",
+            "label": "10258例目\n2022/2/21\n新庄市\n10代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10259,
+            "date": "2022/2/21",
+            "label": "10259例目\n2022/2/21\n新庄市\n10歳未満 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10260,
+            "date": "2022/2/21",
+            "label": "10260例目\n2022/2/21\n新庄市\n80代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10261,
+            "date": "2022/2/21",
+            "label": "10261例目\n2022/2/21\n新庄市\n10代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10262,
+            "date": "2022/2/21",
+            "label": "10262例目\n2022/2/21\n新庄市\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10263,
+            "date": "2022/2/21",
+            "label": "10263例目\n2022/2/21\n新庄市\n10代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10264,
+            "date": "2022/2/21",
+            "label": "10264例目\n2022/2/21\n新庄市\n60代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10265,
+            "date": "2022/2/21",
+            "label": "10265例目\n2022/2/21\n新庄市\n90歳以上 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10266,
+            "date": "2022/2/21",
+            "label": "10266例目\n2022/2/21\n舟形町\n30代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10267,
+            "date": "2022/2/21",
+            "label": "10267例目\n2022/2/21\n新庄市\n20代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10268,
+            "date": "2022/2/21",
+            "label": "10268例目\n2022/2/21\n新庄市\n10代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10269,
+            "date": "2022/2/21",
+            "label": "10269例目\n2022/2/21\n長井市\n10代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10270,
+            "date": "2022/2/21",
+            "label": "10270例目\n2022/2/21\n米沢市\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10271,
+            "date": "2022/2/21",
+            "label": "10271例目\n2022/2/21\n米沢市\n10代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10272,
+            "date": "2022/2/21",
+            "label": "10272例目\n2022/2/21\n米沢市\n90歳以上 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10273,
+            "date": "2022/2/21",
+            "label": "10273例目\n2022/2/21\n米沢市\n90歳以上 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10274,
+            "date": "2022/2/21",
+            "label": "10274例目\n2022/2/21\n米沢市\n30代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10275,
+            "date": "2022/2/21",
+            "label": "10275例目\n2022/2/21\n小国町\n10歳未満 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10276,
+            "date": "2022/2/21",
+            "label": "10276例目\n2022/2/21\n飯豊町\n10代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10277,
+            "date": "2022/2/21",
+            "label": "10277例目\n2022/2/21\n長井市\n10代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10278,
+            "date": "2022/2/21",
+            "label": "10278例目\n2022/2/21\n長井市\n10代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10279,
+            "date": "2022/2/21",
+            "label": "10279例目\n2022/2/21\n川西町\n40代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10280,
+            "date": "2022/2/21",
+            "label": "10280例目\n2022/2/21\n米沢市\n50代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10281,
+            "date": "2022/2/21",
+            "label": "10281例目\n2022/2/21\n米沢市\n10代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10282,
+            "date": "2022/2/21",
+            "label": "10282例目\n2022/2/21\n長井市\n10代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10283,
+            "date": "2022/2/21",
+            "label": "10283例目\n2022/2/21\n南陽市\n20代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10284,
+            "date": "2022/2/21",
+            "label": "10284例目\n2022/2/21\n南陽市\n20代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10285,
+            "date": "2022/2/21",
+            "label": "10285例目\n2022/2/21\n米沢市\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10286,
+            "date": "2022/2/21",
+            "label": "10286例目\n2022/2/21\n三川町\n40代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10287,
+            "date": "2022/2/21",
+            "label": "10287例目\n2022/2/21\n鶴岡市\n80代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10288,
+            "date": "2022/2/21",
+            "label": "10288例目\n2022/2/21\n鶴岡市\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10289,
+            "date": "2022/2/21",
+            "label": "10289例目\n2022/2/21\n庄内町\n50代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10290,
+            "date": "2022/2/21",
+            "label": "10290例目\n2022/2/21\n酒田市\n80代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10291,
+            "date": "2022/2/21",
+            "label": "10291例目\n2022/2/21\n酒田市\n80代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10292,
+            "date": "2022/2/21",
+            "label": "10292例目\n2022/2/21\n鶴岡市\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10293,
+            "date": "2022/2/21",
+            "label": "10293例目\n2022/2/21\n鶴岡市\n10歳未満 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10294,
+            "date": "2022/2/21",
+            "label": "10294例目\n2022/2/21\n鶴岡市\n70代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10295,
+            "date": "2022/2/21",
+            "label": "10295例目\n2022/2/21\n酒田市\n10代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10296,
+            "date": "2022/2/21",
+            "label": "10296例目\n2022/2/21\n酒田市\n60代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10297,
+            "date": "2022/2/21",
+            "label": "10297例目\n2022/2/21\n県外\n60代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10298,
+            "date": "2022/2/21",
+            "label": "10298例目\n2022/2/21\n鶴岡市\n10歳未満 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10299,
+            "date": "2022/2/21",
+            "label": "10299例目\n2022/2/21\n酒田市\n10歳未満 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10300,
+            "date": "2022/2/21",
+            "label": "10300例目\n2022/2/21\n遊佐町\n20代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10301,
+            "date": "2022/2/21",
+            "label": "10301例目\n2022/2/21\n三川町\n10歳未満 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10302,
+            "date": "2022/2/21",
+            "label": "10302例目\n2022/2/21\n酒田市\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10303,
+            "date": "2022/2/21",
+            "label": "10303例目\n2022/2/21\n酒田市\n10歳未満 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10304,
+            "date": "2022/2/21",
+            "label": "10304例目\n2022/2/21\n庄内町\n50代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10305,
+            "date": "2022/2/21",
+            "label": "10305例目\n2022/2/21\n酒田市\n50代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10306,
+            "date": "2022/2/21",
+            "label": "10306例目\n2022/2/21\n酒田市\n10代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10307,
+            "date": "2022/2/21",
+            "label": "10307例目\n2022/2/21\n酒田市\n10歳未満 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10308,
+            "date": "2022/2/21",
+            "label": "10308例目\n2022/2/21\n酒田市\n10代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10309,
+            "date": "2022/2/21",
+            "label": "10309例目\n2022/2/21\n酒田市\n10歳未満 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10310,
+            "date": "2022/2/21",
+            "label": "10310例目\n2022/2/21\n酒田市\n10歳未満 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10311,
+            "date": "2022/2/21",
+            "label": "10311例目\n2022/2/21\n酒田市\n10歳未満 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10312,
+            "date": "2022/2/21",
+            "label": "10312例目\n2022/2/21\n庄内町\n50代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10313,
+            "date": "2022/2/21",
+            "label": "10313例目\n2022/2/21\n庄内町\n10歳未満 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10314,
+            "date": "2022/2/21",
+            "label": "10314例目\n2022/2/21\n鶴岡市\n10歳未満 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10315,
+            "date": "2022/2/21",
+            "label": "10315例目\n2022/2/21\n鶴岡市\n50代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10316,
+            "date": "2022/2/21",
+            "label": "10316例目\n2022/2/21\n鶴岡市\n50代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10317,
+            "date": "2022/2/21",
+            "label": "10317例目\n2022/2/21\n鶴岡市\n10代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10318,
+            "date": "2022/2/21",
+            "label": "10318例目\n2022/2/21\n庄内町\n70代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10319,
+            "date": "2022/2/21",
+            "label": "10319例目\n2022/2/21\n庄内町\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10320,
+            "date": "2022/2/21",
+            "label": "10320例目\n2022/2/21\n鶴岡市\n30代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10321,
+            "date": "2022/2/21",
+            "label": "10321例目\n2022/2/21\n酒田市\n10歳未満 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10322,
+            "date": "2022/2/21",
+            "label": "10322例目\n2022/2/21\n鶴岡市\n60代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10323,
+            "date": "2022/2/21",
+            "label": "10323例目\n2022/2/21\n酒田市\n30代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10324,
+            "date": "2022/2/21",
+            "label": "10324例目\n2022/2/21\n酒田市\n10歳未満 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10325,
+            "date": "2022/2/21",
+            "label": "10325例目\n2022/2/21\n酒田市\n10歳未満 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10326,
+            "date": "2022/2/21",
+            "label": "10326例目\n2022/2/21\n山形市\n60代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10327,
+            "date": "2022/2/21",
+            "label": "10327例目\n2022/2/21\n山形市\n10代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10328,
+            "date": "2022/2/21",
+            "label": "10328例目\n2022/2/21\n山形市\n30代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10329,
+            "date": "2022/2/21",
+            "label": "10329例目\n2022/2/21\n山形市\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10330,
+            "date": "2022/2/21",
+            "label": "10330例目\n2022/2/21\n山形市\n10代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10331,
+            "date": "2022/2/21",
+            "label": "10331例目\n2022/2/21\n山形市\n50代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10332,
+            "date": "2022/2/21",
+            "label": "10332例目\n2022/2/21\n山形市\n20代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10333,
+            "date": "2022/2/21",
+            "label": "10333例目\n2022/2/21\n山形市\n30代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10334,
+            "date": "2022/2/21",
+            "label": "10334例目\n2022/2/21\n山形市\n20代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10335,
+            "date": "2022/2/21",
+            "label": "10335例目\n2022/2/21\n山形市\n40代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10336,
+            "date": "2022/2/21",
+            "label": "10336例目\n2022/2/21\n山形市\n50代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10337,
+            "date": "2022/2/21",
+            "label": "10337例目\n2022/2/21\n山形市\n10歳未満 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10338,
+            "date": "2022/2/21",
+            "label": "10338例目\n2022/2/21\n山形市\n10代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10339,
+            "date": "2022/2/21",
+            "label": "10339例目\n2022/2/21\n山形市\n40代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10340,
+            "date": "2022/2/21",
+            "label": "10340例目\n2022/2/21\n山形市\n40代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10341,
+            "date": "2022/2/21",
+            "label": "10341例目\n2022/2/21\n山形市\n20代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10342,
+            "date": "2022/2/21",
+            "label": "10342例目\n2022/2/21\n山形市\n70代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10343,
+            "date": "2022/2/21",
+            "label": "10343例目\n2022/2/21\n山形市\n50代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 10344,
+            "date": "2022/2/21",
+            "label": "10344例目\n2022/2/21\n山形市\n50代 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10345,
+            "date": "2022/2/21",
+            "label": "10345例目\n2022/2/21\n山形市\n10歳未満 男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 10346,
+            "date": "2022/2/21",
+            "label": "10346例目\n2022/2/21\n山形市\n50代 女性"
+        },
+        "classes": ["multiline-manual", "female"]
     }
 ],
 "networkData":[    {
@@ -113968,6 +116304,356 @@
             "target": "10215",
             "label": "同居家族"
         }
+    },
+    {
+        "data": {
+            "source": "10034",
+            "target": "10033",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "10038",
+            "target": "9790",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "10039",
+            "target": "9790",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "10040",
+            "target": "9122",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "10043",
+            "target": "9605",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "10068",
+            "target": "10033",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "10080",
+            "target": "9887",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "10081",
+            "target": "9887",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "10087",
+            "target": "10086",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "10119",
+            "target": "9730",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "10122",
+            "target": "9970",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "10123",
+            "target": "9730",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "10132",
+            "target": "9970",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "10142",
+            "target": "9935",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "10143",
+            "target": "9935",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "10144",
+            "target": "9935",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "10157",
+            "target": "9698",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "10158",
+            "target": "9698",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "10159",
+            "target": "9698",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "10160",
+            "target": "9698",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "10166",
+            "target": "8851",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "10167",
+            "target": "8851",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "10168",
+            "target": "8851",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "10174",
+            "target": "9970",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "10178",
+            "target": "9970",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "10182",
+            "target": "9970",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "10183",
+            "target": "9970",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "10235",
+            "target": "10019",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "10236",
+            "target": "9001",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "10238",
+            "target": "9822",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "10239",
+            "target": "9822",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "10240",
+            "target": "9822",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "10242",
+            "target": "9818",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "10244",
+            "target": "10193",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "10252",
+            "target": "9887",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "10260",
+            "target": "9887",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "10273",
+            "target": "10272",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "10286",
+            "target": "9730",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "10290",
+            "target": "9039",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "10291",
+            "target": "9039",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "10295",
+            "target": "9228",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "10298",
+            "target": "9970",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "10306",
+            "target": "10305",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "10324",
+            "target": "9514",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "10329",
+            "target": "9984",
+            "label": "接触者"
+        }
+    },
+    {
+        "data": {
+            "source": "10333",
+            "target": "9559",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "10337",
+            "target": "9556",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "10340",
+            "target": "10193",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "10342",
+            "target": "8910",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "10343",
+            "target": "10193",
+            "label": "関連"
+        }
     }
 ],
-"lastUpdate":"2022/2/20 23:00"}
+"lastUpdate":"2022/2/21 21:37"}
