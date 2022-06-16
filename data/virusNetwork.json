@@ -236397,6 +236397,494 @@
             "label": "29591例目\n2022/6/15\n山形市 \n10歳未満  男性"
         },
         "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 29592,
+            "date": "2022/6/16",
+            "label": "29592例目\n2022/6/16\n河北町 \n10 歳未満  女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 29593,
+            "date": "2022/6/16",
+            "label": "29593例目\n2022/6/16\n天童市 \n50 代  女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 29594,
+            "date": "2022/6/16",
+            "label": "29594例目\n2022/6/16\n上山市 \n10 歳未満  男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 29595,
+            "date": "2022/6/16",
+            "label": "29595例目\n2022/6/16\n河北町 \n30 代  女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 29596,
+            "date": "2022/6/16",
+            "label": "29596例目\n2022/6/16\n山辺町 \n10 歳未満  男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 29597,
+            "date": "2022/6/16",
+            "label": "29597例目\n2022/6/16\n寒河江市 \n10 代  男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 29598,
+            "date": "2022/6/16",
+            "label": "29598例目\n2022/6/16\n山辺町 \n30 代  女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 29599,
+            "date": "2022/6/16",
+            "label": "29599例目\n2022/6/16\n河北町 \n40 代  女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 29600,
+            "date": "2022/6/16",
+            "label": "29600例目\n2022/6/16\n寒河江市 \n50 代  女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 29601,
+            "date": "2022/6/16",
+            "label": "29601例目\n2022/6/16\n寒河江市 \n80 代  女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 29602,
+            "date": "2022/6/16",
+            "label": "29602例目\n2022/6/16\n天童市 \n30 代  女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 29603,
+            "date": "2022/6/16",
+            "label": "29603例目\n2022/6/16\n天童市 \n30 代  男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 29604,
+            "date": "2022/6/16",
+            "label": "29604例目\n2022/6/16\n天童市 \n70 代  女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 29605,
+            "date": "2022/6/16",
+            "label": "29605例目\n2022/6/16\n東根市 \n10 歳未満  女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 29606,
+            "date": "2022/6/16",
+            "label": "29606例目\n2022/6/16\n山辺町 \n30 代  女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 29607,
+            "date": "2022/6/16",
+            "label": "29607例目\n2022/6/16\n寒河江市 \n50 代  男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 29608,
+            "date": "2022/6/16",
+            "label": "29608例目\n2022/6/16\n寒河江市 \n10 代  男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 29609,
+            "date": "2022/6/16",
+            "label": "29609例目\n2022/6/16\n新庄市 \n30 代  男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 29610,
+            "date": "2022/6/16",
+            "label": "29610例目\n2022/6/16\n金山町 \n10 代  女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 29611,
+            "date": "2022/6/16",
+            "label": "29611例目\n2022/6/16\n金山町 \n20 代  男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 29612,
+            "date": "2022/6/16",
+            "label": "29612例目\n2022/6/16\n新庄市 \n60 代  男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 29613,
+            "date": "2022/6/16",
+            "label": "29613例目\n2022/6/16\n米沢市 \n30 代  女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 29614,
+            "date": "2022/6/16",
+            "label": "29614例目\n2022/6/16\n米沢市 \n40 代  男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 29615,
+            "date": "2022/6/16",
+            "label": "29615例目\n2022/6/16\n米沢市 \n10 歳未満  男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 29616,
+            "date": "2022/6/16",
+            "label": "29616例目\n2022/6/16\n県外 \n50 代  男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 29617,
+            "date": "2022/6/16",
+            "label": "29617例目\n2022/6/16\n南陽市 \n60 代  男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 29618,
+            "date": "2022/6/16",
+            "label": "29618例目\n2022/6/16\n南陽市 \n30 代  女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 29619,
+            "date": "2022/6/16",
+            "label": "29619例目\n2022/6/16\n米沢市 \n30 代  女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 29620,
+            "date": "2022/6/16",
+            "label": "29620例目\n2022/6/16\n南陽市 \n60 代  女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 29621,
+            "date": "2022/6/16",
+            "label": "29621例目\n2022/6/16\n鶴岡市 \n50 代  女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 29622,
+            "date": "2022/6/16",
+            "label": "29622例目\n2022/6/16\n鶴岡市 \n10 代  女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 29623,
+            "date": "2022/6/16",
+            "label": "29623例目\n2022/6/16\n鶴岡市 \n10 代  女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 29624,
+            "date": "2022/6/16",
+            "label": "29624例目\n2022/6/16\n鶴岡市\n20 代  女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 29625,
+            "date": "2022/6/16",
+            "label": "29625例目\n2022/6/16\n三川町 \n50 代  女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 29626,
+            "date": "2022/6/16",
+            "label": "29626例目\n2022/6/16\n酒田市 \n10 代  女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 29627,
+            "date": "2022/6/16",
+            "label": "29627例目\n2022/6/16\n酒田市 \n10 代  男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 29628,
+            "date": "2022/6/16",
+            "label": "29628例目\n2022/6/16\n酒田市 \n40 代  男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 29629,
+            "date": "2022/6/16",
+            "label": "29629例目\n2022/6/16\n鶴岡市 \n10 歳未満  女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 29630,
+            "date": "2022/6/16",
+            "label": "29630例目\n2022/6/16\n鶴岡市 \n10 代  男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 29631,
+            "date": "2022/6/16",
+            "label": "29631例目\n2022/6/16\n県外 \n40 代  男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 29632,
+            "date": "2022/6/16",
+            "label": "29632例目\n2022/6/16\n鶴岡市 \n30 代  男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 29633,
+            "date": "2022/6/16",
+            "label": "29633例目\n2022/6/16\n鶴岡市 \n30 代  女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 29634,
+            "date": "2022/6/16",
+            "label": "29634例目\n2022/6/16\n鶴岡市 \n10 代  男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 29635,
+            "date": "2022/6/16",
+            "label": "29635例目\n2022/6/16\n鶴岡市 \n30 代  女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 29636,
+            "date": "2022/6/16",
+            "label": "29636例目\n2022/6/16\n酒田市 \n10 代  男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 29637,
+            "date": "2022/6/16",
+            "label": "29637例目\n2022/6/16\n酒田市 \n20 代  男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 29638,
+            "date": "2022/6/16",
+            "label": "29638例目\n2022/6/16\n酒田市 \n20 代  女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 29639,
+            "date": "2022/6/16",
+            "label": "29639例目\n2022/6/16\n酒田市 \n50 代  女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 29640,
+            "date": "2022/6/16",
+            "label": "29640例目\n2022/6/16\n鶴岡市 \n50 代  男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 29641,
+            "date": "2022/6/16",
+            "label": "29641例目\n2022/6/16\n山形市 \n70代  女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 29642,
+            "date": "2022/6/16",
+            "label": "29642例目\n2022/6/16\n山形市 \n10代  女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 29643,
+            "date": "2022/6/16",
+            "label": "29643例目\n2022/6/16\n山形市 \n40代  女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 29644,
+            "date": "2022/6/16",
+            "label": "29644例目\n2022/6/16\n山形市 \n10代  女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 29645,
+            "date": "2022/6/16",
+            "label": "29645例目\n2022/6/16\n山形市 \n80代  女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 29646,
+            "date": "2022/6/16",
+            "label": "29646例目\n2022/6/16\n山形市 \n30代  男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 29647,
+            "date": "2022/6/16",
+            "label": "29647例目\n2022/6/16\n山形市 \n40代  男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 29648,
+            "date": "2022/6/16",
+            "label": "29648例目\n2022/6/16\n山形市 \n10代  女性"
+        },
+        "classes": ["multiline-manual", "female"]
+    },
+    {
+        "data": {
+            "id": 29649,
+            "date": "2022/6/16",
+            "label": "29649例目\n2022/6/16\n山形市 \n10歳未満  男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 29650,
+            "date": "2022/6/16",
+            "label": "29650例目\n2022/6/16\n山形市 \n40代  男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 29651,
+            "date": "2022/6/16",
+            "label": "29651例目\n2022/6/16\n山形市 \n20代  男性"
+        },
+        "classes": ["multiline-manual", "male"]
+    },
+    {
+        "data": {
+            "id": 29652,
+            "date": "2022/6/16",
+            "label": "29652例目\n2022/6/16\n山形市 \n10代  女性"
+        },
+        "classes": ["multiline-manual", "female"]
     }
 ],
 "networkData":[    {
@@ -318788,6 +319276,188 @@
             "target": "29573",
             "label": "同居家族"
         }
+    },
+    {
+        "data": {
+            "source": "29593",
+            "target": "29443",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "29595",
+            "target": "29413",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "29596",
+            "target": "29265",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "29597",
+            "target": "29028",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "29599",
+            "target": "29447",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "29601",
+            "target": "29520",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "29602",
+            "target": "29262",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "29606",
+            "target": "29449",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "29607",
+            "target": "29600",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "29608",
+            "target": "29600",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "29609",
+            "target": "29213",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "29610",
+            "target": "29469",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "29614",
+            "target": "29354",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "29617",
+            "target": "29544",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "29618",
+            "target": "29487",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "29619",
+            "target": "29478",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "29632",
+            "target": "29556",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "29633",
+            "target": "29556",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "29634",
+            "target": "29556",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "29643",
+            "target": "29318",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "29644",
+            "target": "29318",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "29645",
+            "target": "29394",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "29646",
+            "target": "29582",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "29647",
+            "target": "29437",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "29648",
+            "target": "29437",
+            "label": "同居家族"
+        }
+    },
+    {
+        "data": {
+            "source": "29650",
+            "target": "29505",
+            "label": "同居家族"
+        }
     }
 ],
-"lastUpdate":"2022/6/15 23:21"}
+"lastUpdate":"2022/6/17 00:12"}
