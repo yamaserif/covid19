@@ -296309,6 +296309,166 @@
             "label": "クラスターNo.494\n2022/7/31\n長井市\n- ー"
         },
         "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999495001,
+            "date": "2022/8/1",
+            "label": "クラスターNo.495\n2022/8/1\n村山市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999495002,
+            "date": "2022/8/1",
+            "label": "クラスターNo.495\n2022/8/1\n村山市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999495003,
+            "date": "2022/8/1",
+            "label": "クラスターNo.495\n2022/8/1\n村山市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999495004,
+            "date": "2022/8/1",
+            "label": "クラスターNo.495\n2022/8/1\n村山市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999495005,
+            "date": "2022/8/1",
+            "label": "クラスターNo.495\n2022/8/1\n村山市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999495006,
+            "date": "2022/8/1",
+            "label": "クラスターNo.495\n2022/8/1\n村山市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999495007,
+            "date": "2022/8/1",
+            "label": "クラスターNo.495\n2022/8/1\n村山市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999496001,
+            "date": "2022/8/1",
+            "label": "クラスターNo.496\n2022/8/1\n東根市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999496002,
+            "date": "2022/8/1",
+            "label": "クラスターNo.496\n2022/8/1\n東根市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999496003,
+            "date": "2022/8/1",
+            "label": "クラスターNo.496\n2022/8/1\n東根市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999496004,
+            "date": "2022/8/1",
+            "label": "クラスターNo.496\n2022/8/1\n東根市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999496005,
+            "date": "2022/8/1",
+            "label": "クラスターNo.496\n2022/8/1\n東根市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999496006,
+            "date": "2022/8/1",
+            "label": "クラスターNo.496\n2022/8/1\n東根市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999496007,
+            "date": "2022/8/1",
+            "label": "クラスターNo.496\n2022/8/1\n東根市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999497001,
+            "date": "2022/8/1",
+            "label": "クラスターNo.497\n2022/8/1\n尾花沢市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999497002,
+            "date": "2022/8/1",
+            "label": "クラスターNo.497\n2022/8/1\n尾花沢市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999497003,
+            "date": "2022/8/1",
+            "label": "クラスターNo.497\n2022/8/1\n尾花沢市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999497004,
+            "date": "2022/8/1",
+            "label": "クラスターNo.497\n2022/8/1\n尾花沢市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999497005,
+            "date": "2022/8/1",
+            "label": "クラスターNo.497\n2022/8/1\n尾花沢市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999497006,
+            "date": "2022/8/1",
+            "label": "クラスターNo.497\n2022/8/1\n尾花沢市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
     }
 ],
 "networkData":[    {
@@ -400862,6 +401022,146 @@
             "target": "99999494001",
             "label": "利用者"
         }
+    },
+    {
+        "data": {
+            "source": "99999495001",
+            "target": "99999495001",
+            "label": "介護施設"
+        }
+    },
+    {
+        "data": {
+            "source": "99999495002",
+            "target": "99999495001",
+            "label": "職員"
+        }
+    },
+    {
+        "data": {
+            "source": "99999495003",
+            "target": "99999495001",
+            "label": "職員"
+        }
+    },
+    {
+        "data": {
+            "source": "99999495004",
+            "target": "99999495001",
+            "label": "利用者"
+        }
+    },
+    {
+        "data": {
+            "source": "99999495005",
+            "target": "99999495001",
+            "label": "利用者"
+        }
+    },
+    {
+        "data": {
+            "source": "99999495006",
+            "target": "99999495001",
+            "label": "利用者"
+        }
+    },
+    {
+        "data": {
+            "source": "99999495007",
+            "target": "99999495001",
+            "label": "利用者"
+        }
+    },
+    {
+        "data": {
+            "source": "99999496001",
+            "target": "99999496001",
+            "label": "介護施設"
+        }
+    },
+    {
+        "data": {
+            "source": "99999496002",
+            "target": "99999496001",
+            "label": "職員"
+        }
+    },
+    {
+        "data": {
+            "source": "99999496003",
+            "target": "99999496001",
+            "label": "職員"
+        }
+    },
+    {
+        "data": {
+            "source": "99999496004",
+            "target": "99999496001",
+            "label": "職員"
+        }
+    },
+    {
+        "data": {
+            "source": "99999496005",
+            "target": "99999496001",
+            "label": "職員"
+        }
+    },
+    {
+        "data": {
+            "source": "99999496006",
+            "target": "99999496001",
+            "label": "利用者"
+        }
+    },
+    {
+        "data": {
+            "source": "99999496007",
+            "target": "99999496001",
+            "label": "利用者"
+        }
+    },
+    {
+        "data": {
+            "source": "99999497001",
+            "target": "99999497001",
+            "label": "介護施設"
+        }
+    },
+    {
+        "data": {
+            "source": "99999497002",
+            "target": "99999497001",
+            "label": "職員"
+        }
+    },
+    {
+        "data": {
+            "source": "99999497003",
+            "target": "99999497001",
+            "label": "利用者"
+        }
+    },
+    {
+        "data": {
+            "source": "99999497004",
+            "target": "99999497001",
+            "label": "利用者"
+        }
+    },
+    {
+        "data": {
+            "source": "99999497005",
+            "target": "99999497001",
+            "label": "利用者"
+        }
+    },
+    {
+        "data": {
+            "source": "99999497006",
+            "target": "99999497001",
+            "label": "利用者"
+        }
     }
 ],
-"lastUpdate":"2022/7/31 19:36"}
+"lastUpdate":"2022/8/1 22:16"}
