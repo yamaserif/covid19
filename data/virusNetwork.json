@@ -298685,6 +298685,134 @@
             "label": "クラスターNo.525\n2022/8/7\n酒田市\n- ー"
         },
         "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999526001,
+            "date": "2022/8/7",
+            "label": "クラスターNo.526\n2022/8/7\n山形市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999527001,
+            "date": "2022/8/7",
+            "label": "クラスターNo.527\n2022/8/7\n山形市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999528001,
+            "date": "2022/8/7",
+            "label": "クラスターNo.528\n2022/8/7\n山形市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999529001,
+            "date": "2022/8/8",
+            "label": "クラスターNo.529\n2022/8/8\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999529002,
+            "date": "2022/8/8",
+            "label": "クラスターNo.529\n2022/8/8\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999529003,
+            "date": "2022/8/8",
+            "label": "クラスターNo.529\n2022/8/8\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999529004,
+            "date": "2022/8/8",
+            "label": "クラスターNo.529\n2022/8/8\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999529005,
+            "date": "2022/8/8",
+            "label": "クラスターNo.529\n2022/8/8\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999529006,
+            "date": "2022/8/8",
+            "label": "クラスターNo.529\n2022/8/8\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999529007,
+            "date": "2022/8/8",
+            "label": "クラスターNo.529\n2022/8/8\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999529008,
+            "date": "2022/8/8",
+            "label": "クラスターNo.529\n2022/8/8\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999529009,
+            "date": "2022/8/8",
+            "label": "クラスターNo.529\n2022/8/8\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999529010,
+            "date": "2022/8/8",
+            "label": "クラスターNo.529\n2022/8/8\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999529011,
+            "date": "2022/8/8",
+            "label": "クラスターNo.529\n2022/8/8\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999529012,
+            "date": "2022/8/8",
+            "label": "クラスターNo.529\n2022/8/8\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999529013,
+            "date": "2022/8/8",
+            "label": "クラスターNo.529\n2022/8/8\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
     }
 ],
 "networkData":[    {
@@ -405317,6 +405445,118 @@
             "target": "99999525001",
             "label": "生徒"
         }
+    },
+    {
+        "data": {
+            "source": "99999526001",
+            "target": "99999526001",
+            "label": "児童福祉施設"
+        }
+    },
+    {
+        "data": {
+            "source": "99999527001",
+            "target": "99999527001",
+            "label": "介護施設"
+        }
+    },
+    {
+        "data": {
+            "source": "99999528001",
+            "target": "99999528001",
+            "label": "介護施設"
+        }
+    },
+    {
+        "data": {
+            "source": "99999529001",
+            "target": "99999529001",
+            "label": "保育施設"
+        }
+    },
+    {
+        "data": {
+            "source": "99999529002",
+            "target": "99999529001",
+            "label": "職員"
+        }
+    },
+    {
+        "data": {
+            "source": "99999529003",
+            "target": "99999529001",
+            "label": "職員"
+        }
+    },
+    {
+        "data": {
+            "source": "99999529004",
+            "target": "99999529001",
+            "label": "職員"
+        }
+    },
+    {
+        "data": {
+            "source": "99999529005",
+            "target": "99999529001",
+            "label": "園児"
+        }
+    },
+    {
+        "data": {
+            "source": "99999529006",
+            "target": "99999529001",
+            "label": "園児"
+        }
+    },
+    {
+        "data": {
+            "source": "99999529007",
+            "target": "99999529001",
+            "label": "園児"
+        }
+    },
+    {
+        "data": {
+            "source": "99999529008",
+            "target": "99999529001",
+            "label": "園児"
+        }
+    },
+    {
+        "data": {
+            "source": "99999529009",
+            "target": "99999529001",
+            "label": "園児"
+        }
+    },
+    {
+        "data": {
+            "source": "99999529010",
+            "target": "99999529001",
+            "label": "園児"
+        }
+    },
+    {
+        "data": {
+            "source": "99999529011",
+            "target": "99999529001",
+            "label": "園児"
+        }
+    },
+    {
+        "data": {
+            "source": "99999529012",
+            "target": "99999529001",
+            "label": "園児"
+        }
+    },
+    {
+        "data": {
+            "source": "99999529013",
+            "target": "99999529001",
+            "label": "園児"
+        }
     }
 ],
-"lastUpdate":"2022/8/7 23:46"}
+"lastUpdate":"2022/8/8 21:27"}
