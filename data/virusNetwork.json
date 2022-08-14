@@ -300301,6 +300301,30 @@
             "label": "クラスターNo.552\n2022/8/13\n酒田市\n- ー"
         },
         "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999553001,
+            "date": "2022/8/13",
+            "label": "クラスターNo.553\n2022/8/13\n山形市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999554001,
+            "date": "2022/8/13",
+            "label": "クラスターNo.554\n2022/8/13\n山形市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999555001,
+            "date": "2022/8/13",
+            "label": "クラスターNo.555\n2022/8/13\n山形市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
     }
 ],
 "networkData":[    {
@@ -408347,6 +408371,27 @@
             "target": "99999552001",
             "label": "利用者"
         }
+    },
+    {
+        "data": {
+            "source": "99999553001",
+            "target": "99999553001",
+            "label": "障がい者施設"
+        }
+    },
+    {
+        "data": {
+            "source": "99999554001",
+            "target": "99999554001",
+            "label": "介護施設"
+        }
+    },
+    {
+        "data": {
+            "source": "99999555001",
+            "target": "99999555001",
+            "label": "介護施設"
+        }
     }
 ],
-"lastUpdate":"2022/8/14 03:12"}
+"lastUpdate":"2022/8/14 23:47"}
