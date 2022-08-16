@@ -300325,6 +300325,14 @@
             "label": "クラスターNo.555\n2022/8/13\n山形市\n- ー"
         },
         "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999556001,
+            "date": "2022/8/15",
+            "label": "クラスターNo.556\n2022/8/15\n山形市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
     }
 ],
 "networkData":[    {
@@ -408392,6 +408400,13 @@
             "target": "99999555001",
             "label": "介護施設"
         }
+    },
+    {
+        "data": {
+            "source": "99999556001",
+            "target": "99999556001",
+            "label": "障がい者施設"
+        }
     }
 ],
-"lastUpdate":"2022/8/16 01:22"}
+"lastUpdate":"2022/8/16 17:10"}
