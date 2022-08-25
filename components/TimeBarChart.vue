@@ -13,6 +13,24 @@
     <h4 :id="`${titleId}-graph`" class="visually-hidden">
       {{ $t(`{title}のグラフ`, { title }) }}
     </h4>
+    <client-only v-if="selectDateShow">
+      <div style="margin-bottom:20px">
+        <span style="margin-right:5px;">{{ $t('表示範囲') }}</span>
+        <date-picker
+          v-model="selectDate.startDate"
+          :language="ja"
+          format="yyyy年MM月dd日"
+          class="datePicker"
+        />
+        <span>～</span>
+        <date-picker
+          v-model="selectDate.endDate"
+          :language="ja"
+          format="yyyy年MM月dd日"
+          class="datePicker"
+        />
+      </div>
+    </client-only>
     <!-- #88 divで囲んでみる× -->
     <!-- <div> -->
     <bar
@@ -58,6 +76,7 @@
 import Vue from 'vue'
 import { TranslateResult } from 'vue-i18n'
 import { ThisTypedComponentOptionsWithRecordProps } from 'vue/types/options'
+import { ja } from 'vuejs-datepicker/dist/locale'
 import { GraphDataType } from '@/utils/formatGraph'
 import DataView from '@/components/DataView.vue'
 import DataSelector from '@/components/DataSelector.vue'
@@ -122,6 +141,8 @@ type Props = {
   date: string
   unit: string
   url: string
+  selectDateShow: boolean
+  selectDate: object
 }
 
 const options: ThisTypedComponentOptionsWithRecordProps<
@@ -170,9 +191,21 @@ const options: ThisTypedComponentOptionsWithRecordProps<
     url: {
       type: String,
       default: ''
+    },
+    selectDateShow: {
+      type: Boolean,
+      default: false
+    },
+    selectDate: {
+      type: Object,
+      default: {
+        startDate: new Date(),
+        endDate: new Date()
+      }
     }
   },
   data: () => ({
+    ja,
     dataKind: 'transition',
     canvas: true
   }),
@@ -261,10 +294,10 @@ const options: ThisTypedComponentOptionsWithRecordProps<
             }
           }
         },
-      
+
         // #88 responsiveをfalseに設定してみる×
         responsive: true,
-        
+
         maintainAspectRatio: false,
         legend: {
           display: false
@@ -384,7 +417,7 @@ const options: ThisTypedComponentOptionsWithRecordProps<
     if (canvas) {
       canvas.setAttribute('role', 'img')
       canvas.setAttribute('aria-labelledby', labelledbyId)
-      
+
       // #88 style初期設定追加してみる×
       /*
       const width = this.$el!.clientWidth - 22 * 2

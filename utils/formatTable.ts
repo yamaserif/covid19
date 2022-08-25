@@ -38,11 +38,32 @@ type TableDateType = {
  *
  * @param data - Raw data
  */
-export default (data: DataType[]) => {
+export default (data: DataType[], endIndex = -1, dataNum = -1) => {
   const tableDate: TableDateType = {
     headers,
     datasets: []
   }
+
+  if (endIndex <= -1) {
+    endIndex = data.length - 1
+  }
+  if (dataNum <= -1) {
+    dataNum = data.length
+  }
+
+  for (let i = 0; i < dataNum && endIndex - i >= 0; i++) {
+    const pushData = data[endIndex - i]
+    const TableRow: TableDataType = {
+      公表日: dayjs(pushData['リリース日']).format('MM/DD') ?? '不明',
+      居住地: pushData['居住地'] ?? '調査中',
+      年代: pushData['年代'] ?? '不明',
+      性別: pushData['性別'] ?? '不明'
+      // 「退院」を消す。
+      // 退院: d['退院']
+    }
+    tableDate.datasets.push(TableRow)
+  }
+  /*
   data.forEach(d => {
     const TableRow: TableDataType = {
       公表日: dayjs(d['リリース日']).format('MM/DD') ?? '不明',
@@ -54,6 +75,7 @@ export default (data: DataType[]) => {
     }
     tableDate.datasets.push(TableRow)
   })
-  tableDate.datasets.sort((a, b) => (a === b ? 0 : a < b ? 1 : -1))
+  */
+  // tableDate.datasets.sort((a, b) => (a === b ? 0 : a < b ? 1 : -1))
   return tableDate
 }
