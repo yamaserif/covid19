@@ -301181,6 +301181,22 @@
             "label": "クラスターNo.570\n2022/8/23\n米沢市\n- ー"
         },
         "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999571001,
+            "date": "2022/8/23",
+            "label": "クラスターNo.571\n2022/8/23\n山形市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999572001,
+            "date": "2022/8/23",
+            "label": "クラスターNo.572\n2022/8/23\n山形市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
     }
 ],
 "networkData":[    {
@@ -409997,6 +410013,20 @@
             "target": "99999570001",
             "label": "利用者"
         }
+    },
+    {
+        "data": {
+            "source": "99999571001",
+            "target": "99999571001",
+            "label": "医療機関"
+        }
+    },
+    {
+        "data": {
+            "source": "99999572001",
+            "target": "99999572001",
+            "label": "介護施設"
+        }
     }
 ],
-"lastUpdate":"2022/8/23 23:12"}
+"lastUpdate":"2022/8/24 21:39"}
