@@ -301509,6 +301509,54 @@
             "label": "クラスターNo.577\n2022/8/25\n米沢市\n- ー"
         },
         "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999578001,
+            "date": "2022/8/26",
+            "label": "クラスターNo.578\n2022/8/26\n川西町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999578002,
+            "date": "2022/8/26",
+            "label": "クラスターNo.578\n2022/8/26\n川西町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999578003,
+            "date": "2022/8/26",
+            "label": "クラスターNo.578\n2022/8/26\n川西町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999578004,
+            "date": "2022/8/26",
+            "label": "クラスターNo.578\n2022/8/26\n川西町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999578005,
+            "date": "2022/8/26",
+            "label": "クラスターNo.578\n2022/8/26\n川西町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999578006,
+            "date": "2022/8/26",
+            "label": "クラスターNo.578\n2022/8/26\n川西町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
     }
 ],
 "networkData":[    {
@@ -410612,6 +410660,48 @@
             "target": "99999577001",
             "label": "利用者"
         }
+    },
+    {
+        "data": {
+            "source": "99999578001",
+            "target": "99999578001",
+            "label": "介護施設"
+        }
+    },
+    {
+        "data": {
+            "source": "99999578002",
+            "target": "99999578001",
+            "label": "職員"
+        }
+    },
+    {
+        "data": {
+            "source": "99999578003",
+            "target": "99999578001",
+            "label": "職員"
+        }
+    },
+    {
+        "data": {
+            "source": "99999578004",
+            "target": "99999578001",
+            "label": "利用者"
+        }
+    },
+    {
+        "data": {
+            "source": "99999578005",
+            "target": "99999578001",
+            "label": "利用者"
+        }
+    },
+    {
+        "data": {
+            "source": "99999578006",
+            "target": "99999578001",
+            "label": "利用者"
+        }
     }
 ],
-"lastUpdate":"2022/8/26 01:49"}
+"lastUpdate":"2022/8/27 01:33"}
