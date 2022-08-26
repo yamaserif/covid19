@@ -1,6 +1,7 @@
 <template>
   <v-col cols="12" md="6" class="DataCard">
     <time-bar-chart
+      :refs="'chart'"
       :title="$t('陽性患者数')"
       :title-id="'number-of-confirmed-cases'"
       :chart-id="'time-bar-chart-patients'"
@@ -8,6 +9,8 @@
       :date="Data.patients.date"
       :unit="$t('人')"
       :url="'https://catalog.data.metro.tokyo.lg.jp/dataset/t000010d0000000068'"
+      :select-date-show="true"
+      :select-date="selectDate"
     />
   </v-col>
 </template>
@@ -23,13 +26,35 @@ export default {
   },
   data() {
     // 感染者数グラフ
-    const patientsGraph = formatGraph(Data.patients_summary.data)
+    const startDate = new Date()
+    startDate.setMonth(startDate.getMonth() - 2)
+    const patientsGraph = formatGraph(Data.patients_summary.data, startDate)
 
     const data = {
+      selectDate: {
+        startDate,
+        endDate: new Date()
+      },
       Data,
       patientsGraph
     }
     return data
+  },
+  watch: {
+    'selectDate.startDate'() {
+      this.patientsGraph = formatGraph(
+        Data.patients_summary.data,
+        this.selectDate.startDate,
+        this.selectDate.endDate
+      )
+    },
+    'selectDate.endDate'() {
+      this.patientsGraph = formatGraph(
+        Data.patients_summary.data,
+        this.selectDate.startDate,
+        this.selectDate.endDate
+      )
+    }
   }
 }
 </script>
