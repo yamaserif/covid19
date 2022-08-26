@@ -7,10 +7,12 @@
       :chart-data="graphData"
       :date="data.date"
       :unit="$t('人')"
+      :select-date-show="true"
+      :select-date="selectDate"
     >
       <template v-slot:description>
         <ul>
-        　<!--
+          <!--
           <li>
             {{ $t('（注）山形県Twitterアカウント公表値より集計') }}
           </li>
@@ -49,11 +51,45 @@ export default {
     })
 
     // 検査実施人数グラフ
-    const graphData = formatGraph(formatData)
+    const startDate = new Date()
+    startDate.setMonth(startDate.getMonth() - 2)
+    const graphData = formatGraph(formatData, startDate)
 
     return {
+      selectDate: {
+        startDate,
+        endDate: new Date()
+      },
       data: Data.inspection_persons,
       graphData
+    }
+  },
+  watch: {
+    'selectDate.startDate'() {
+      const formatData = Data.inspection_persons.labels.map((date, i) => {
+        return {
+          日付: date,
+          小計: Data.inspection_persons.datasets[0].data[i]
+        }
+      })
+      this.graphData = formatGraph(
+        formatData,
+        this.selectDate.startDate,
+        this.selectDate.endDate
+      )
+    },
+    'selectDate.endDate'() {
+      const formatData = Data.inspection_persons.labels.map((date, i) => {
+        return {
+          日付: date,
+          小計: Data.inspection_persons.datasets[0].data[i]
+        }
+      })
+      this.graphData = formatGraph(
+        formatData,
+        this.selectDate.startDate,
+        this.selectDate.endDate
+      )
     }
   }
 }

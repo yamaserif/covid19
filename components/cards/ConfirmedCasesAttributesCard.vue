@@ -1,11 +1,12 @@
 <template>
   <v-col cols="12" md="6" class="DataCard">
     <data-table
+      :ref="'tableObj'"
       :title="$t('陽性患者の属性')"
       :title-id="'attributes-of-confirmed-cases'"
       :chart-data="patientsTable"
       :chart-option="{}"
-      :date="Data.patients.date"
+      :date="dataDate"
       :info="sumInfoOfPatients"
       :url="'https://catalog.data.metro.tokyo.lg.jp/dataset/t000010d0000000068'"
       :source="$t('オープンデータを入手')"
@@ -26,8 +27,9 @@ export default {
   data() {
     // 感染者数グラフ
     const patientsGraph = formatGraph(Data.patients_summary.data)
-    // 感染者数
-    const patientsTable = formatTable(Data.patients.data)
+    // 感染者数(同時には100件のみ表示)
+    this.endIndex = Data.patients.data.length - 1
+    const patientsTable = formatTable(Data.patients.data, this.endIndex, 100)
 
     const sumInfoOfPatients = {
       lText: patientsGraph[
@@ -64,11 +66,61 @@ export default {
     }
 
     const data = {
-      Data,
+      dataDate: Data.patients.date,
       patientsTable,
       sumInfoOfPatients
     }
     return data
+  },
+  mounted() {
+    const displayedTable = this.$refs.tableObj.$refs.displayedTable
+    const instance = displayedTable.$el.childNodes[0]
+    instance.addEventListener('scroll', this.onScroll)
+  },
+  methods: {
+    onScroll() {
+      const displayedTable = this.$refs.tableObj.$refs.displayedTable
+      const instance = displayedTable.$el.childNodes[0]
+      const scrollTop = Math.ceil(instance.scrollTop)
+      if (
+        scrollTop + instance.clientHeight >= instance.scrollHeight &&
+        !this.isLoading
+      ) {
+        this.isLoading = true
+        this.endIndex -= 50
+
+        new Promise(resolve => {
+          resolve(formatTable(Data.patients.data, this.endIndex, 100))
+        })
+          .then(data => {
+            this.patientsTable.datasets = data.datasets
+            instance.scrollTop =
+              (instance.scrollHeight - instance.clientHeight) / 2 - 100
+          })
+          .finally(() => {
+            this.isLoading = false
+          })
+      } else if (
+        scrollTop <= 0 &&
+        this.endIndex + 50 <= Data.patients.data.length &&
+        !this.isLoading
+      ) {
+        this.isLoading = true
+        this.endIndex += 50
+
+        new Promise(resolve => {
+          resolve(formatTable(Data.patients.data, this.endIndex, 100))
+        })
+          .then(data => {
+            this.patientsTable.datasets = data.datasets
+            instance.scrollTop =
+              (instance.scrollHeight - instance.clientHeight) / 2 + 100
+          })
+          .finally(() => {
+            this.isLoading = false
+          })
+      }
+    }
   }
 }
 </script>
