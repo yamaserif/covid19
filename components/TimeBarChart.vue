@@ -14,20 +14,20 @@
       {{ $t(`{title}のグラフ`, { title }) }}
     </h4>
     <client-only v-if="selectDateShow">
-      <div style="margin-bottom:20px">
-        <span style="margin-right:5px;">{{ $t('表示範囲') }}</span>
+      <div class="datePickerDiv">
+        <span>{{ $t('表示範囲') }}</span>
         <date-picker
           v-model="selectDate.startDate"
           :language="ja"
           format="yyyy年MM月dd日"
-          class="datePicker"
+          class="datePickerChart"
         />
         <span>～</span>
         <date-picker
           v-model="selectDate.endDate"
           :language="ja"
           format="yyyy年MM月dd日"
-          class="datePicker"
+          class="datePickerChart"
         />
       </div>
     </client-only>
@@ -429,3 +429,19 @@ const options: ThisTypedComponentOptionsWithRecordProps<
 
 export default Vue.extend(options)
 </script>
+
+<style lang="scss">
+.datePickerDiv {
+  margin-bottom: 20px;
+  font-size: 12px;
+  text-align: right;
+}
+
+.datePickerChart {
+  display: inline-block;
+  div > input {
+    border: 1px ridge #333;
+    text-align: center;
+  }
+}
+</style>
