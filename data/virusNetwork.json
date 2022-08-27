@@ -301557,6 +301557,126 @@
             "label": "クラスターNo.578\n2022/8/26\n川西町\n- ー"
         },
         "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999579001,
+            "date": "2022/8/27",
+            "label": "クラスターNo.579\n2022/8/27\n舟形町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999579002,
+            "date": "2022/8/27",
+            "label": "クラスターNo.579\n2022/8/27\n舟形町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999579003,
+            "date": "2022/8/27",
+            "label": "クラスターNo.579\n2022/8/27\n舟形町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999579004,
+            "date": "2022/8/27",
+            "label": "クラスターNo.579\n2022/8/27\n舟形町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999579005,
+            "date": "2022/8/27",
+            "label": "クラスターNo.579\n2022/8/27\n舟形町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999579006,
+            "date": "2022/8/27",
+            "label": "クラスターNo.579\n2022/8/27\n舟形町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999579007,
+            "date": "2022/8/27",
+            "label": "クラスターNo.579\n2022/8/27\n舟形町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999579008,
+            "date": "2022/8/27",
+            "label": "クラスターNo.579\n2022/8/27\n舟形町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999580001,
+            "date": "2022/8/27",
+            "label": "クラスターNo.580\n2022/8/27\n米沢市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999580002,
+            "date": "2022/8/27",
+            "label": "クラスターNo.580\n2022/8/27\n米沢市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999580003,
+            "date": "2022/8/27",
+            "label": "クラスターNo.580\n2022/8/27\n米沢市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999580004,
+            "date": "2022/8/27",
+            "label": "クラスターNo.580\n2022/8/27\n米沢市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999580005,
+            "date": "2022/8/27",
+            "label": "クラスターNo.580\n2022/8/27\n米沢市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999580006,
+            "date": "2022/8/27",
+            "label": "クラスターNo.580\n2022/8/27\n米沢市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999580007,
+            "date": "2022/8/27",
+            "label": "クラスターNo.580\n2022/8/27\n米沢市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
     }
 ],
 "networkData":[    {
@@ -410702,6 +410822,111 @@
             "target": "99999578001",
             "label": "利用者"
         }
+    },
+    {
+        "data": {
+            "source": "99999579001",
+            "target": "99999579001",
+            "label": "介護施設"
+        }
+    },
+    {
+        "data": {
+            "source": "99999579002",
+            "target": "99999579001",
+            "label": "職員"
+        }
+    },
+    {
+        "data": {
+            "source": "99999579003",
+            "target": "99999579001",
+            "label": "職員"
+        }
+    },
+    {
+        "data": {
+            "source": "99999579004",
+            "target": "99999579001",
+            "label": "利用者"
+        }
+    },
+    {
+        "data": {
+            "source": "99999579005",
+            "target": "99999579001",
+            "label": "利用者"
+        }
+    },
+    {
+        "data": {
+            "source": "99999579006",
+            "target": "99999579001",
+            "label": "利用者"
+        }
+    },
+    {
+        "data": {
+            "source": "99999579007",
+            "target": "99999579001",
+            "label": "利用者"
+        }
+    },
+    {
+        "data": {
+            "source": "99999579008",
+            "target": "99999579001",
+            "label": "利用者"
+        }
+    },
+    {
+        "data": {
+            "source": "99999580001",
+            "target": "99999580001",
+            "label": "介護施設"
+        }
+    },
+    {
+        "data": {
+            "source": "99999580002",
+            "target": "99999580001",
+            "label": "職員"
+        }
+    },
+    {
+        "data": {
+            "source": "99999580003",
+            "target": "99999580001",
+            "label": "利用者"
+        }
+    },
+    {
+        "data": {
+            "source": "99999580004",
+            "target": "99999580001",
+            "label": "利用者"
+        }
+    },
+    {
+        "data": {
+            "source": "99999580005",
+            "target": "99999580001",
+            "label": "利用者"
+        }
+    },
+    {
+        "data": {
+            "source": "99999580006",
+            "target": "99999580001",
+            "label": "利用者"
+        }
+    },
+    {
+        "data": {
+            "source": "99999580007",
+            "target": "99999580001",
+            "label": "利用者"
+        }
     }
 ],
-"lastUpdate":"2022/8/27 01:33"}
+"lastUpdate":"2022/8/28 01:50"}
