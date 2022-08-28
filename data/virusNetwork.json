@@ -301677,6 +301677,62 @@
             "label": "クラスターNo.580\n2022/8/27\n米沢市\n- ー"
         },
         "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999581001,
+            "date": "2022/8/28",
+            "label": "クラスターNo.581\n2022/8/28\n米沢市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999581002,
+            "date": "2022/8/28",
+            "label": "クラスターNo.581\n2022/8/28\n米沢市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999581003,
+            "date": "2022/8/28",
+            "label": "クラスターNo.581\n2022/8/28\n米沢市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999581004,
+            "date": "2022/8/28",
+            "label": "クラスターNo.581\n2022/8/28\n米沢市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999581005,
+            "date": "2022/8/28",
+            "label": "クラスターNo.581\n2022/8/28\n米沢市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999581006,
+            "date": "2022/8/28",
+            "label": "クラスターNo.581\n2022/8/28\n米沢市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999581007,
+            "date": "2022/8/28",
+            "label": "クラスターNo.581\n2022/8/28\n米沢市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
     }
 ],
 "networkData":[    {
@@ -410927,6 +410983,55 @@
             "target": "99999580001",
             "label": "利用者"
         }
+    },
+    {
+        "data": {
+            "source": "99999581001",
+            "target": "99999581001",
+            "label": "介護施設"
+        }
+    },
+    {
+        "data": {
+            "source": "99999581002",
+            "target": "99999581001",
+            "label": "職員"
+        }
+    },
+    {
+        "data": {
+            "source": "99999581003",
+            "target": "99999581001",
+            "label": "職員"
+        }
+    },
+    {
+        "data": {
+            "source": "99999581004",
+            "target": "99999581001",
+            "label": "利用者"
+        }
+    },
+    {
+        "data": {
+            "source": "99999581005",
+            "target": "99999581001",
+            "label": "利用者"
+        }
+    },
+    {
+        "data": {
+            "source": "99999581006",
+            "target": "99999581001",
+            "label": "利用者"
+        }
+    },
+    {
+        "data": {
+            "source": "99999581007",
+            "target": "99999581001",
+            "label": "利用者"
+        }
     }
 ],
-"lastUpdate":"2022/8/28 01:50"}
+"lastUpdate":"2022/8/28 21:09"}
