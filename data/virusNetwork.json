@@ -301733,6 +301733,14 @@
             "label": "クラスターNo.581\n2022/8/28\n米沢市\n- ー"
         },
         "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999582001,
+            "date": "2022/8/28",
+            "label": "クラスターNo.582\n2022/8/28\n山形市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
     }
 ],
 "networkData":[    {
@@ -411032,6 +411040,13 @@
             "target": "99999581001",
             "label": "利用者"
         }
+    },
+    {
+        "data": {
+            "source": "99999582001",
+            "target": "99999582001",
+            "label": "介護施設"
+        }
     }
 ],
-"lastUpdate":"2022/8/28 21:09"}
+"lastUpdate":"2022/8/29 21:21"}
