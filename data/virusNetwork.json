@@ -302453,6 +302453,14 @@
             "label": "クラスターNo.592\n2022/9/1\n鶴岡市\n- ー"
         },
         "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999593001,
+            "date": "2022/9/1",
+            "label": "クラスターNo.593\n2022/9/1\n山形市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
     }
 ],
 "networkData":[    {
@@ -412382,6 +412390,13 @@
             "target": "99999592001",
             "label": "利用者"
         }
+    },
+    {
+        "data": {
+            "source": "99999593001",
+            "target": "99999593001",
+            "label": "医療機関"
+        }
     }
 ],
-"lastUpdate":"2022/9/1 21:33"}
+"lastUpdate":"2022/9/3 04:13"}
