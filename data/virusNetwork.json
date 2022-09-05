@@ -302509,6 +302509,14 @@
             "label": "クラスターNo.599\n2022/9/3\n山形市\n- ー"
         },
         "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999600001,
+            "date": "2022/9/4",
+            "label": "クラスターNo.600\n2022/9/4\n山形市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
     }
 ],
 "networkData":[    {
@@ -412487,6 +412495,13 @@
             "target": "99999599001",
             "label": "介護施設"
         }
+    },
+    {
+        "data": {
+            "source": "99999600001",
+            "target": "99999600001",
+            "label": "医療機関"
+        }
     }
 ],
-"lastUpdate":"2022/9/4 23:28"}
+"lastUpdate":"2022/9/6 00:34"}
