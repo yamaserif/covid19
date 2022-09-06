@@ -302517,6 +302517,86 @@
             "label": "クラスターNo.600\n2022/9/4\n山形市\n- ー"
         },
         "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999601001,
+            "date": "2022/9/5",
+            "label": "クラスターNo.601\n2022/9/5\n山形市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999602001,
+            "date": "2022/9/5",
+            "label": "クラスターNo.602\n2022/9/5\n山形市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999603001,
+            "date": "2022/9/6",
+            "label": "クラスターNo.603\n2022/9/6\n新庄市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999603002,
+            "date": "2022/9/6",
+            "label": "クラスターNo.603\n2022/9/6\n新庄市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999603003,
+            "date": "2022/9/6",
+            "label": "クラスターNo.603\n2022/9/6\n新庄市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999603004,
+            "date": "2022/9/6",
+            "label": "クラスターNo.603\n2022/9/6\n新庄市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999603005,
+            "date": "2022/9/6",
+            "label": "クラスターNo.603\n2022/9/6\n新庄市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999603006,
+            "date": "2022/9/6",
+            "label": "クラスターNo.603\n2022/9/6\n新庄市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999603007,
+            "date": "2022/9/6",
+            "label": "クラスターNo.603\n2022/9/6\n新庄市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999603008,
+            "date": "2022/9/6",
+            "label": "クラスターNo.603\n2022/9/6\n新庄市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
     }
 ],
 "networkData":[    {
@@ -412502,6 +412582,76 @@
             "target": "99999600001",
             "label": "医療機関"
         }
+    },
+    {
+        "data": {
+            "source": "99999601001",
+            "target": "99999601001",
+            "label": "医療機関"
+        }
+    },
+    {
+        "data": {
+            "source": "99999602001",
+            "target": "99999602001",
+            "label": "介護施設"
+        }
+    },
+    {
+        "data": {
+            "source": "99999603001",
+            "target": "99999603001",
+            "label": "介護施設"
+        }
+    },
+    {
+        "data": {
+            "source": "99999603002",
+            "target": "99999603001",
+            "label": "職員"
+        }
+    },
+    {
+        "data": {
+            "source": "99999603003",
+            "target": "99999603001",
+            "label": "職員"
+        }
+    },
+    {
+        "data": {
+            "source": "99999603004",
+            "target": "99999603001",
+            "label": "職員"
+        }
+    },
+    {
+        "data": {
+            "source": "99999603005",
+            "target": "99999603001",
+            "label": "職員"
+        }
+    },
+    {
+        "data": {
+            "source": "99999603006",
+            "target": "99999603001",
+            "label": "利用者"
+        }
+    },
+    {
+        "data": {
+            "source": "99999603007",
+            "target": "99999603001",
+            "label": "利用者"
+        }
+    },
+    {
+        "data": {
+            "source": "99999603008",
+            "target": "99999603001",
+            "label": "利用者"
+        }
     }
 ],
-"lastUpdate":"2022/9/6 00:34"}
+"lastUpdate":"2022/9/6 22:22"}
