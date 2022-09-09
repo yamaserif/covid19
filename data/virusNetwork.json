@@ -302597,6 +302597,62 @@
             "label": "クラスターNo.603\n2022/9/6\n新庄市\n- ー"
         },
         "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999604001,
+            "date": "2022/9/9",
+            "label": "クラスターNo.604\n2022/9/9\n高畠町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999604002,
+            "date": "2022/9/9",
+            "label": "クラスターNo.604\n2022/9/9\n高畠町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999604003,
+            "date": "2022/9/9",
+            "label": "クラスターNo.604\n2022/9/9\n高畠町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999604004,
+            "date": "2022/9/9",
+            "label": "クラスターNo.604\n2022/9/9\n高畠町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999604005,
+            "date": "2022/9/9",
+            "label": "クラスターNo.604\n2022/9/9\n高畠町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999604006,
+            "date": "2022/9/9",
+            "label": "クラスターNo.604\n2022/9/9\n高畠町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999604007,
+            "date": "2022/9/9",
+            "label": "クラスターNo.604\n2022/9/9\n高畠町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
     }
 ],
 "networkData":[    {
@@ -412652,6 +412708,55 @@
             "target": "99999603001",
             "label": "利用者"
         }
+    },
+    {
+        "data": {
+            "source": "99999604001",
+            "target": "99999604001",
+            "label": "介護施設"
+        }
+    },
+    {
+        "data": {
+            "source": "99999604002",
+            "target": "99999604001",
+            "label": "職員"
+        }
+    },
+    {
+        "data": {
+            "source": "99999604003",
+            "target": "99999604001",
+            "label": "職員"
+        }
+    },
+    {
+        "data": {
+            "source": "99999604004",
+            "target": "99999604001",
+            "label": "利用者"
+        }
+    },
+    {
+        "data": {
+            "source": "99999604005",
+            "target": "99999604001",
+            "label": "利用者"
+        }
+    },
+    {
+        "data": {
+            "source": "99999604006",
+            "target": "99999604001",
+            "label": "利用者"
+        }
+    },
+    {
+        "data": {
+            "source": "99999604007",
+            "target": "99999604001",
+            "label": "利用者"
+        }
     }
 ],
-"lastUpdate":"2022/9/8 22:11"}
+"lastUpdate":"2022/9/10 01:37"}
