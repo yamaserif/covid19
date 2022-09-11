@@ -302653,6 +302653,22 @@
             "label": "クラスターNo.604\n2022/9/9\n高畠町\n- ー"
         },
         "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999605001,
+            "date": "2022/9/10",
+            "label": "クラスターNo.605\n2022/9/10\n山形市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999606001,
+            "date": "2022/9/10",
+            "label": "クラスターNo.606\n2022/9/10\n山形市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
     }
 ],
 "networkData":[    {
@@ -412757,6 +412773,20 @@
             "target": "99999604001",
             "label": "利用者"
         }
+    },
+    {
+        "data": {
+            "source": "99999605001",
+            "target": "99999605001",
+            "label": "介護施設"
+        }
+    },
+    {
+        "data": {
+            "source": "99999606001",
+            "target": "99999606001",
+            "label": "介護施設"
+        }
     }
 ],
-"lastUpdate":"2022/9/11 03:39"}
+"lastUpdate":"2022/9/11 21:57"}
