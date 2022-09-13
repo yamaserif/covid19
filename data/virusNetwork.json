@@ -302669,6 +302669,30 @@
             "label": "クラスターNo.606\n2022/9/10\n山形市\n- ー"
         },
         "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999607001,
+            "date": "2022/9/12",
+            "label": "クラスターNo.607\n2022/9/12\n山形市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999608001,
+            "date": "2022/9/12",
+            "label": "クラスターNo.608\n2022/9/12\n山形市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999609001,
+            "date": "2022/9/12",
+            "label": "クラスターNo.609\n2022/9/12\n山形市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
     }
 ],
 "networkData":[    {
@@ -412787,6 +412811,27 @@
             "target": "99999606001",
             "label": "介護施設"
         }
+    },
+    {
+        "data": {
+            "source": "99999607001",
+            "target": "99999607001",
+            "label": "医療機関"
+        }
+    },
+    {
+        "data": {
+            "source": "99999608001",
+            "target": "99999608001",
+            "label": "介護施設"
+        }
+    },
+    {
+        "data": {
+            "source": "99999609001",
+            "target": "99999609001",
+            "label": "障がい者施設"
+        }
     }
 ],
-"lastUpdate":"2022/9/13 00:08"}
+"lastUpdate":"2022/9/13 23:57"}
