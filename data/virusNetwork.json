@@ -302693,6 +302693,62 @@
             "label": "クラスターNo.609\n2022/9/12\n山形市\n- ー"
         },
         "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999610001,
+            "date": "2022/9/13",
+            "label": "クラスターNo.610\n2022/9/13\n山形市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999611001,
+            "date": "2022/9/14",
+            "label": "クラスターNo.611\n2022/9/14\n川西町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999611002,
+            "date": "2022/9/14",
+            "label": "クラスターNo.611\n2022/9/14\n川西町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999611003,
+            "date": "2022/9/14",
+            "label": "クラスターNo.611\n2022/9/14\n川西町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999611004,
+            "date": "2022/9/14",
+            "label": "クラスターNo.611\n2022/9/14\n川西町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999611005,
+            "date": "2022/9/14",
+            "label": "クラスターNo.611\n2022/9/14\n川西町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999611006,
+            "date": "2022/9/14",
+            "label": "クラスターNo.611\n2022/9/14\n川西町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
     }
 ],
 "networkData":[    {
@@ -412832,6 +412888,55 @@
             "target": "99999609001",
             "label": "障がい者施設"
         }
+    },
+    {
+        "data": {
+            "source": "99999610001",
+            "target": "99999610001",
+            "label": "介護施設"
+        }
+    },
+    {
+        "data": {
+            "source": "99999611001",
+            "target": "99999611001",
+            "label": "障がい者施設"
+        }
+    },
+    {
+        "data": {
+            "source": "99999611002",
+            "target": "99999611001",
+            "label": "利用者"
+        }
+    },
+    {
+        "data": {
+            "source": "99999611003",
+            "target": "99999611001",
+            "label": "利用者"
+        }
+    },
+    {
+        "data": {
+            "source": "99999611004",
+            "target": "99999611001",
+            "label": "利用者"
+        }
+    },
+    {
+        "data": {
+            "source": "99999611005",
+            "target": "99999611001",
+            "label": "利用者"
+        }
+    },
+    {
+        "data": {
+            "source": "99999611006",
+            "target": "99999611001",
+            "label": "利用者"
+        }
     }
 ],
-"lastUpdate":"2022/9/13 23:57"}
+"lastUpdate":"2022/9/14 23:12"}
