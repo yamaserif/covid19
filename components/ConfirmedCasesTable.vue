@@ -39,9 +39,9 @@
         <li :class="[$style.box, $style.recovered]">
           <div :class="$style.pillar">
             <div :class="$style.content">
-              <span>{{ $t('退院') }}</span>
+              <span>{{ $t('宿泊療養中') }}</span>
               <span>
-                <strong>{{ 退院 }}</strong>
+                <strong>{{ 宿泊療養中 }}</strong>
                 <span :class="$style.unit">{{ $t('人') }}</span>
               </span>
             </div>
@@ -74,7 +74,7 @@ export default Vue.extend({
       type: Number,
       required: true
     },
-    退院: {
+    宿泊療養中: {
       type: Number,
       required: true
     }
