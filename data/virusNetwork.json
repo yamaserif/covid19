@@ -302909,6 +302909,70 @@
             "label": "クラスターNo.614\n2022/9/15\n南陽市\n- ー"
         },
         "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999615001,
+            "date": "2022/9/17",
+            "label": "クラスターNo.615\n2022/9/17\n南陽市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999615002,
+            "date": "2022/9/17",
+            "label": "クラスターNo.615\n2022/9/17\n南陽市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999615003,
+            "date": "2022/9/17",
+            "label": "クラスターNo.615\n2022/9/17\n南陽市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999615004,
+            "date": "2022/9/17",
+            "label": "クラスターNo.615\n2022/9/17\n南陽市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999615005,
+            "date": "2022/9/17",
+            "label": "クラスターNo.615\n2022/9/17\n南陽市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999615006,
+            "date": "2022/9/17",
+            "label": "クラスターNo.615\n2022/9/17\n南陽市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999615007,
+            "date": "2022/9/17",
+            "label": "クラスターNo.615\n2022/9/17\n南陽市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999615008,
+            "date": "2022/9/17",
+            "label": "クラスターNo.615\n2022/9/17\n南陽市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
     }
 ],
 "networkData":[    {
@@ -413237,6 +413301,62 @@
             "target": "99999614001",
             "label": "関連"
         }
+    },
+    {
+        "data": {
+            "source": "99999615001",
+            "target": "99999615001",
+            "label": "介護施設"
+        }
+    },
+    {
+        "data": {
+            "source": "99999615002",
+            "target": "99999615001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999615003",
+            "target": "99999615001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999615004",
+            "target": "99999615001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999615005",
+            "target": "99999615001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999615006",
+            "target": "99999615001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999615007",
+            "target": "99999615001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999615008",
+            "target": "99999615001",
+            "label": "関連"
+        }
     }
 ],
-"lastUpdate":"2022/9/17 00:44"}
+"lastUpdate":"2022/9/17 21:08"}
