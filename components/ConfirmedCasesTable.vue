@@ -5,7 +5,7 @@
         <div :class="$style.content">
           <span>
             {{ $t('陽性者数') }}
-            <br />({{ $t('累計') }})
+            <br />({{ $t('新規') }})
           </span>
           <span>
             <strong>{{ 陽性者数 }}</strong>
