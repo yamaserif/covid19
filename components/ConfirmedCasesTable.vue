@@ -4,11 +4,11 @@
       <div :class="$style.pillar">
         <div :class="$style.content">
           <span>
-            {{ $t('陽性者数') }}
-            <br />({{ $t('累計') }})
+            {{ $t('感染者数') }}
+            <br />({{ $t('新規') }})
           </span>
           <span>
-            <strong>{{ 陽性者数 }}</strong>
+            <strong>{{ 感染者数 }}</strong>
             <span :class="$style.unit">{{ $t('人') }}</span>
           </span>
         </div>
@@ -39,9 +39,9 @@
         <li :class="[$style.box, $style.recovered]">
           <div :class="$style.pillar">
             <div :class="$style.content">
-              <span>{{ $t('退院') }}</span>
+              <span>{{ $t('宿泊療養中') }}</span>
               <span>
-                <strong>{{ 退院 }}</strong>
+                <strong>{{ 宿泊療養中 }}</strong>
                 <span :class="$style.unit">{{ $t('人') }}</span>
               </span>
             </div>
@@ -62,7 +62,7 @@ export default Vue.extend({
       type: Number,
       required: true
     },
-    陽性者数: {
+    感染者数: {
       type: Number,
       required: true
     },
@@ -74,7 +74,7 @@ export default Vue.extend({
       type: Number,
       required: true
     },
-    退院: {
+    宿泊療養中: {
       type: Number,
       required: true
     }
