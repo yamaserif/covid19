@@ -302973,6 +302973,14 @@
             "label": "クラスターNo.615\n2022/9/17\n南陽市\n- ー"
         },
         "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999616001,
+            "date": "2022/9/18",
+            "label": "クラスターNo.616\n2022/9/18\n山形市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
     }
 ],
 "networkData":[    {
@@ -413357,6 +413365,13 @@
             "target": "99999615001",
             "label": "関連"
         }
+    },
+    {
+        "data": {
+            "source": "99999616001",
+            "target": "99999616001",
+            "label": "介護施設"
+        }
     }
 ],
-"lastUpdate":"2022/9/17 21:08"}
+"lastUpdate":"2022/9/19 04:38"}
