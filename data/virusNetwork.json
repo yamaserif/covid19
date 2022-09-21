@@ -302981,6 +302981,70 @@
             "label": "クラスターNo.616\n2022/9/18\n山形市\n- ー"
         },
         "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999617001,
+            "date": "2022/9/21",
+            "label": "クラスターNo.617\n2022/9/21\n高畠町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999617002,
+            "date": "2022/9/21",
+            "label": "クラスターNo.617\n2022/9/21\n高畠町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999617003,
+            "date": "2022/9/21",
+            "label": "クラスターNo.617\n2022/9/21\n高畠町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999617004,
+            "date": "2022/9/21",
+            "label": "クラスターNo.617\n2022/9/21\n高畠町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999617005,
+            "date": "2022/9/21",
+            "label": "クラスターNo.617\n2022/9/21\n高畠町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999617006,
+            "date": "2022/9/21",
+            "label": "クラスターNo.617\n2022/9/21\n高畠町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999617007,
+            "date": "2022/9/21",
+            "label": "クラスターNo.617\n2022/9/21\n高畠町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999617008,
+            "date": "2022/9/21",
+            "label": "クラスターNo.617\n2022/9/21\n高畠町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
     }
 ],
 "networkData":[    {
@@ -413372,6 +413436,62 @@
             "target": "99999616001",
             "label": "介護施設"
         }
+    },
+    {
+        "data": {
+            "source": "99999617001",
+            "target": "99999617001",
+            "label": "介護施設"
+        }
+    },
+    {
+        "data": {
+            "source": "99999617002",
+            "target": "99999617001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999617003",
+            "target": "99999617001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999617004",
+            "target": "99999617001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999617005",
+            "target": "99999617001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999617006",
+            "target": "99999617001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999617007",
+            "target": "99999617001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999617008",
+            "target": "99999617001",
+            "label": "関連"
+        }
     }
 ],
-"lastUpdate":"2022/9/20 21:02"}
+"lastUpdate":"2022/9/21 22:55"}
