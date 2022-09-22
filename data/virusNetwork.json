@@ -303045,6 +303045,150 @@
             "label": "クラスターNo.617\n2022/9/21\n高畠町\n- ー"
         },
         "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999618001,
+            "date": "2022/9/22",
+            "label": "クラスターNo.618\n2022/9/22\n新庄市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999618002,
+            "date": "2022/9/22",
+            "label": "クラスターNo.618\n2022/9/22\n新庄市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999618003,
+            "date": "2022/9/22",
+            "label": "クラスターNo.618\n2022/9/22\n新庄市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999618004,
+            "date": "2022/9/22",
+            "label": "クラスターNo.618\n2022/9/22\n新庄市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999618005,
+            "date": "2022/9/22",
+            "label": "クラスターNo.618\n2022/9/22\n新庄市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999618006,
+            "date": "2022/9/22",
+            "label": "クラスターNo.618\n2022/9/22\n新庄市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999618007,
+            "date": "2022/9/22",
+            "label": "クラスターNo.618\n2022/9/22\n新庄市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999618008,
+            "date": "2022/9/22",
+            "label": "クラスターNo.618\n2022/9/22\n新庄市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999618009,
+            "date": "2022/9/22",
+            "label": "クラスターNo.618\n2022/9/22\n新庄市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999618010,
+            "date": "2022/9/22",
+            "label": "クラスターNo.618\n2022/9/22\n新庄市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999618011,
+            "date": "2022/9/22",
+            "label": "クラスターNo.618\n2022/9/22\n新庄市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999619001,
+            "date": "2022/9/22",
+            "label": "クラスターNo.619\n2022/9/22\n南陽市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999619002,
+            "date": "2022/9/22",
+            "label": "クラスターNo.619\n2022/9/22\n南陽市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999619003,
+            "date": "2022/9/22",
+            "label": "クラスターNo.619\n2022/9/22\n南陽市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999619004,
+            "date": "2022/9/22",
+            "label": "クラスターNo.619\n2022/9/22\n南陽市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999619005,
+            "date": "2022/9/22",
+            "label": "クラスターNo.619\n2022/9/22\n南陽市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999619006,
+            "date": "2022/9/22",
+            "label": "クラスターNo.619\n2022/9/22\n南陽市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999619007,
+            "date": "2022/9/22",
+            "label": "クラスターNo.619\n2022/9/22\n南陽市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
     }
 ],
 "networkData":[    {
@@ -413492,6 +413636,132 @@
             "target": "99999617001",
             "label": "関連"
         }
+    },
+    {
+        "data": {
+            "source": "99999618001",
+            "target": "99999618001",
+            "label": "介護施設"
+        }
+    },
+    {
+        "data": {
+            "source": "99999618002",
+            "target": "99999618001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999618003",
+            "target": "99999618001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999618004",
+            "target": "99999618001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999618005",
+            "target": "99999618001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999618006",
+            "target": "99999618001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999618007",
+            "target": "99999618001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999618008",
+            "target": "99999618001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999618009",
+            "target": "99999618001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999618010",
+            "target": "99999618001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999618011",
+            "target": "99999618001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999619001",
+            "target": "99999619001",
+            "label": "介護施設"
+        }
+    },
+    {
+        "data": {
+            "source": "99999619002",
+            "target": "99999619001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999619003",
+            "target": "99999619001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999619004",
+            "target": "99999619001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999619005",
+            "target": "99999619001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999619006",
+            "target": "99999619001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999619007",
+            "target": "99999619001",
+            "label": "関連"
+        }
     }
 ],
-"lastUpdate":"2022/9/21 22:55"}
+"lastUpdate":"2022/9/23 02:59"}
