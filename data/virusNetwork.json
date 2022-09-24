@@ -303293,6 +303293,14 @@
             "label": "クラスターNo.622\n2022/9/23\n山形市\n- ー"
         },
         "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999623001,
+            "date": "2022/9/24",
+            "label": "クラスターNo.623\n2022/9/24\n山形市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
     }
 ],
 "networkData":[    {
@@ -413957,6 +413965,13 @@
             "target": "99999622001",
             "label": "介護施設"
         }
+    },
+    {
+        "data": {
+            "source": "99999623001",
+            "target": "99999623001",
+            "label": "介護施設"
+        }
     }
 ],
-"lastUpdate":"2022/9/24 10:00"}
+"lastUpdate":"2022/9/24 22:42"}
