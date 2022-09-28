@@ -303941,6 +303941,70 @@
             "label": "クラスターNo.625\n2022/9/27\n鶴岡市\n- ー"
         },
         "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999626001,
+            "date": "2022/9/28",
+            "label": "クラスターNo.626\n2022/9/28\n米沢市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999626002,
+            "date": "2022/9/28",
+            "label": "クラスターNo.626\n2022/9/28\n米沢市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999626003,
+            "date": "2022/9/28",
+            "label": "クラスターNo.626\n2022/9/28\n米沢市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999626004,
+            "date": "2022/9/28",
+            "label": "クラスターNo.626\n2022/9/28\n米沢市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999626005,
+            "date": "2022/9/28",
+            "label": "クラスターNo.626\n2022/9/28\n米沢市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999626006,
+            "date": "2022/9/28",
+            "label": "クラスターNo.626\n2022/9/28\n米沢市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999626007,
+            "date": "2022/9/28",
+            "label": "クラスターNo.626\n2022/9/28\n米沢市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999627001,
+            "date": "2022/9/28",
+            "label": "クラスターNo.627\n2022/9/28\n山形市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
     }
 ],
 "networkData":[    {
@@ -415172,6 +415236,62 @@
             "target": "99999625001",
             "label": "関連"
         }
+    },
+    {
+        "data": {
+            "source": "99999626001",
+            "target": "99999626001",
+            "label": "医療機関"
+        }
+    },
+    {
+        "data": {
+            "source": "99999626002",
+            "target": "99999626001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999626003",
+            "target": "99999626001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999626004",
+            "target": "99999626001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999626005",
+            "target": "99999626001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999626006",
+            "target": "99999626001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999626007",
+            "target": "99999626001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999627001",
+            "target": "99999627001",
+            "label": "医療機関"
+        }
     }
 ],
-"lastUpdate":"2022/9/28 00:32"}
+"lastUpdate":"2022/9/28 23:54"}
