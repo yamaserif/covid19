@@ -304061,6 +304061,86 @@
             "label": "クラスターNo.628\n2022/9/30\n新庄市\n- ー"
         },
         "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999629001,
+            "date": "2022/10/1",
+            "label": "クラスターNo.629\n2022/10/1\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999629002,
+            "date": "2022/10/1",
+            "label": "クラスターNo.629\n2022/10/1\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999629003,
+            "date": "2022/10/1",
+            "label": "クラスターNo.629\n2022/10/1\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999629004,
+            "date": "2022/10/1",
+            "label": "クラスターNo.629\n2022/10/1\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999629005,
+            "date": "2022/10/1",
+            "label": "クラスターNo.629\n2022/10/1\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999629006,
+            "date": "2022/10/1",
+            "label": "クラスターNo.629\n2022/10/1\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999629007,
+            "date": "2022/10/1",
+            "label": "クラスターNo.629\n2022/10/1\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999629008,
+            "date": "2022/10/1",
+            "label": "クラスターNo.629\n2022/10/1\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999629009,
+            "date": "2022/10/1",
+            "label": "クラスターNo.629\n2022/10/1\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999629010,
+            "date": "2022/10/1",
+            "label": "クラスターNo.629\n2022/10/1\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
     }
 ],
 "networkData":[    {
@@ -415397,6 +415477,76 @@
             "target": "99999628001",
             "label": "関連"
         }
+    },
+    {
+        "data": {
+            "source": "99999629001",
+            "target": "99999629001",
+            "label": "介護施設"
+        }
+    },
+    {
+        "data": {
+            "source": "99999629002",
+            "target": "99999629001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999629003",
+            "target": "99999629001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999629004",
+            "target": "99999629001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999629005",
+            "target": "99999629001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999629006",
+            "target": "99999629001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999629007",
+            "target": "99999629001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999629008",
+            "target": "99999629001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999629009",
+            "target": "99999629001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999629010",
+            "target": "99999629001",
+            "label": "関連"
+        }
     }
 ],
-"lastUpdate":"2022/10/1 00:46"}
+"lastUpdate":"2022/10/2 00:40"}
