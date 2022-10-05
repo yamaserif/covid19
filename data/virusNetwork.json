@@ -304301,6 +304301,54 @@
             "label": "クラスターNo.633\n2022/10/4\n山形市\n- ー"
         },
         "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999634001,
+            "date": "2022/10/5",
+            "label": "クラスターNo.634\n2022/10/5\n酒田市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999634002,
+            "date": "2022/10/5",
+            "label": "クラスターNo.634\n2022/10/5\n酒田市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999634003,
+            "date": "2022/10/5",
+            "label": "クラスターNo.634\n2022/10/5\n酒田市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999634004,
+            "date": "2022/10/5",
+            "label": "クラスターNo.634\n2022/10/5\n酒田市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999634005,
+            "date": "2022/10/5",
+            "label": "クラスターNo.634\n2022/10/5\n酒田市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999634006,
+            "date": "2022/10/5",
+            "label": "クラスターNo.634\n2022/10/5\n酒田市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
     }
 ],
 "networkData":[    {
@@ -415847,6 +415895,48 @@
             "target": "99999633001",
             "label": "介護施設"
         }
+    },
+    {
+        "data": {
+            "source": "99999634001",
+            "target": "99999634001",
+            "label": "介護施設"
+        }
+    },
+    {
+        "data": {
+            "source": "99999634002",
+            "target": "99999634001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999634003",
+            "target": "99999634001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999634004",
+            "target": "99999634001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999634005",
+            "target": "99999634001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999634006",
+            "target": "99999634001",
+            "label": "関連"
+        }
     }
 ],
-"lastUpdate":"2022/10/5 01:38"}
+"lastUpdate":"2022/10/5 23:09"}
