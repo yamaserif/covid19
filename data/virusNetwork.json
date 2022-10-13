@@ -305005,6 +305005,62 @@
             "label": "クラスターNo.643\n2022/10/12\n鶴岡市\n- ー"
         },
         "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999644001,
+            "date": "2022/10/13",
+            "label": "クラスターNo.644\n2022/10/13\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999644002,
+            "date": "2022/10/13",
+            "label": "クラスターNo.644\n2022/10/13\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999644003,
+            "date": "2022/10/13",
+            "label": "クラスターNo.644\n2022/10/13\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999644004,
+            "date": "2022/10/13",
+            "label": "クラスターNo.644\n2022/10/13\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999644005,
+            "date": "2022/10/13",
+            "label": "クラスターNo.644\n2022/10/13\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999644006,
+            "date": "2022/10/13",
+            "label": "クラスターNo.644\n2022/10/13\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999645001,
+            "date": "2022/10/13",
+            "label": "クラスターNo.645\n2022/10/13\n山形市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
     }
 ],
 "networkData":[    {
@@ -417167,6 +417223,55 @@
             "target": "99999643001",
             "label": "関連"
         }
+    },
+    {
+        "data": {
+            "source": "99999644001",
+            "target": "99999644001",
+            "label": "介護施設"
+        }
+    },
+    {
+        "data": {
+            "source": "99999644002",
+            "target": "99999644001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999644003",
+            "target": "99999644001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999644004",
+            "target": "99999644001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999644005",
+            "target": "99999644001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999644006",
+            "target": "99999644001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999645001",
+            "target": "99999645001",
+            "label": "介護施設"
+        }
     }
 ],
-"lastUpdate":"2022/10/12 23:08"}
+"lastUpdate":"2022/10/13 23:17"}
