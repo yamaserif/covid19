@@ -305061,6 +305061,134 @@
             "label": "クラスターNo.645\n2022/10/13\n山形市\n- ー"
         },
         "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999646001,
+            "date": "2022/10/14",
+            "label": "クラスターNo.646\n2022/10/14\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999646002,
+            "date": "2022/10/14",
+            "label": "クラスターNo.646\n2022/10/14\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999646003,
+            "date": "2022/10/14",
+            "label": "クラスターNo.646\n2022/10/14\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999646004,
+            "date": "2022/10/14",
+            "label": "クラスターNo.646\n2022/10/14\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999646005,
+            "date": "2022/10/14",
+            "label": "クラスターNo.646\n2022/10/14\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999646006,
+            "date": "2022/10/14",
+            "label": "クラスターNo.646\n2022/10/14\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999647001,
+            "date": "2022/10/14",
+            "label": "クラスターNo.647\n2022/10/14\n庄内町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999647002,
+            "date": "2022/10/14",
+            "label": "クラスターNo.647\n2022/10/14\n庄内町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999647003,
+            "date": "2022/10/14",
+            "label": "クラスターNo.647\n2022/10/14\n庄内町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999647004,
+            "date": "2022/10/14",
+            "label": "クラスターNo.647\n2022/10/14\n庄内町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999647005,
+            "date": "2022/10/14",
+            "label": "クラスターNo.647\n2022/10/14\n庄内町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999647006,
+            "date": "2022/10/14",
+            "label": "クラスターNo.647\n2022/10/14\n庄内町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999647007,
+            "date": "2022/10/14",
+            "label": "クラスターNo.647\n2022/10/14\n庄内町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999647008,
+            "date": "2022/10/14",
+            "label": "クラスターNo.647\n2022/10/14\n庄内町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999647009,
+            "date": "2022/10/14",
+            "label": "クラスターNo.647\n2022/10/14\n庄内町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999647010,
+            "date": "2022/10/14",
+            "label": "クラスターNo.647\n2022/10/14\n庄内町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
     }
 ],
 "networkData":[    {
@@ -417272,6 +417400,118 @@
             "target": "99999645001",
             "label": "介護施設"
         }
+    },
+    {
+        "data": {
+            "source": "99999646001",
+            "target": "99999646001",
+            "label": "障がい者施設"
+        }
+    },
+    {
+        "data": {
+            "source": "99999646002",
+            "target": "99999646001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999646003",
+            "target": "99999646001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999646004",
+            "target": "99999646001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999646005",
+            "target": "99999646001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999646006",
+            "target": "99999646001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999647001",
+            "target": "99999647001",
+            "label": "障がい者施設"
+        }
+    },
+    {
+        "data": {
+            "source": "99999647002",
+            "target": "99999647001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999647003",
+            "target": "99999647001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999647004",
+            "target": "99999647001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999647005",
+            "target": "99999647001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999647006",
+            "target": "99999647001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999647007",
+            "target": "99999647001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999647008",
+            "target": "99999647001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999647009",
+            "target": "99999647001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999647010",
+            "target": "99999647001",
+            "label": "関連"
+        }
     }
 ],
-"lastUpdate":"2022/10/13 23:17"}
+"lastUpdate":"2022/10/15 08:38"}
