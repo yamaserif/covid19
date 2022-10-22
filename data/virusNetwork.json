@@ -306253,6 +306253,62 @@
             "label": "クラスターNo.660\n2022/10/21\n大蔵村\n- ー"
         },
         "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999661001,
+            "date": "2022/10/22",
+            "label": "クラスターNo.661\n2022/10/22\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999661002,
+            "date": "2022/10/22",
+            "label": "クラスターNo.661\n2022/10/22\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999661003,
+            "date": "2022/10/22",
+            "label": "クラスターNo.661\n2022/10/22\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999661004,
+            "date": "2022/10/22",
+            "label": "クラスターNo.661\n2022/10/22\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999661005,
+            "date": "2022/10/22",
+            "label": "クラスターNo.661\n2022/10/22\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999661006,
+            "date": "2022/10/22",
+            "label": "クラスターNo.661\n2022/10/22\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999661007,
+            "date": "2022/10/22",
+            "label": "クラスターNo.661\n2022/10/22\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
     }
 ],
 "networkData":[    {
@@ -419507,6 +419563,55 @@
             "target": "99999660001",
             "label": "関連"
         }
+    },
+    {
+        "data": {
+            "source": "99999661001",
+            "target": "99999661001",
+            "label": "介護施設"
+        }
+    },
+    {
+        "data": {
+            "source": "99999661002",
+            "target": "99999661001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999661003",
+            "target": "99999661001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999661004",
+            "target": "99999661001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999661005",
+            "target": "99999661001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999661006",
+            "target": "99999661001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999661007",
+            "target": "99999661001",
+            "label": "関連"
+        }
     }
 ],
-"lastUpdate":"2022/10/22 07:50"}
+"lastUpdate":"2022/10/23 02:55"}
