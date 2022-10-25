@@ -306373,6 +306373,166 @@
             "label": "クラスターNo.662\n2022/10/24\n鶴岡市\n- ー"
         },
         "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999663001,
+            "date": "2022/10/25",
+            "label": "クラスターNo.663\n2022/10/25\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999663002,
+            "date": "2022/10/25",
+            "label": "クラスターNo.663\n2022/10/25\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999663003,
+            "date": "2022/10/25",
+            "label": "クラスターNo.663\n2022/10/25\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999663004,
+            "date": "2022/10/25",
+            "label": "クラスターNo.663\n2022/10/25\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999663005,
+            "date": "2022/10/25",
+            "label": "クラスターNo.663\n2022/10/25\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999663006,
+            "date": "2022/10/25",
+            "label": "クラスターNo.663\n2022/10/25\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999663007,
+            "date": "2022/10/25",
+            "label": "クラスターNo.663\n2022/10/25\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999664001,
+            "date": "2022/10/25",
+            "label": "クラスターNo.664\n2022/10/25\n酒田市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999664002,
+            "date": "2022/10/25",
+            "label": "クラスターNo.664\n2022/10/25\n酒田市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999664003,
+            "date": "2022/10/25",
+            "label": "クラスターNo.664\n2022/10/25\n酒田市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999664004,
+            "date": "2022/10/25",
+            "label": "クラスターNo.664\n2022/10/25\n酒田市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999664005,
+            "date": "2022/10/25",
+            "label": "クラスターNo.664\n2022/10/25\n酒田市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999664006,
+            "date": "2022/10/25",
+            "label": "クラスターNo.664\n2022/10/25\n酒田市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999665001,
+            "date": "2022/10/25",
+            "label": "クラスターNo.665\n2022/10/25\n庄内町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999665002,
+            "date": "2022/10/25",
+            "label": "クラスターNo.665\n2022/10/25\n庄内町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999665003,
+            "date": "2022/10/25",
+            "label": "クラスターNo.665\n2022/10/25\n庄内町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999665004,
+            "date": "2022/10/25",
+            "label": "クラスターNo.665\n2022/10/25\n庄内町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999665005,
+            "date": "2022/10/25",
+            "label": "クラスターNo.665\n2022/10/25\n庄内町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999665006,
+            "date": "2022/10/25",
+            "label": "クラスターNo.665\n2022/10/25\n庄内町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999665007,
+            "date": "2022/10/25",
+            "label": "クラスターNo.665\n2022/10/25\n庄内町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
     }
 ],
 "networkData":[    {
@@ -419732,6 +419892,146 @@
             "target": "99999662001",
             "label": "関連"
         }
+    },
+    {
+        "data": {
+            "source": "99999663001",
+            "target": "99999663001",
+            "label": "介護施設"
+        }
+    },
+    {
+        "data": {
+            "source": "99999663002",
+            "target": "99999663001",
+            "label": "利用者"
+        }
+    },
+    {
+        "data": {
+            "source": "99999663003",
+            "target": "99999663001",
+            "label": "利用者"
+        }
+    },
+    {
+        "data": {
+            "source": "99999663004",
+            "target": "99999663001",
+            "label": "利用者"
+        }
+    },
+    {
+        "data": {
+            "source": "99999663005",
+            "target": "99999663001",
+            "label": "利用者"
+        }
+    },
+    {
+        "data": {
+            "source": "99999663006",
+            "target": "99999663001",
+            "label": "利用者"
+        }
+    },
+    {
+        "data": {
+            "source": "99999663007",
+            "target": "99999663001",
+            "label": "利用者"
+        }
+    },
+    {
+        "data": {
+            "source": "99999664001",
+            "target": "99999664001",
+            "label": "介護施設"
+        }
+    },
+    {
+        "data": {
+            "source": "99999664002",
+            "target": "99999664001",
+            "label": "職員"
+        }
+    },
+    {
+        "data": {
+            "source": "99999664003",
+            "target": "99999664001",
+            "label": "職員"
+        }
+    },
+    {
+        "data": {
+            "source": "99999664004",
+            "target": "99999664001",
+            "label": "職員"
+        }
+    },
+    {
+        "data": {
+            "source": "99999664005",
+            "target": "99999664001",
+            "label": "利用者"
+        }
+    },
+    {
+        "data": {
+            "source": "99999664006",
+            "target": "99999664001",
+            "label": "利用者"
+        }
+    },
+    {
+        "data": {
+            "source": "99999665001",
+            "target": "99999665001",
+            "label": "医療機関"
+        }
+    },
+    {
+        "data": {
+            "source": "99999665002",
+            "target": "99999665001",
+            "label": "職員"
+        }
+    },
+    {
+        "data": {
+            "source": "99999665003",
+            "target": "99999665001",
+            "label": "職員"
+        }
+    },
+    {
+        "data": {
+            "source": "99999665004",
+            "target": "99999665001",
+            "label": "職員"
+        }
+    },
+    {
+        "data": {
+            "source": "99999665005",
+            "target": "99999665001",
+            "label": "利用者"
+        }
+    },
+    {
+        "data": {
+            "source": "99999665006",
+            "target": "99999665001",
+            "label": "利用者"
+        }
+    },
+    {
+        "data": {
+            "source": "99999665007",
+            "target": "99999665001",
+            "label": "利用者"
+        }
     }
 ],
-"lastUpdate":"2022/10/25 07:12"}
+"lastUpdate":"2022/10/25 22:55"}
