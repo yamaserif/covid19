@@ -306533,6 +306533,78 @@
             "label": "クラスターNo.665\n2022/10/25\n庄内町\n- ー"
         },
         "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999666001,
+            "date": "2022/10/26",
+            "label": "クラスターNo.666\n2022/10/26\n真室川町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999666002,
+            "date": "2022/10/26",
+            "label": "クラスターNo.666\n2022/10/26\n真室川町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999666003,
+            "date": "2022/10/26",
+            "label": "クラスターNo.666\n2022/10/26\n真室川町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999666004,
+            "date": "2022/10/26",
+            "label": "クラスターNo.666\n2022/10/26\n真室川町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999666005,
+            "date": "2022/10/26",
+            "label": "クラスターNo.666\n2022/10/26\n真室川町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999666006,
+            "date": "2022/10/26",
+            "label": "クラスターNo.666\n2022/10/26\n真室川町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999666007,
+            "date": "2022/10/26",
+            "label": "クラスターNo.666\n2022/10/26\n真室川町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999666008,
+            "date": "2022/10/26",
+            "label": "クラスターNo.666\n2022/10/26\n真室川町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999667001,
+            "date": "2022/10/26",
+            "label": "クラスターNo.667\n2022/10/26\n山形市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
     }
 ],
 "networkData":[    {
@@ -420032,6 +420104,69 @@
             "target": "99999665001",
             "label": "利用者"
         }
+    },
+    {
+        "data": {
+            "source": "99999666001",
+            "target": "99999666001",
+            "label": "医療機関"
+        }
+    },
+    {
+        "data": {
+            "source": "99999666002",
+            "target": "99999666001",
+            "label": "職員"
+        }
+    },
+    {
+        "data": {
+            "source": "99999666003",
+            "target": "99999666001",
+            "label": "職員"
+        }
+    },
+    {
+        "data": {
+            "source": "99999666004",
+            "target": "99999666001",
+            "label": "利用者"
+        }
+    },
+    {
+        "data": {
+            "source": "99999666005",
+            "target": "99999666001",
+            "label": "利用者"
+        }
+    },
+    {
+        "data": {
+            "source": "99999666006",
+            "target": "99999666001",
+            "label": "利用者"
+        }
+    },
+    {
+        "data": {
+            "source": "99999666007",
+            "target": "99999666001",
+            "label": "利用者"
+        }
+    },
+    {
+        "data": {
+            "source": "99999666008",
+            "target": "99999666001",
+            "label": "利用者"
+        }
+    },
+    {
+        "data": {
+            "source": "99999667001",
+            "target": "99999667001",
+            "label": "医療機関"
+        }
     }
 ],
-"lastUpdate":"2022/10/25 22:55"}
+"lastUpdate":"2022/10/26 23:22"}
