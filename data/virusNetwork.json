@@ -309509,6 +309509,22 @@
             "label": "クラスターNo.706\n2022/11/5\n酒田市\n- ー"
         },
         "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999707001,
+            "date": "2022/11/6",
+            "label": "クラスターNo.707\n2022/11/6\n山形市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999708001,
+            "date": "2022/11/6",
+            "label": "クラスターNo.708\n2022/11/6\n山形市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
     }
 ],
 "networkData":[    {
@@ -425612,6 +425628,20 @@
             "target": "99999706001",
             "label": "関連"
         }
+    },
+    {
+        "data": {
+            "source": "99999707001",
+            "target": "99999707001",
+            "label": "介護施設"
+        }
+    },
+    {
+        "data": {
+            "source": "99999708001",
+            "target": "99999708001",
+            "label": "介護施設"
+        }
     }
 ],
-"lastUpdate":"2022/11/5 17:37"}
+"lastUpdate":"2022/11/6 22:34"}
