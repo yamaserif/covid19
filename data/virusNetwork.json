@@ -311085,6 +311085,14 @@
             "label": "クラスターNo.736\n2022/11/13\n米沢市\n- ー"
         },
         "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999737001,
+            "date": "2022/11/14",
+            "label": "クラスターNo.737\n2022/11/14\n山形市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
     }
 ],
 "networkData":[    {
@@ -428567,6 +428575,13 @@
             "target": "99999736001",
             "label": "関連"
         }
+    },
+    {
+        "data": {
+            "source": "99999737001",
+            "target": "99999737001",
+            "label": "介護施設"
+        }
     }
 ],
-"lastUpdate":"2022/11/13 21:20"}
+"lastUpdate":"2022/11/14 21:12"}
