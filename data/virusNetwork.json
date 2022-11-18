@@ -312173,6 +312173,166 @@
             "label": "クラスターNo.752\n2022/11/17\n鶴岡市\n- ー"
         },
         "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999753001,
+            "date": "2022/11/18",
+            "label": "クラスターNo.753\n2022/11/18\n上山市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999753002,
+            "date": "2022/11/18",
+            "label": "クラスターNo.753\n2022/11/18\n上山市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999753003,
+            "date": "2022/11/18",
+            "label": "クラスターNo.753\n2022/11/18\n上山市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999753004,
+            "date": "2022/11/18",
+            "label": "クラスターNo.753\n2022/11/18\n上山市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999753005,
+            "date": "2022/11/18",
+            "label": "クラスターNo.753\n2022/11/18\n上山市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999753006,
+            "date": "2022/11/18",
+            "label": "クラスターNo.753\n2022/11/18\n上山市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999753007,
+            "date": "2022/11/18",
+            "label": "クラスターNo.753\n2022/11/18\n上山市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999754001,
+            "date": "2022/11/18",
+            "label": "クラスターNo.754\n2022/11/18\n南陽市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999754002,
+            "date": "2022/11/18",
+            "label": "クラスターNo.754\n2022/11/18\n南陽市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999754003,
+            "date": "2022/11/18",
+            "label": "クラスターNo.754\n2022/11/18\n南陽市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999754004,
+            "date": "2022/11/18",
+            "label": "クラスターNo.754\n2022/11/18\n南陽市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999754005,
+            "date": "2022/11/18",
+            "label": "クラスターNo.754\n2022/11/18\n南陽市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999754006,
+            "date": "2022/11/18",
+            "label": "クラスターNo.754\n2022/11/18\n南陽市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999755001,
+            "date": "2022/11/18",
+            "label": "クラスターNo.755\n2022/11/18\n白鷹町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999755002,
+            "date": "2022/11/18",
+            "label": "クラスターNo.755\n2022/11/18\n白鷹町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999755003,
+            "date": "2022/11/18",
+            "label": "クラスターNo.755\n2022/11/18\n白鷹町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999755004,
+            "date": "2022/11/18",
+            "label": "クラスターNo.755\n2022/11/18\n白鷹町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999755005,
+            "date": "2022/11/18",
+            "label": "クラスターNo.755\n2022/11/18\n白鷹町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999755006,
+            "date": "2022/11/18",
+            "label": "クラスターNo.755\n2022/11/18\n白鷹町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999756001,
+            "date": "2022/11/18",
+            "label": "クラスターNo.756\n2022/11/18\n山形市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
     }
 ],
 "networkData":[    {
@@ -430607,6 +430767,146 @@
             "target": "99999752001",
             "label": "関連"
         }
+    },
+    {
+        "data": {
+            "source": "99999753001",
+            "target": "99999753001",
+            "label": "医療機関"
+        }
+    },
+    {
+        "data": {
+            "source": "99999753002",
+            "target": "99999753001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999753003",
+            "target": "99999753001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999753004",
+            "target": "99999753001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999753005",
+            "target": "99999753001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999753006",
+            "target": "99999753001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999753007",
+            "target": "99999753001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999754001",
+            "target": "99999754001",
+            "label": "介護施設"
+        }
+    },
+    {
+        "data": {
+            "source": "99999754002",
+            "target": "99999754001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999754003",
+            "target": "99999754001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999754004",
+            "target": "99999754001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999754005",
+            "target": "99999754001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999754006",
+            "target": "99999754001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999755001",
+            "target": "99999755001",
+            "label": "介護施設"
+        }
+    },
+    {
+        "data": {
+            "source": "99999755002",
+            "target": "99999755001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999755003",
+            "target": "99999755001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999755004",
+            "target": "99999755001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999755005",
+            "target": "99999755001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999755006",
+            "target": "99999755001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999756001",
+            "target": "99999756001",
+            "label": "介護施設"
+        }
     }
 ],
-"lastUpdate":"2022/11/17 23:38"}
+"lastUpdate":"2022/11/18 22:05"}
