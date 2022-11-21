@@ -312533,6 +312533,94 @@
             "label": "クラスターNo.760\n2022/11/20\n山形市\n- ー"
         },
         "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999761001,
+            "date": "2022/11/21",
+            "label": "クラスターNo.761\n2022/11/21\n米沢市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999761002,
+            "date": "2022/11/21",
+            "label": "クラスターNo.761\n2022/11/21\n米沢市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999761003,
+            "date": "2022/11/21",
+            "label": "クラスターNo.761\n2022/11/21\n米沢市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999761004,
+            "date": "2022/11/21",
+            "label": "クラスターNo.761\n2022/11/21\n米沢市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999761005,
+            "date": "2022/11/21",
+            "label": "クラスターNo.761\n2022/11/21\n米沢市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999761006,
+            "date": "2022/11/21",
+            "label": "クラスターNo.761\n2022/11/21\n米沢市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999761007,
+            "date": "2022/11/21",
+            "label": "クラスターNo.761\n2022/11/21\n米沢市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999761008,
+            "date": "2022/11/21",
+            "label": "クラスターNo.761\n2022/11/21\n米沢市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999762001,
+            "date": "2022/11/21",
+            "label": "クラスターNo.762\n2022/11/21\n山形市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999763001,
+            "date": "2022/11/21",
+            "label": "クラスターNo.763\n2022/11/21\n山形市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999764001,
+            "date": "2022/11/21",
+            "label": "クラスターNo.764\n2022/11/21\n山形市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
     }
 ],
 "networkData":[    {
@@ -431282,6 +431370,83 @@
             "target": "99999760001",
             "label": "介護施設"
         }
+    },
+    {
+        "data": {
+            "source": "99999761001",
+            "target": "99999761001",
+            "label": "介護施設"
+        }
+    },
+    {
+        "data": {
+            "source": "99999761002",
+            "target": "99999761001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999761003",
+            "target": "99999761001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999761004",
+            "target": "99999761001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999761005",
+            "target": "99999761001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999761006",
+            "target": "99999761001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999761007",
+            "target": "99999761001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999761008",
+            "target": "99999761001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999762001",
+            "target": "99999762001",
+            "label": "介護施設"
+        }
+    },
+    {
+        "data": {
+            "source": "99999763001",
+            "target": "99999763001",
+            "label": "介護施設"
+        }
+    },
+    {
+        "data": {
+            "source": "99999764001",
+            "target": "99999764001",
+            "label": "医療機関"
+        }
     }
 ],
-"lastUpdate":"2022/11/20 22:11"}
+"lastUpdate":"2022/11/21 23:39"}
