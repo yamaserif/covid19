@@ -314325,6 +314325,62 @@
             "label": "クラスターNo.790\n2022/11/25\n山形市\n- ー"
         },
         "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999791001,
+            "date": "2022/11/26",
+            "label": "クラスターNo.791\n2022/11/26\n酒田市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999791002,
+            "date": "2022/11/26",
+            "label": "クラスターNo.791\n2022/11/26\n酒田市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999791003,
+            "date": "2022/11/26",
+            "label": "クラスターNo.791\n2022/11/26\n酒田市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999791004,
+            "date": "2022/11/26",
+            "label": "クラスターNo.791\n2022/11/26\n酒田市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999791005,
+            "date": "2022/11/26",
+            "label": "クラスターNo.791\n2022/11/26\n酒田市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999791006,
+            "date": "2022/11/26",
+            "label": "クラスターNo.791\n2022/11/26\n酒田市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999792001,
+            "date": "2022/11/26",
+            "label": "クラスターNo.792\n2022/11/26\n山形市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
     }
 ],
 "networkData":[    {
@@ -434642,6 +434698,55 @@
             "target": "99999790001",
             "label": "障がい者施設"
         }
+    },
+    {
+        "data": {
+            "source": "99999791001",
+            "target": "99999791001",
+            "label": "介護施設"
+        }
+    },
+    {
+        "data": {
+            "source": "99999791002",
+            "target": "99999787001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999791003",
+            "target": "99999787001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999791004",
+            "target": "99999787001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999791005",
+            "target": "99999787001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999791006",
+            "target": "99999787001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999792001",
+            "target": "99999792001",
+            "label": "障がい者施設"
+        }
     }
 ],
-"lastUpdate":"2022/11/26 08:49"}
+"lastUpdate":"2022/11/26 17:34"}
