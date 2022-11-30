@@ -315421,6 +315421,102 @@
             "label": "クラスターNo.810\n2022/11/29\n山形市\n- ー"
         },
         "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999811001,
+            "date": "2022/11/30",
+            "label": "クラスターNo.811\n2022/11/30\n米沢市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999811002,
+            "date": "2022/11/30",
+            "label": "クラスターNo.811\n2022/11/30\n米沢市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999811003,
+            "date": "2022/11/30",
+            "label": "クラスターNo.811\n2022/11/30\n米沢市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999811004,
+            "date": "2022/11/30",
+            "label": "クラスターNo.811\n2022/11/30\n米沢市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999811005,
+            "date": "2022/11/30",
+            "label": "クラスターNo.811\n2022/11/30\n米沢市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999811006,
+            "date": "2022/11/30",
+            "label": "クラスターNo.811\n2022/11/30\n米沢市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999812001,
+            "date": "2022/11/30",
+            "label": "クラスターNo.812\n2022/11/30\n三川町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999812002,
+            "date": "2022/11/30",
+            "label": "クラスターNo.812\n2022/11/30\n三川町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999812003,
+            "date": "2022/11/30",
+            "label": "クラスターNo.812\n2022/11/30\n三川町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999812004,
+            "date": "2022/11/30",
+            "label": "クラスターNo.812\n2022/11/30\n三川町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999812005,
+            "date": "2022/11/30",
+            "label": "クラスターNo.812\n2022/11/30\n三川町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999812006,
+            "date": "2022/11/30",
+            "label": "クラスターNo.812\n2022/11/30\n三川町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
     }
 ],
 "networkData":[    {
@@ -436697,6 +436793,90 @@
             "target": "99999810001",
             "label": "介護施設"
         }
+    },
+    {
+        "data": {
+            "source": "99999811001",
+            "target": "99999811001",
+            "label": "障がい者施設"
+        }
+    },
+    {
+        "data": {
+            "source": "99999811002",
+            "target": "99999811001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999811003",
+            "target": "99999811001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999811004",
+            "target": "99999811001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999811005",
+            "target": "99999811001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999811006",
+            "target": "99999811001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999812001",
+            "target": "99999812001",
+            "label": "介護施設"
+        }
+    },
+    {
+        "data": {
+            "source": "99999812002",
+            "target": "99999812001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999812003",
+            "target": "99999812001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999812004",
+            "target": "99999812001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999812005",
+            "target": "99999812001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999812006",
+            "target": "99999812001",
+            "label": "関連"
+        }
     }
 ],
-"lastUpdate":"2022/11/29 23:52"}
+"lastUpdate":"2022/12/1 00:18"}
