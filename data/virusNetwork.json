@@ -315517,6 +315517,86 @@
             "label": "クラスターNo.812\n2022/11/30\n三川町\n- ー"
         },
         "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999813001,
+            "date": "2022/12/1",
+            "label": "クラスターNo.813\n2022/12/1\n飯豊町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999813002,
+            "date": "2022/12/1",
+            "label": "クラスターNo.813\n2022/12/1\n飯豊町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999813003,
+            "date": "2022/12/1",
+            "label": "クラスターNo.813\n2022/12/1\n飯豊町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999813004,
+            "date": "2022/12/1",
+            "label": "クラスターNo.813\n2022/12/1\n飯豊町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999813005,
+            "date": "2022/12/1",
+            "label": "クラスターNo.813\n2022/12/1\n飯豊町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999813006,
+            "date": "2022/12/1",
+            "label": "クラスターNo.813\n2022/12/1\n飯豊町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999813007,
+            "date": "2022/12/1",
+            "label": "クラスターNo.813\n2022/12/1\n飯豊町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999813008,
+            "date": "2022/12/1",
+            "label": "クラスターNo.813\n2022/12/1\n飯豊町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999814001,
+            "date": "2022/12/1",
+            "label": "クラスターNo.814\n2022/12/1\n山形市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999815001,
+            "date": "2022/12/1",
+            "label": "クラスターNo.815\n2022/12/1\n山形市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
     }
 ],
 "networkData":[    {
@@ -436877,6 +436957,76 @@
             "target": "99999812001",
             "label": "関連"
         }
+    },
+    {
+        "data": {
+            "source": "99999813001",
+            "target": "99999813001",
+            "label": "介護施設"
+        }
+    },
+    {
+        "data": {
+            "source": "99999813002",
+            "target": "99999813001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999813003",
+            "target": "99999813001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999813004",
+            "target": "99999813001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999813005",
+            "target": "99999813001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999813006",
+            "target": "99999813001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999813007",
+            "target": "99999813001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999813008",
+            "target": "99999813001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999814001",
+            "target": "99999814001",
+            "label": "障がい者施設"
+        }
+    },
+    {
+        "data": {
+            "source": "99999815001",
+            "target": "99999815001",
+            "label": "医療機関"
+        }
     }
 ],
-"lastUpdate":"2022/12/1 00:18"}
+"lastUpdate":"2022/12/1 23:26"}
