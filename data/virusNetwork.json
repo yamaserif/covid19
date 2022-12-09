@@ -316845,6 +316845,110 @@
             "label": "クラスターNo.836\n2022/12/8\n高畠町\n- ー"
         },
         "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999837001,
+            "date": "2022/12/9",
+            "label": "クラスターNo.837\n2022/12/9\n長井市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999837002,
+            "date": "2022/12/9",
+            "label": "クラスターNo.837\n2022/12/9\n長井市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999837003,
+            "date": "2022/12/9",
+            "label": "クラスターNo.837\n2022/12/9\n長井市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999837004,
+            "date": "2022/12/9",
+            "label": "クラスターNo.837\n2022/12/9\n長井市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999837005,
+            "date": "2022/12/9",
+            "label": "クラスターNo.837\n2022/12/9\n長井市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999837006,
+            "date": "2022/12/9",
+            "label": "クラスターNo.837\n2022/12/9\n長井市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999837007,
+            "date": "2022/12/9",
+            "label": "クラスターNo.837\n2022/12/9\n長井市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999838001,
+            "date": "2022/12/9",
+            "label": "クラスターNo.838\n2022/12/9\n酒田市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999838002,
+            "date": "2022/12/9",
+            "label": "クラスターNo.838\n2022/12/9\n酒田市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999838003,
+            "date": "2022/12/9",
+            "label": "クラスターNo.838\n2022/12/9\n酒田市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999838004,
+            "date": "2022/12/9",
+            "label": "クラスターNo.838\n2022/12/9\n酒田市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999838005,
+            "date": "2022/12/9",
+            "label": "クラスターNo.838\n2022/12/9\n酒田市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999838006,
+            "date": "2022/12/9",
+            "label": "クラスターNo.838\n2022/12/9\n酒田市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
     }
 ],
 "networkData":[    {
@@ -439367,6 +439471,97 @@
             "target": "99999836001",
             "label": "関連"
         }
+    },
+    {
+        "data": {
+            "source": "99999837001",
+            "target": "99999837001",
+            "label": "障がい者施設"
+        }
+    },
+    {
+        "data": {
+            "source": "99999837002",
+            "target": "99999837001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999837003",
+            "target": "99999837001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999837004",
+            "target": "99999837001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999837005",
+            "target": "99999837001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999837006",
+            "target": "99999837001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999837007",
+            "target": "99999837001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999838001",
+            "target": "99999838001",
+            "label": "介護施設"
+        }
+    },
+    {
+        "data": {
+            "source": "99999838002",
+            "target": "99999838001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999838003",
+            "target": "99999838001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999838004",
+            "target": "99999838001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999838005",
+            "target": "99999838001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999838006",
+            "target": "99999838001",
+            "label": "関連"
+        }
     }
 ],
-"lastUpdate":"2022/12/8 23:43"}
+"lastUpdate":"2022/12/10 03:13"}
