@@ -316949,6 +316949,38 @@
             "label": "クラスターNo.838\n2022/12/9\n酒田市\n- ー"
         },
         "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999839001,
+            "date": "2022/12/10",
+            "label": "クラスターNo.839\n2022/12/10\n山形市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999840001,
+            "date": "2022/12/10",
+            "label": "クラスターNo.840\n2022/12/10\n山形市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999841001,
+            "date": "2022/12/10",
+            "label": "クラスターNo.841\n2022/12/10\n山形市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999842001,
+            "date": "2022/12/10",
+            "label": "クラスターNo.842\n2022/12/10\n山形市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
     }
 ],
 "networkData":[    {
@@ -439562,6 +439594,34 @@
             "target": "99999838001",
             "label": "関連"
         }
+    },
+    {
+        "data": {
+            "source": "99999839001",
+            "target": "99999839001",
+            "label": "医療機関"
+        }
+    },
+    {
+        "data": {
+            "source": "99999840001",
+            "target": "99999840001",
+            "label": "医療機関"
+        }
+    },
+    {
+        "data": {
+            "source": "99999841001",
+            "target": "99999841001",
+            "label": "介護施設"
+        }
+    },
+    {
+        "data": {
+            "source": "99999842001",
+            "target": "99999842001",
+            "label": "介護施設"
+        }
     }
 ],
-"lastUpdate":"2022/12/10 03:13"}
+"lastUpdate":"2022/12/10 23:49"}
