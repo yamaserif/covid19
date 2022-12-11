@@ -316981,6 +316981,30 @@
             "label": "クラスターNo.842\n2022/12/10\n山形市\n- ー"
         },
         "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999843001,
+            "date": "2022/12/11",
+            "label": "クラスターNo.843\n2022/12/11\n山形市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999844001,
+            "date": "2022/12/11",
+            "label": "クラスターNo.844\n2022/12/11\n山形市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999845001,
+            "date": "2022/12/11",
+            "label": "クラスターNo.845\n2022/12/11\n山形市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
     }
 ],
 "networkData":[    {
@@ -439622,6 +439646,27 @@
             "target": "99999842001",
             "label": "介護施設"
         }
+    },
+    {
+        "data": {
+            "source": "99999843001",
+            "target": "99999843001",
+            "label": "医療機関"
+        }
+    },
+    {
+        "data": {
+            "source": "99999844001",
+            "target": "99999844001",
+            "label": "医療機関"
+        }
+    },
+    {
+        "data": {
+            "source": "99999845001",
+            "target": "99999845001",
+            "label": "介護施設"
+        }
     }
 ],
-"lastUpdate":"2022/12/10 23:49"}
+"lastUpdate":"2022/12/11 23:12"}
