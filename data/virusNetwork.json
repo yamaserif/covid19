@@ -1,4 +1,4 @@
-{"baseData":[    {
+﻿{"baseData":[    {
         "data": {
             "id": 1,
             "date": "2020/3/31",
@@ -317006,6 +317006,14 @@
         },
         "classes": ["multiline-manual", "else"]
     }
+,    {
+        "data": {
+            "id": 99999846001,
+            "date": "2022/12/12",
+            "label": "クラスターNo.846\n2022/12/12\n山形市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    }
 ],
 "networkData":[    {
         "data": {
@@ -439668,5 +439676,12 @@
             "label": "介護施設"
         }
     }
+,    {
+        "data": {
+            "source": "99999846001",
+            "target": "99999846001",
+            "label": "介護施設"
+        }
+    }
 ],
-"lastUpdate":"2022/12/11 23:12"}
+"lastUpdate":"2022/12/12 23:11"}
