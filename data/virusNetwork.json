@@ -317358,6 +317358,158 @@
         },
         "classes": ["multiline-manual", "else"]
     }
+,    {
+        "data": {
+            "id": 99999854001,
+            "date": "2022/12/14",
+            "label": "クラスターNo.854\n2022/12/14\n南陽市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999854002,
+            "date": "2022/12/14",
+            "label": "クラスターNo.854\n2022/12/14\n南陽市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999854003,
+            "date": "2022/12/14",
+            "label": "クラスターNo.854\n2022/12/14\n南陽市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999854004,
+            "date": "2022/12/14",
+            "label": "クラスターNo.854\n2022/12/14\n南陽市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999854005,
+            "date": "2022/12/14",
+            "label": "クラスターNo.854\n2022/12/14\n南陽市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999854006,
+            "date": "2022/12/14",
+            "label": "クラスターNo.854\n2022/12/14\n南陽市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999854007,
+            "date": "2022/12/14",
+            "label": "クラスターNo.854\n2022/12/14\n南陽市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999854008,
+            "date": "2022/12/14",
+            "label": "クラスターNo.854\n2022/12/14\n南陽市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999854009,
+            "date": "2022/12/14",
+            "label": "クラスターNo.854\n2022/12/14\n南陽市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999855001,
+            "date": "2022/12/14",
+            "label": "クラスターNo.855\n2022/12/14\n南陽市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999855002,
+            "date": "2022/12/14",
+            "label": "クラスターNo.855\n2022/12/14\n南陽市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999855003,
+            "date": "2022/12/14",
+            "label": "クラスターNo.855\n2022/12/14\n南陽市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999855004,
+            "date": "2022/12/14",
+            "label": "クラスターNo.855\n2022/12/14\n南陽市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999855005,
+            "date": "2022/12/14",
+            "label": "クラスターNo.855\n2022/12/14\n南陽市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999855006,
+            "date": "2022/12/14",
+            "label": "クラスターNo.855\n2022/12/14\n南陽市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999855007,
+            "date": "2022/12/14",
+            "label": "クラスターNo.855\n2022/12/14\n南陽市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999855008,
+            "date": "2022/12/14",
+            "label": "クラスターNo.855\n2022/12/14\n南陽市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999855009,
+            "date": "2022/12/14",
+            "label": "クラスターNo.855\n2022/12/14\n南陽市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999855010,
+            "date": "2022/12/14",
+            "label": "クラスターNo.855\n2022/12/14\n南陽市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    }
 ],
 "networkData":[    {
         "data": {
@@ -440328,5 +440480,138 @@
             "label": "医療機関"
         }
     }
+,    {
+        "data": {
+            "source": "99999854001",
+            "target": "99999854001",
+            "label": "介護施設"
+        }
+    },
+    {
+        "data": {
+            "source": "99999854002",
+            "target": "99999854001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999854003",
+            "target": "99999854001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999854004",
+            "target": "99999854001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999854005",
+            "target": "99999854001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999854006",
+            "target": "99999854001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999854007",
+            "target": "99999854001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999854008",
+            "target": "99999854001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999854009",
+            "target": "99999854001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999855001",
+            "target": "99999855001",
+            "label": "介護施設"
+        }
+    },
+    {
+        "data": {
+            "source": "99999855002",
+            "target": "99999855001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999855003",
+            "target": "99999855001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999855004",
+            "target": "99999855001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999855005",
+            "target": "99999855001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999855006",
+            "target": "99999855001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999855007",
+            "target": "99999855001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999855008",
+            "target": "99999855001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999855009",
+            "target": "99999855001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999855010",
+            "target": "99999855001",
+            "label": "関連"
+        }
+    }
 ],
-"lastUpdate":"2022/12/13 22:56"}
+"lastUpdate":"2022/12/14 21:55"}
