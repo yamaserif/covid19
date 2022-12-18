@@ -318686,6 +318686,134 @@
         },
         "classes": ["multiline-manual", "else"]
     }
+,    {
+        "data": {
+            "id": 99999867001,
+            "date": "2022/12/18",
+            "label": "クラスターNo.867\n2022/12/18\n戸沢村\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999867002,
+            "date": "2022/12/18",
+            "label": "クラスターNo.867\n2022/12/18\n戸沢村\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999867003,
+            "date": "2022/12/18",
+            "label": "クラスターNo.867\n2022/12/18\n戸沢村\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999867004,
+            "date": "2022/12/18",
+            "label": "クラスターNo.867\n2022/12/18\n戸沢村\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999867005,
+            "date": "2022/12/18",
+            "label": "クラスターNo.867\n2022/12/18\n戸沢村\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999867006,
+            "date": "2022/12/18",
+            "label": "クラスターNo.867\n2022/12/18\n戸沢村\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999867007,
+            "date": "2022/12/18",
+            "label": "クラスターNo.867\n2022/12/18\n戸沢村\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999867008,
+            "date": "2022/12/18",
+            "label": "クラスターNo.867\n2022/12/18\n戸沢村\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999868001,
+            "date": "2022/12/18",
+            "label": "クラスターNo.868\n2022/12/18\n酒田市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999868002,
+            "date": "2022/12/18",
+            "label": "クラスターNo.868\n2022/12/18\n酒田市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999868003,
+            "date": "2022/12/18",
+            "label": "クラスターNo.868\n2022/12/18\n酒田市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999868004,
+            "date": "2022/12/18",
+            "label": "クラスターNo.868\n2022/12/18\n酒田市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999868005,
+            "date": "2022/12/18",
+            "label": "クラスターNo.868\n2022/12/18\n酒田市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999868006,
+            "date": "2022/12/18",
+            "label": "クラスターNo.868\n2022/12/18\n酒田市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999868007,
+            "date": "2022/12/18",
+            "label": "クラスターNo.868\n2022/12/18\n酒田市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999868008,
+            "date": "2022/12/18",
+            "label": "クラスターNo.868\n2022/12/18\n酒田市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    }
 ],
 "networkData":[    {
         "data": {
@@ -442818,5 +442946,117 @@
             "label": "介護施設"
         }
     }
+,    {
+        "data": {
+            "source": "99999867001",
+            "target": "99999867001",
+            "label": "介護施設"
+        }
+    },
+    {
+        "data": {
+            "source": "99999867002",
+            "target": "99999867001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999867003",
+            "target": "99999867001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999867004",
+            "target": "99999867001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999867005",
+            "target": "99999867001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999867006",
+            "target": "99999867001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999867007",
+            "target": "99999867001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999867008",
+            "target": "99999867001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999868001",
+            "target": "99999868001",
+            "label": "介護施設"
+        }
+    },
+    {
+        "data": {
+            "source": "99999868002",
+            "target": "99999868001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999868003",
+            "target": "99999868001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999868004",
+            "target": "99999868001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999868005",
+            "target": "99999868001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999868006",
+            "target": "99999868001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999868007",
+            "target": "99999868001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999868008",
+            "target": "99999868001",
+            "label": "関連"
+        }
+    }
 ],
-"lastUpdate":"2022/12/17 20:45"}
+"lastUpdate":"2022/12/18 19:20"}
