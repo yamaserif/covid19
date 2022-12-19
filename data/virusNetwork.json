@@ -318814,6 +318814,54 @@
         },
         "classes": ["multiline-manual", "else"]
     }
+,    {
+        "data": {
+            "id": 99999869001,
+            "date": "2022/12/19",
+            "label": "クラスターNo.869\n2022/12/19\n長井市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999869002,
+            "date": "2022/12/19",
+            "label": "クラスターNo.869\n2022/12/19\n長井市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999869003,
+            "date": "2022/12/19",
+            "label": "クラスターNo.869\n2022/12/19\n長井市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999869004,
+            "date": "2022/12/19",
+            "label": "クラスターNo.869\n2022/12/19\n長井市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999869005,
+            "date": "2022/12/19",
+            "label": "クラスターNo.869\n2022/12/19\n長井市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999869006,
+            "date": "2022/12/19",
+            "label": "クラスターNo.869\n2022/12/19\n長井市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    }
 ],
 "networkData":[    {
         "data": {
@@ -443058,5 +443106,47 @@
             "label": "関連"
         }
     }
+,    {
+        "data": {
+            "source": "99999869001",
+            "target": "99999869001",
+            "label": "介護施設"
+        }
+    },
+    {
+        "data": {
+            "source": "99999869002",
+            "target": "99999869001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999869003",
+            "target": "99999869001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999869004",
+            "target": "99999869001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999869005",
+            "target": "99999869001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999869006",
+            "target": "99999869001",
+            "label": "関連"
+        }
+    }
 ],
-"lastUpdate":"2022/12/18 19:20"}
+"lastUpdate":"2022/12/19 23:41"}
