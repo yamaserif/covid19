@@ -318966,6 +318966,62 @@
         },
         "classes": ["multiline-manual", "else"]
     }
+,    {
+        "data": {
+            "id": 99999872001,
+            "date": "2022/12/21",
+            "label": "クラスターNo.872\n2022/12/21\n米沢市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999872002,
+            "date": "2022/12/21",
+            "label": "クラスターNo.872\n2022/12/21\n米沢市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999872003,
+            "date": "2022/12/21",
+            "label": "クラスターNo.872\n2022/12/21\n米沢市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999872004,
+            "date": "2022/12/21",
+            "label": "クラスターNo.872\n2022/12/21\n米沢市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999872005,
+            "date": "2022/12/21",
+            "label": "クラスターNo.872\n2022/12/21\n米沢市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999872006,
+            "date": "2022/12/21",
+            "label": "クラスターNo.872\n2022/12/21\n米沢市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999872007,
+            "date": "2022/12/21",
+            "label": "クラスターNo.872\n2022/12/21\n米沢市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    }
 ],
 "networkData":[    {
         "data": {
@@ -443343,5 +443399,54 @@
             "label": "関連"
         }
     }
+,    {
+        "data": {
+            "source": "99999872001",
+            "target": "99999872001",
+            "label": "介護施設"
+        }
+    },
+    {
+        "data": {
+            "source": "99999872002",
+            "target": "99999872001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999872003",
+            "target": "99999872001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999872004",
+            "target": "99999872001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999872005",
+            "target": "99999872001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999872006",
+            "target": "99999872001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999872007",
+            "target": "99999872001",
+            "label": "関連"
+        }
+    }
 ],
-"lastUpdate":"2022/12/20 22:30"}
+"lastUpdate":"2022/12/21 21:52"}
