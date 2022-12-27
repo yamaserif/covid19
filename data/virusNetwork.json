@@ -319622,6 +319622,150 @@
         },
         "classes": ["multiline-manual", "else"]
     }
+,    {
+        "data": {
+            "id": 99999881001,
+            "date": "2022/12/27",
+            "label": "クラスターNo.881\n2022/12/27\n庄内町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999881002,
+            "date": "2022/12/27",
+            "label": "クラスターNo.881\n2022/12/27\n庄内町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999881003,
+            "date": "2022/12/27",
+            "label": "クラスターNo.881\n2022/12/27\n庄内町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999881004,
+            "date": "2022/12/27",
+            "label": "クラスターNo.881\n2022/12/27\n庄内町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999881005,
+            "date": "2022/12/27",
+            "label": "クラスターNo.881\n2022/12/27\n庄内町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999881006,
+            "date": "2022/12/27",
+            "label": "クラスターNo.881\n2022/12/27\n庄内町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999881007,
+            "date": "2022/12/27",
+            "label": "クラスターNo.881\n2022/12/27\n庄内町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999881008,
+            "date": "2022/12/27",
+            "label": "クラスターNo.881\n2022/12/27\n庄内町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999881009,
+            "date": "2022/12/27",
+            "label": "クラスターNo.881\n2022/12/27\n庄内町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999881010,
+            "date": "2022/12/27",
+            "label": "クラスターNo.881\n2022/12/27\n庄内町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999881011,
+            "date": "2022/12/27",
+            "label": "クラスターNo.881\n2022/12/27\n庄内町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999881012,
+            "date": "2022/12/27",
+            "label": "クラスターNo.881\n2022/12/27\n庄内町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999881013,
+            "date": "2022/12/27",
+            "label": "クラスターNo.881\n2022/12/27\n庄内町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999881014,
+            "date": "2022/12/27",
+            "label": "クラスターNo.881\n2022/12/27\n庄内町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999881015,
+            "date": "2022/12/27",
+            "label": "クラスターNo.881\n2022/12/27\n庄内町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999881016,
+            "date": "2022/12/27",
+            "label": "クラスターNo.881\n2022/12/27\n庄内町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999882001,
+            "date": "2022/12/27",
+            "label": "クラスターNo.882\n2022/12/27\n山形市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999883001,
+            "date": "2022/12/27",
+            "label": "クラスターNo.883\n2022/12/27\n山形市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    }
 ],
 "networkData":[    {
         "data": {
@@ -444573,5 +444717,131 @@
             "label": "介護施設"
         }
     }
+,    {
+        "data": {
+            "source": "99999881001",
+            "target": "99999881001",
+            "label": "医療機関"
+        }
+    },
+    {
+        "data": {
+            "source": "99999881002",
+            "target": "99999881001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999881003",
+            "target": "99999881001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999881004",
+            "target": "99999881001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999881005",
+            "target": "99999881001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999881006",
+            "target": "99999881001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999881007",
+            "target": "99999881001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999881008",
+            "target": "99999881001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999881009",
+            "target": "99999881001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999881010",
+            "target": "99999881001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999881011",
+            "target": "99999881001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999881012",
+            "target": "99999881001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999881013",
+            "target": "99999881001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999881014",
+            "target": "99999881001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999881015",
+            "target": "99999881001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999881016",
+            "target": "99999881001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999882001",
+            "target": "99999882001",
+            "label": "介護施設"
+        }
+    },
+    {
+        "data": {
+            "source": "99999883001",
+            "target": "99999883001",
+            "label": "介護施設"
+        }
+    }
 ],
-"lastUpdate":"2022/12/26 22:20"}
+"lastUpdate":"2022/12/28 00:45"}
