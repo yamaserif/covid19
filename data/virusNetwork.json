@@ -320302,6 +320302,14 @@
         },
         "classes": ["multiline-manual", "else"]
     }
+,    {
+        "data": {
+            "id": 99999898001,
+            "date": "2022/12/31",
+            "label": "クラスターNo.898\n2022/12/31\n山形市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    }
 ],
 "networkData":[    {
         "data": {
@@ -445848,5 +445856,12 @@
             "label": "関連"
         }
     }
+,    {
+        "data": {
+            "source": "99999898001",
+            "target": "99999898001",
+            "label": "介護施設"
+        }
+    }
 ],
-"lastUpdate":"2022/12/30 23:58"}
+"lastUpdate":"2022/12/31 21:29"}
