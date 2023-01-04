@@ -320318,6 +320318,78 @@
         },
         "classes": ["multiline-manual", "else"]
     }
+,    {
+        "data": {
+            "id": 99999900001,
+            "date": "2023/1/4",
+            "label": "クラスターNo.900\n2023/1/4\n米沢市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999900002,
+            "date": "2023/1/4",
+            "label": "クラスターNo.900\n2023/1/4\n米沢市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999900003,
+            "date": "2023/1/4",
+            "label": "クラスターNo.900\n2023/1/4\n米沢市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999900004,
+            "date": "2023/1/4",
+            "label": "クラスターNo.900\n2023/1/4\n米沢市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999900005,
+            "date": "2023/1/4",
+            "label": "クラスターNo.900\n2023/1/4\n米沢市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999900006,
+            "date": "2023/1/4",
+            "label": "クラスターNo.900\n2023/1/4\n米沢市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999900007,
+            "date": "2023/1/4",
+            "label": "クラスターNo.900\n2023/1/4\n米沢市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999900008,
+            "date": "2023/1/4",
+            "label": "クラスターNo.900\n2023/1/4\n米沢市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999901001,
+            "date": "2023/1/4",
+            "label": "クラスターNo.901\n2023/1/4\n山形市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    }
 ],
 "networkData":[    {
         "data": {
@@ -445878,5 +445950,68 @@
             "label": "介護施設"
         }
     }
+,    {
+        "data": {
+            "source": "99999900001",
+            "target": "99999900001",
+            "label": "医療機関"
+        }
+    },
+    {
+        "data": {
+            "source": "99999900002",
+            "target": "99999900001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999900003",
+            "target": "99999900001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999900004",
+            "target": "99999900001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999900005",
+            "target": "99999900001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999900006",
+            "target": "99999900001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999900007",
+            "target": "99999900001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999900008",
+            "target": "99999900001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999901001",
+            "target": "99999901001",
+            "label": "介護施設"
+        }
+    }
 ],
-"lastUpdate":"2023/1/3 22:10"}
+"lastUpdate":"2023/1/4 23:38"}
