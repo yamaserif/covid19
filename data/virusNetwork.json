@@ -320662,6 +320662,14 @@
         },
         "classes": ["multiline-manual", "else"]
     }
+,    {
+        "data": {
+            "id": 99999906001,
+            "date": "2023/1/7",
+            "label": "クラスターNo.906\n2023/1/7\n山形市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    }
 ],
 "networkData":[    {
         "data": {
@@ -446523,5 +446531,12 @@
             "label": "関連"
         }
     }
+,    {
+        "data": {
+            "source": "99999906001",
+            "target": "99999906001",
+            "label": "医療機関"
+        }
+    }
 ],
-"lastUpdate":"2023/1/6 23:36"}
+"lastUpdate":"2023/1/7 20:59"}
