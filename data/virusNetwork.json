@@ -320734,6 +320734,62 @@
         },
         "classes": ["multiline-manual", "else"]
     }
+,    {
+        "data": {
+            "id": 99999909001,
+            "date": "2023/1/9",
+            "label": "クラスターNo.909\n2023/1/9\n庄内町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999909002,
+            "date": "2023/1/9",
+            "label": "クラスターNo.909\n2023/1/9\n庄内町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999909003,
+            "date": "2023/1/9",
+            "label": "クラスターNo.909\n2023/1/9\n庄内町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999909004,
+            "date": "2023/1/9",
+            "label": "クラスターNo.909\n2023/1/9\n庄内町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999909005,
+            "date": "2023/1/9",
+            "label": "クラスターNo.909\n2023/1/9\n庄内町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999909006,
+            "date": "2023/1/9",
+            "label": "クラスターNo.909\n2023/1/9\n庄内町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999909007,
+            "date": "2023/1/9",
+            "label": "クラスターNo.909\n2023/1/9\n庄内町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    }
 ],
 "networkData":[    {
         "data": {
@@ -446658,5 +446714,54 @@
             "label": "介護施設"
         }
     }
+,    {
+        "data": {
+            "source": "99999909001",
+            "target": "99999909001",
+            "label": "医療機関"
+        }
+    },
+    {
+        "data": {
+            "source": "99999909002",
+            "target": "99999909001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999909003",
+            "target": "99999909001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999909004",
+            "target": "99999909001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999909005",
+            "target": "99999909001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999909006",
+            "target": "99999909001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999909007",
+            "target": "99999909001",
+            "label": "関連"
+        }
+    }
 ],
-"lastUpdate":"2023/1/9 00:48"}
+"lastUpdate":"2023/1/9 20:58"}
