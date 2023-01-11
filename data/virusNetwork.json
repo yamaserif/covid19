@@ -320790,6 +320790,126 @@
         },
         "classes": ["multiline-manual", "else"]
     }
+,    {
+        "data": {
+            "id": 99999910001,
+            "date": "2023/1/11",
+            "label": "クラスターNo.910\n2023/1/11\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999910002,
+            "date": "2023/1/11",
+            "label": "クラスターNo.910\n2023/1/11\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999910003,
+            "date": "2023/1/11",
+            "label": "クラスターNo.910\n2023/1/11\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999910004,
+            "date": "2023/1/11",
+            "label": "クラスターNo.910\n2023/1/11\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999910005,
+            "date": "2023/1/11",
+            "label": "クラスターNo.910\n2023/1/11\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999910006,
+            "date": "2023/1/11",
+            "label": "クラスターNo.910\n2023/1/11\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999911001,
+            "date": "2023/1/11",
+            "label": "クラスターNo.911\n2023/1/11\n遊佐町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999911002,
+            "date": "2023/1/11",
+            "label": "クラスターNo.911\n2023/1/11\n遊佐町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999911003,
+            "date": "2023/1/11",
+            "label": "クラスターNo.911\n2023/1/11\n遊佐町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999911004,
+            "date": "2023/1/11",
+            "label": "クラスターNo.911\n2023/1/11\n遊佐町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999911005,
+            "date": "2023/1/11",
+            "label": "クラスターNo.911\n2023/1/11\n遊佐町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999911006,
+            "date": "2023/1/11",
+            "label": "クラスターNo.911\n2023/1/11\n遊佐町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999912001,
+            "date": "2023/1/11",
+            "label": "クラスターNo.912\n2023/1/11\n山形市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999913001,
+            "date": "2023/1/11",
+            "label": "クラスターNo.913\n2023/1/11\n山形市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999914001,
+            "date": "2023/1/11",
+            "label": "クラスターNo.914\n2023/1/11\n山形市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    }
 ],
 "networkData":[    {
         "data": {
@@ -446763,5 +446883,110 @@
             "label": "関連"
         }
     }
+,    {
+        "data": {
+            "source": "99999910001",
+            "target": "99999910001",
+            "label": "障がい者施設"
+        }
+    },
+    {
+        "data": {
+            "source": "99999910002",
+            "target": "99999910001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999910003",
+            "target": "99999910001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999910004",
+            "target": "99999910001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999910005",
+            "target": "99999910001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999910006",
+            "target": "99999910001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999911001",
+            "target": "99999911001",
+            "label": "介護施設"
+        }
+    },
+    {
+        "data": {
+            "source": "99999911002",
+            "target": "99999911001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999911003",
+            "target": "99999911001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999911004",
+            "target": "99999911001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999911005",
+            "target": "99999911001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999911006",
+            "target": "99999911001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999912001",
+            "target": "99999912001",
+            "label": "医療機関"
+        }
+    },
+    {
+        "data": {
+            "source": "99999913001",
+            "target": "99999913001",
+            "label": "介護施設"
+        }
+    },
+    {
+        "data": {
+            "source": "99999914001",
+            "target": "99999914001",
+            "label": "医療機関"
+        }
+    }
 ],
-"lastUpdate":"2023/1/10 22:15"}
+"lastUpdate":"2023/1/11 23:03"}
