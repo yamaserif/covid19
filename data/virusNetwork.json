@@ -321326,6 +321326,102 @@
         },
         "classes": ["multiline-manual", "else"]
     }
+,    {
+        "data": {
+            "id": 99999922001,
+            "date": "2023/1/15",
+            "label": "クラスターNo.922\n2023/1/15\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999922002,
+            "date": "2023/1/15",
+            "label": "クラスターNo.922\n2023/1/15\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999922003,
+            "date": "2023/1/15",
+            "label": "クラスターNo.922\n2023/1/15\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999922004,
+            "date": "2023/1/15",
+            "label": "クラスターNo.922\n2023/1/15\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999922005,
+            "date": "2023/1/15",
+            "label": "クラスターNo.922\n2023/1/15\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999922006,
+            "date": "2023/1/15",
+            "label": "クラスターNo.922\n2023/1/15\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999922007,
+            "date": "2023/1/15",
+            "label": "クラスターNo.922\n2023/1/15\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999922008,
+            "date": "2023/1/15",
+            "label": "クラスターNo.922\n2023/1/15\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999922009,
+            "date": "2023/1/15",
+            "label": "クラスターNo.922\n2023/1/15\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999922010,
+            "date": "2023/1/15",
+            "label": "クラスターNo.922\n2023/1/15\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999922011,
+            "date": "2023/1/15",
+            "label": "クラスターNo.922\n2023/1/15\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999922012,
+            "date": "2023/1/15",
+            "label": "クラスターNo.922\n2023/1/15\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    }
 ],
 "networkData":[    {
         "data": {
@@ -447768,5 +447864,89 @@
             "label": "関連"
         }
     }
+,    {
+        "data": {
+            "source": "99999922001",
+            "target": "99999922001",
+            "label": "介護施設"
+        }
+    },
+    {
+        "data": {
+            "source": "99999922002",
+            "target": "99999922001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999922003",
+            "target": "99999922001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999922004",
+            "target": "99999922001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999922005",
+            "target": "99999922001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999922006",
+            "target": "99999922001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999922007",
+            "target": "99999922001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999922008",
+            "target": "99999922001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999922009",
+            "target": "99999922001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999922010",
+            "target": "99999922001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999922011",
+            "target": "99999922001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999922012",
+            "target": "99999922001",
+            "label": "関連"
+        }
+    }
 ],
-"lastUpdate":"2023/1/14 23:25"}
+"lastUpdate":"2023/1/15 19:56"}
