@@ -321934,6 +321934,126 @@
         },
         "classes": ["multiline-manual", "else"]
     }
+,    {
+        "data": {
+            "id": 99999931001,
+            "date": "2023/1/21",
+            "label": "クラスターNo.931\n2023/1/21\n天童市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999931002,
+            "date": "2023/1/21",
+            "label": "クラスターNo.931\n2023/1/21\n天童市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999931003,
+            "date": "2023/1/21",
+            "label": "クラスターNo.931\n2023/1/21\n天童市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999931004,
+            "date": "2023/1/21",
+            "label": "クラスターNo.931\n2023/1/21\n天童市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999931005,
+            "date": "2023/1/21",
+            "label": "クラスターNo.931\n2023/1/21\n天童市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999931006,
+            "date": "2023/1/21",
+            "label": "クラスターNo.931\n2023/1/21\n天童市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999931007,
+            "date": "2023/1/21",
+            "label": "クラスターNo.931\n2023/1/21\n天童市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999931008,
+            "date": "2023/1/21",
+            "label": "クラスターNo.931\n2023/1/21\n天童市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999931009,
+            "date": "2023/1/21",
+            "label": "クラスターNo.931\n2023/1/21\n天童市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999931010,
+            "date": "2023/1/21",
+            "label": "クラスターNo.931\n2023/1/21\n天童市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999931011,
+            "date": "2023/1/21",
+            "label": "クラスターNo.931\n2023/1/21\n天童市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999931012,
+            "date": "2023/1/21",
+            "label": "クラスターNo.931\n2023/1/21\n天童市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999931013,
+            "date": "2023/1/21",
+            "label": "クラスターNo.931\n2023/1/21\n天童市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999931014,
+            "date": "2023/1/21",
+            "label": "クラスターNo.931\n2023/1/21\n天童市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999931015,
+            "date": "2023/1/21",
+            "label": "クラスターNo.931\n2023/1/21\n天童市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    }
 ],
 "networkData":[    {
         "data": {
@@ -448908,5 +449028,110 @@
             "label": "関連"
         }
     }
+,    {
+        "data": {
+            "source": "99999931001",
+            "target": "99999931001",
+            "label": "医療機関"
+        }
+    },
+    {
+        "data": {
+            "source": "99999931002",
+            "target": "99999931001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999931003",
+            "target": "99999931001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999931004",
+            "target": "99999931001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999931005",
+            "target": "99999931001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999931006",
+            "target": "99999931001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999931007",
+            "target": "99999931001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999931008",
+            "target": "99999931001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999931009",
+            "target": "99999931001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999931010",
+            "target": "99999931001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999931011",
+            "target": "99999931001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999931012",
+            "target": "99999931001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999931013",
+            "target": "99999931001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999931014",
+            "target": "99999931001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999931015",
+            "target": "99999931001",
+            "label": "関連"
+        }
+    }
 ],
-"lastUpdate":"2023/1/21 00:15"}
+"lastUpdate":"2023/1/22 00:49"}
