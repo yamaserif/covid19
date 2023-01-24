@@ -322070,6 +322070,22 @@
         },
         "classes": ["multiline-manual", "else"]
     }
+,    {
+        "data": {
+            "id": 99999934001,
+            "date": "2023/1/24",
+            "label": "クラスターNo.934\n2023/1/24\n山形市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999935001,
+            "date": "2023/1/24",
+            "label": "クラスターNo.935\n2023/1/24\n山形市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    }
 ],
 "networkData":[    {
         "data": {
@@ -449163,5 +449179,19 @@
             "label": "介護施設"
         }
     }
+,    {
+        "data": {
+            "source": "99999934001",
+            "target": "99999934001",
+            "label": "医療機関"
+        }
+    },
+    {
+        "data": {
+            "source": "99999935001",
+            "target": "99999935001",
+            "label": "介護施設"
+        }
+    }
 ],
-"lastUpdate":"2023/1/23 21:39"}
+"lastUpdate":"2023/1/24 21:38"}
