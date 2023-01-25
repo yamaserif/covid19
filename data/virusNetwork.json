@@ -322086,6 +322086,134 @@
         },
         "classes": ["multiline-manual", "else"]
     }
+,    {
+        "data": {
+            "id": 99999936001,
+            "date": "2023/1/25",
+            "label": "クラスターNo.936\n2023/1/25\n酒田市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999936002,
+            "date": "2023/1/25",
+            "label": "クラスターNo.936\n2023/1/25\n酒田市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999936003,
+            "date": "2023/1/25",
+            "label": "クラスターNo.936\n2023/1/25\n酒田市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999936004,
+            "date": "2023/1/25",
+            "label": "クラスターNo.936\n2023/1/25\n酒田市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999936005,
+            "date": "2023/1/25",
+            "label": "クラスターNo.936\n2023/1/25\n酒田市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999936006,
+            "date": "2023/1/25",
+            "label": "クラスターNo.936\n2023/1/25\n酒田市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999936007,
+            "date": "2023/1/25",
+            "label": "クラスターNo.936\n2023/1/25\n酒田市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999936008,
+            "date": "2023/1/25",
+            "label": "クラスターNo.936\n2023/1/25\n酒田市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999936009,
+            "date": "2023/1/25",
+            "label": "クラスターNo.936\n2023/1/25\n酒田市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999936010,
+            "date": "2023/1/25",
+            "label": "クラスターNo.936\n2023/1/25\n酒田市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999936011,
+            "date": "2023/1/25",
+            "label": "クラスターNo.936\n2023/1/25\n酒田市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999936012,
+            "date": "2023/1/25",
+            "label": "クラスターNo.936\n2023/1/25\n酒田市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999936013,
+            "date": "2023/1/25",
+            "label": "クラスターNo.936\n2023/1/25\n酒田市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999936014,
+            "date": "2023/1/25",
+            "label": "クラスターNo.936\n2023/1/25\n酒田市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999937001,
+            "date": "2023/1/25",
+            "label": "クラスターNo.937\n2023/1/25\n山形市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999938001,
+            "date": "2023/1/25",
+            "label": "クラスターNo.938\n2023/1/25\n山形市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    }
 ],
 "networkData":[    {
         "data": {
@@ -449193,5 +449321,117 @@
             "label": "介護施設"
         }
     }
+,    {
+        "data": {
+            "source": "99999936001",
+            "target": "99999936001",
+            "label": "介護施設"
+        }
+    },
+    {
+        "data": {
+            "source": "99999936002",
+            "target": "99999936001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999936003",
+            "target": "99999936001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999936004",
+            "target": "99999936001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999936005",
+            "target": "99999936001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999936006",
+            "target": "99999936001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999936007",
+            "target": "99999936001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999936008",
+            "target": "99999936001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999936009",
+            "target": "99999936001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999936010",
+            "target": "99999936001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999936011",
+            "target": "99999936001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999936012",
+            "target": "99999936001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999936013",
+            "target": "99999936001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999936014",
+            "target": "99999936001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999937001",
+            "target": "99999937001",
+            "label": "介護施設"
+        }
+    },
+    {
+        "data": {
+            "source": "99999938001",
+            "target": "99999938001",
+            "label": "介護施設"
+        }
+    }
 ],
-"lastUpdate":"2023/1/24 21:38"}
+"lastUpdate":"2023/1/25 20:20"}
