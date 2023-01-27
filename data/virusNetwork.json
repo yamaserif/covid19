@@ -322382,6 +322382,54 @@
         },
         "classes": ["multiline-manual", "else"]
     }
+,    {
+        "data": {
+            "id": 99999942001,
+            "date": "2023/1/27",
+            "label": "クラスターNo.942\n2023/1/27\n長井市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999942002,
+            "date": "2023/1/27",
+            "label": "クラスターNo.942\n2023/1/27\n長井市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999942003,
+            "date": "2023/1/27",
+            "label": "クラスターNo.942\n2023/1/27\n長井市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999942004,
+            "date": "2023/1/27",
+            "label": "クラスターNo.942\n2023/1/27\n長井市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999942005,
+            "date": "2023/1/27",
+            "label": "クラスターNo.942\n2023/1/27\n長井市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999942006,
+            "date": "2023/1/27",
+            "label": "クラスターNo.942\n2023/1/27\n長井市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    }
 ],
 "networkData":[    {
         "data": {
@@ -449748,5 +449796,47 @@
             "label": "関連"
         }
     }
+,    {
+        "data": {
+            "source": "99999942001",
+            "target": "99999942001",
+            "label": "医療機関"
+        }
+    },
+    {
+        "data": {
+            "source": "99999942002",
+            "target": "99999942001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999942003",
+            "target": "99999942001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999942004",
+            "target": "99999942001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999942005",
+            "target": "99999942001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999942006",
+            "target": "99999942001",
+            "label": "関連"
+        }
+    }
 ],
-"lastUpdate":"2023/1/26 23:55"}
+"lastUpdate":"2023/1/27 20:33"}
