@@ -323270,6 +323270,14 @@
         },
         "classes": ["multiline-manual", "else"]
     }
+,    {
+        "data": {
+            "id": 99999957001,
+            "date": "2023/2/22",
+            "label": "クラスターNo.957\n2023/2/22\n山形市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    }
 ],
 "networkData":[    {
         "data": {
@@ -451413,5 +451421,12 @@
             "label": "関連"
         }
     }
+,    {
+        "data": {
+            "source": "99999957001",
+            "target": "99999957001",
+            "label": "障がい者施設"
+        }
+    }
 ],
-"lastUpdate":"2023/2/21 22:32"}
+"lastUpdate":"2023/2/22 23:17"}
