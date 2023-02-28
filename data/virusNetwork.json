@@ -323278,6 +323278,166 @@
         },
         "classes": ["multiline-manual", "else"]
     }
+,    {
+        "data": {
+            "id": 99999958001,
+            "date": "2023/2/28",
+            "label": "クラスターNo.958\n2023/2/28\n新庄市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999958002,
+            "date": "2023/2/28",
+            "label": "クラスターNo.958\n2023/2/28\n新庄市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999958003,
+            "date": "2023/2/28",
+            "label": "クラスターNo.958\n2023/2/28\n新庄市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999958004,
+            "date": "2023/2/28",
+            "label": "クラスターNo.958\n2023/2/28\n新庄市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999958005,
+            "date": "2023/2/28",
+            "label": "クラスターNo.958\n2023/2/28\n新庄市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999958006,
+            "date": "2023/2/28",
+            "label": "クラスターNo.958\n2023/2/28\n新庄市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999958007,
+            "date": "2023/2/28",
+            "label": "クラスターNo.958\n2023/2/28\n新庄市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999958008,
+            "date": "2023/2/28",
+            "label": "クラスターNo.958\n2023/2/28\n新庄市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999959001,
+            "date": "2023/2/28",
+            "label": "クラスターNo.959\n2023/2/28\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999959002,
+            "date": "2023/2/28",
+            "label": "クラスターNo.959\n2023/2/28\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999959003,
+            "date": "2023/2/28",
+            "label": "クラスターNo.959\n2023/2/28\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999959004,
+            "date": "2023/2/28",
+            "label": "クラスターNo.959\n2023/2/28\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999959005,
+            "date": "2023/2/28",
+            "label": "クラスターNo.959\n2023/2/28\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999959006,
+            "date": "2023/2/28",
+            "label": "クラスターNo.959\n2023/2/28\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999959007,
+            "date": "2023/2/28",
+            "label": "クラスターNo.959\n2023/2/28\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999959008,
+            "date": "2023/2/28",
+            "label": "クラスターNo.959\n2023/2/28\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999959009,
+            "date": "2023/2/28",
+            "label": "クラスターNo.959\n2023/2/28\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999959010,
+            "date": "2023/2/28",
+            "label": "クラスターNo.959\n2023/2/28\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999959011,
+            "date": "2023/2/28",
+            "label": "クラスターNo.959\n2023/2/28\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999959012,
+            "date": "2023/2/28",
+            "label": "クラスターNo.959\n2023/2/28\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    }
 ],
 "networkData":[    {
         "data": {
@@ -451428,5 +451588,145 @@
             "label": "障がい者施設"
         }
     }
+,    {
+        "data": {
+            "source": "99999958001",
+            "target": "99999958001",
+            "label": "介護施設"
+        }
+    },
+    {
+        "data": {
+            "source": "99999958002",
+            "target": "99999958001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999958003",
+            "target": "99999958001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999958004",
+            "target": "99999958001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999958005",
+            "target": "99999958001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999958006",
+            "target": "99999958001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999958007",
+            "target": "99999958001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999958008",
+            "target": "99999958001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999959001",
+            "target": "99999959001",
+            "label": "介護施設"
+        }
+    },
+    {
+        "data": {
+            "source": "99999959002",
+            "target": "99999959001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999959003",
+            "target": "99999959001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999959004",
+            "target": "99999959001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999959005",
+            "target": "99999959001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999959006",
+            "target": "99999959001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999959007",
+            "target": "99999959001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999959008",
+            "target": "99999959001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999959009",
+            "target": "99999959001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999959010",
+            "target": "99999959001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999959011",
+            "target": "99999959001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999959012",
+            "target": "99999959001",
+            "label": "関連"
+        }
+    }
 ],
-"lastUpdate":"2023/2/27 22:06"}
+"lastUpdate":"2023/2/28 22:03"}
