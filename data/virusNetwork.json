@@ -323438,6 +323438,62 @@
         },
         "classes": ["multiline-manual", "else"]
     }
+,    {
+        "data": {
+            "id": 99999960001,
+            "date": "2023/3/1",
+            "label": "クラスターNo.960\n2023/3/1\n南陽市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999960002,
+            "date": "2023/3/1",
+            "label": "クラスターNo.960\n2023/3/1\n南陽市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999960003,
+            "date": "2023/3/1",
+            "label": "クラスターNo.960\n2023/3/1\n南陽市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999960004,
+            "date": "2023/3/1",
+            "label": "クラスターNo.960\n2023/3/1\n南陽市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999960005,
+            "date": "2023/3/1",
+            "label": "クラスターNo.960\n2023/3/1\n南陽市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999960006,
+            "date": "2023/3/1",
+            "label": "クラスターNo.960\n2023/3/1\n南陽市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999960007,
+            "date": "2023/3/1",
+            "label": "クラスターNo.960\n2023/3/1\n南陽市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    }
 ],
 "networkData":[    {
         "data": {
@@ -451728,5 +451784,54 @@
             "label": "関連"
         }
     }
+,    {
+        "data": {
+            "source": "99999960001",
+            "target": "99999960001",
+            "label": "介護施設"
+        }
+    },
+    {
+        "data": {
+            "source": "99999960002",
+            "target": "99999960001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999960003",
+            "target": "99999960001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999960004",
+            "target": "99999960001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999960005",
+            "target": "99999960001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999960006",
+            "target": "99999960001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999960007",
+            "target": "99999960001",
+            "label": "関連"
+        }
+    }
 ],
-"lastUpdate":"2023/2/28 22:03"}
+"lastUpdate":"2023/3/1 23:58"}
