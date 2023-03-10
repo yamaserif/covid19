@@ -323942,6 +323942,94 @@
         },
         "classes": ["multiline-manual", "else"]
     }
+,    {
+        "data": {
+            "id": 99999967001,
+            "date": "2023/3/10",
+            "label": "クラスターNo.967\n2023/3/10\n酒田市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999967002,
+            "date": "2023/3/10",
+            "label": "クラスターNo.967\n2023/3/10\n酒田市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999967003,
+            "date": "2023/3/10",
+            "label": "クラスターNo.967\n2023/3/10\n酒田市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999967004,
+            "date": "2023/3/10",
+            "label": "クラスターNo.967\n2023/3/10\n酒田市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999967005,
+            "date": "2023/3/10",
+            "label": "クラスターNo.967\n2023/3/10\n酒田市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999967006,
+            "date": "2023/3/10",
+            "label": "クラスターNo.967\n2023/3/10\n酒田市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999967007,
+            "date": "2023/3/10",
+            "label": "クラスターNo.967\n2023/3/10\n酒田市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999967008,
+            "date": "2023/3/10",
+            "label": "クラスターNo.967\n2023/3/10\n酒田市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999967009,
+            "date": "2023/3/10",
+            "label": "クラスターNo.967\n2023/3/10\n酒田市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999967010,
+            "date": "2023/3/10",
+            "label": "クラスターNo.967\n2023/3/10\n酒田市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999967011,
+            "date": "2023/3/10",
+            "label": "クラスターNo.967\n2023/3/10\n酒田市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    }
 ],
 "networkData":[    {
         "data": {
@@ -452673,5 +452761,82 @@
             "label": "関連"
         }
     }
+,    {
+        "data": {
+            "source": "99999967001",
+            "target": "99999967001",
+            "label": "医療機関"
+        }
+    },
+    {
+        "data": {
+            "source": "99999967002",
+            "target": "99999967001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999967003",
+            "target": "99999967001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999967004",
+            "target": "99999967001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999967005",
+            "target": "99999967001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999967006",
+            "target": "99999967001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999967007",
+            "target": "99999967001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999967008",
+            "target": "99999967001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999967009",
+            "target": "99999967001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999967010",
+            "target": "99999967001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999967011",
+            "target": "99999967001",
+            "label": "関連"
+        }
+    }
 ],
-"lastUpdate":"2023/3/9 22:47"}
+"lastUpdate":"2023/3/11 01:28"}
