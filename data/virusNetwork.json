@@ -324686,6 +324686,110 @@
         },
         "classes": ["multiline-manual", "else"]
     }
+,    {
+        "data": {
+            "id": 99999978001,
+            "date": "2023/3/30",
+            "label": "クラスターNo.978\n2023/3/30\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999978002,
+            "date": "2023/3/30",
+            "label": "クラスターNo.978\n2023/3/30\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999978003,
+            "date": "2023/3/30",
+            "label": "クラスターNo.978\n2023/3/30\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999978004,
+            "date": "2023/3/30",
+            "label": "クラスターNo.978\n2023/3/30\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999978005,
+            "date": "2023/3/30",
+            "label": "クラスターNo.978\n2023/3/30\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999978006,
+            "date": "2023/3/30",
+            "label": "クラスターNo.978\n2023/3/30\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999978007,
+            "date": "2023/3/30",
+            "label": "クラスターNo.978\n2023/3/30\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999978008,
+            "date": "2023/3/30",
+            "label": "クラスターNo.978\n2023/3/30\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999978009,
+            "date": "2023/3/30",
+            "label": "クラスターNo.978\n2023/3/30\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999978010,
+            "date": "2023/3/30",
+            "label": "クラスターNo.978\n2023/3/30\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999978011,
+            "date": "2023/3/30",
+            "label": "クラスターNo.978\n2023/3/30\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999978012,
+            "date": "2023/3/30",
+            "label": "クラスターNo.978\n2023/3/30\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999978013,
+            "date": "2023/3/30",
+            "label": "クラスターNo.978\n2023/3/30\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    }
 ],
 "networkData":[    {
         "data": {
@@ -454068,5 +454172,96 @@
             "label": "関連"
         }
     }
+,    {
+        "data": {
+            "source": "99999978001",
+            "target": "99999978001",
+            "label": "医療機関"
+        }
+    },
+    {
+        "data": {
+            "source": "99999978002",
+            "target": "99999978001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999978003",
+            "target": "99999978001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999978004",
+            "target": "99999978001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999978005",
+            "target": "99999978001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999978006",
+            "target": "99999978001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999978007",
+            "target": "99999978001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999978008",
+            "target": "99999978001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999978009",
+            "target": "99999978001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999978010",
+            "target": "99999978001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999978011",
+            "target": "99999978001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999978012",
+            "target": "99999978001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999978013",
+            "target": "99999978001",
+            "label": "関連"
+        }
+    }
 ],
-"lastUpdate":"2023/3/29 20:51"}
+"lastUpdate":"2023/3/30 20:49"}
