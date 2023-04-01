@@ -324790,6 +324790,78 @@
         },
         "classes": ["multiline-manual", "else"]
     }
+,    {
+        "data": {
+            "id": 99999979001,
+            "date": "2023/4/1",
+            "label": "クラスターNo.979\n2023/4/1\n米沢市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999979002,
+            "date": "2023/4/1",
+            "label": "クラスターNo.979\n2023/4/1\n米沢市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999979003,
+            "date": "2023/4/1",
+            "label": "クラスターNo.979\n2023/4/1\n米沢市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999979004,
+            "date": "2023/4/1",
+            "label": "クラスターNo.979\n2023/4/1\n米沢市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999979005,
+            "date": "2023/4/1",
+            "label": "クラスターNo.979\n2023/4/1\n米沢市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999979006,
+            "date": "2023/4/1",
+            "label": "クラスターNo.979\n2023/4/1\n米沢市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999979007,
+            "date": "2023/4/1",
+            "label": "クラスターNo.979\n2023/4/1\n米沢市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999979008,
+            "date": "2023/4/1",
+            "label": "クラスターNo.979\n2023/4/1\n米沢市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999979009,
+            "date": "2023/4/1",
+            "label": "クラスターNo.979\n2023/4/1\n米沢市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    }
 ],
 "networkData":[    {
         "data": {
@@ -454263,5 +454335,68 @@
             "label": "関連"
         }
     }
+,    {
+        "data": {
+            "source": "99999979001",
+            "target": "99999979001",
+            "label": "介護施設"
+        }
+    },
+    {
+        "data": {
+            "source": "99999979002",
+            "target": "99999979001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999979003",
+            "target": "99999979001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999979004",
+            "target": "99999979001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999979005",
+            "target": "99999979001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999979006",
+            "target": "99999979001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999979007",
+            "target": "99999979001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999979008",
+            "target": "99999979001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999979009",
+            "target": "99999979001",
+            "label": "関連"
+        }
+    }
 ],
-"lastUpdate":"2023/3/30 20:49"}
+"lastUpdate":"2023/4/1 21:42"}
