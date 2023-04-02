@@ -324862,6 +324862,70 @@
         },
         "classes": ["multiline-manual", "else"]
     }
+,    {
+        "data": {
+            "id": 99999980001,
+            "date": "2023/4/2",
+            "label": "クラスターNo.980\n2023/4/2\n遊佐町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999980002,
+            "date": "2023/4/2",
+            "label": "クラスターNo.980\n2023/4/2\n遊佐町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999980003,
+            "date": "2023/4/2",
+            "label": "クラスターNo.980\n2023/4/2\n遊佐町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999980004,
+            "date": "2023/4/2",
+            "label": "クラスターNo.980\n2023/4/2\n遊佐町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999980005,
+            "date": "2023/4/2",
+            "label": "クラスターNo.980\n2023/4/2\n遊佐町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999980006,
+            "date": "2023/4/2",
+            "label": "クラスターNo.980\n2023/4/2\n遊佐町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999980007,
+            "date": "2023/4/2",
+            "label": "クラスターNo.980\n2023/4/2\n遊佐町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999980008,
+            "date": "2023/4/2",
+            "label": "クラスターNo.980\n2023/4/2\n遊佐町\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    }
 ],
 "networkData":[    {
         "data": {
@@ -454398,5 +454462,61 @@
             "label": "関連"
         }
     }
+,    {
+        "data": {
+            "source": "99999980001",
+            "target": "99999980001",
+            "label": "障がい者施設"
+        }
+    },
+    {
+        "data": {
+            "source": "99999980002",
+            "target": "99999980001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999980003",
+            "target": "99999980001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999980004",
+            "target": "99999980001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999980005",
+            "target": "99999980001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999980006",
+            "target": "99999980001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999980007",
+            "target": "99999980001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999980008",
+            "target": "99999980001",
+            "label": "関連"
+        }
+    }
 ],
-"lastUpdate":"2023/4/1 21:42"}
+"lastUpdate":"2023/4/2 22:53"}
