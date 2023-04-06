@@ -324990,6 +324990,86 @@
         },
         "classes": ["multiline-manual", "else"]
     }
+,    {
+        "data": {
+            "id": 99999982001,
+            "date": "2023/4/6",
+            "label": "クラスターNo.982\n2023/4/6\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999982002,
+            "date": "2023/4/6",
+            "label": "クラスターNo.982\n2023/4/6\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999982003,
+            "date": "2023/4/6",
+            "label": "クラスターNo.982\n2023/4/6\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999982004,
+            "date": "2023/4/6",
+            "label": "クラスターNo.982\n2023/4/6\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999982005,
+            "date": "2023/4/6",
+            "label": "クラスターNo.982\n2023/4/6\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999982006,
+            "date": "2023/4/6",
+            "label": "クラスターNo.982\n2023/4/6\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999982007,
+            "date": "2023/4/6",
+            "label": "クラスターNo.982\n2023/4/6\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999982008,
+            "date": "2023/4/6",
+            "label": "クラスターNo.982\n2023/4/6\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999983001,
+            "date": "2023/4/6",
+            "label": "クラスターNo.983\n2023/4/6\n山形市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999984001,
+            "date": "2023/4/6",
+            "label": "クラスターNo.984\n2023/4/6\n山形市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    }
 ],
 "networkData":[    {
         "data": {
@@ -454638,5 +454718,75 @@
             "label": "関連"
         }
     }
+,    {
+        "data": {
+            "source": "99999982001",
+            "target": "99999982001",
+            "label": "介護施設"
+        }
+    },
+    {
+        "data": {
+            "source": "99999982002",
+            "target": "99999982001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999982003",
+            "target": "99999982001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999982004",
+            "target": "99999982001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999982005",
+            "target": "99999982001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999982006",
+            "target": "99999982001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999982007",
+            "target": "99999982001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999982008",
+            "target": "99999982001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999983001",
+            "target": "99999983001",
+            "label": "介護施設"
+        }
+    },
+    {
+        "data": {
+            "source": "99999984001",
+            "target": "99999984001",
+            "label": "介護施設"
+        }
+    }
 ],
-"lastUpdate":"2023/4/5 23:51"}
+"lastUpdate":"2023/4/6 21:36"}
