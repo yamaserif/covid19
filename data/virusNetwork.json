@@ -325598,6 +325598,70 @@
         },
         "classes": ["multiline-manual", "else"]
     }
+,    {
+        "data": {
+            "id": 99999993001,
+            "date": "2023/4/22",
+            "label": "クラスターNo.993\n2023/4/22\n酒田市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999993002,
+            "date": "2023/4/22",
+            "label": "クラスターNo.993\n2023/4/22\n酒田市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999993003,
+            "date": "2023/4/22",
+            "label": "クラスターNo.993\n2023/4/22\n酒田市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999993004,
+            "date": "2023/4/22",
+            "label": "クラスターNo.993\n2023/4/22\n酒田市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999993005,
+            "date": "2023/4/22",
+            "label": "クラスターNo.993\n2023/4/22\n酒田市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999993006,
+            "date": "2023/4/22",
+            "label": "クラスターNo.993\n2023/4/22\n酒田市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999993007,
+            "date": "2023/4/22",
+            "label": "クラスターNo.993\n2023/4/22\n酒田市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999993008,
+            "date": "2023/4/22",
+            "label": "クラスターNo.993\n2023/4/22\n酒田市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    }
 ],
 "networkData":[    {
         "data": {
@@ -455778,5 +455842,61 @@
             "label": "介護施設"
         }
     }
+,    {
+        "data": {
+            "source": "99999993001",
+            "target": "99999993001",
+            "label": "障がい者支援施設"
+        }
+    },
+    {
+        "data": {
+            "source": "99999993002",
+            "target": "99999993001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999993003",
+            "target": "99999993001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999993004",
+            "target": "99999993001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999993005",
+            "target": "99999993001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999993006",
+            "target": "99999993001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999993007",
+            "target": "99999993001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999993008",
+            "target": "99999993001",
+            "label": "関連"
+        }
+    }
 ],
-"lastUpdate":"2023/4/22 10:30"}
+"lastUpdate":"2023/4/23 00:41"}
