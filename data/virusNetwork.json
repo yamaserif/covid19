@@ -325710,6 +325710,86 @@
         },
         "classes": ["multiline-manual", "else"]
     }
+,    {
+        "data": {
+            "id": 99999995001,
+            "date": "2023/4/26",
+            "label": "クラスターNo.995\n2023/4/26\n南陽市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999995002,
+            "date": "2023/4/26",
+            "label": "クラスターNo.995\n2023/4/26\n南陽市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999995003,
+            "date": "2023/4/26",
+            "label": "クラスターNo.995\n2023/4/26\n南陽市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999995004,
+            "date": "2023/4/26",
+            "label": "クラスターNo.995\n2023/4/26\n南陽市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999995005,
+            "date": "2023/4/26",
+            "label": "クラスターNo.995\n2023/4/26\n南陽市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999995006,
+            "date": "2023/4/26",
+            "label": "クラスターNo.995\n2023/4/26\n南陽市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999995007,
+            "date": "2023/4/26",
+            "label": "クラスターNo.995\n2023/4/26\n南陽市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999995008,
+            "date": "2023/4/26",
+            "label": "クラスターNo.995\n2023/4/26\n南陽市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999995009,
+            "date": "2023/4/26",
+            "label": "クラスターNo.995\n2023/4/26\n南陽市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999995010,
+            "date": "2023/4/26",
+            "label": "クラスターNo.995\n2023/4/26\n南陽市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    }
 ],
 "networkData":[    {
         "data": {
@@ -455988,5 +456068,75 @@
             "label": "関連"
         }
     }
+,    {
+        "data": {
+            "source": "99999995001",
+            "target": "99999995001",
+            "label": "介護施設"
+        }
+    },
+    {
+        "data": {
+            "source": "99999995002",
+            "target": "99999995001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999995003",
+            "target": "99999995001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999995004",
+            "target": "99999995001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999995005",
+            "target": "99999995001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999995006",
+            "target": "99999995001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999995007",
+            "target": "99999995001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999995008",
+            "target": "99999995001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999995009",
+            "target": "99999995001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999995010",
+            "target": "99999995001",
+            "label": "関連"
+        }
+    }
 ],
-"lastUpdate":"2023/4/25 21:03"}
+"lastUpdate":"2023/4/26 23:37"}
