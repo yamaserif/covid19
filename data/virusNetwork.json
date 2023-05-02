@@ -325886,6 +325886,102 @@
         },
         "classes": ["multiline-manual", "else"]
     }
+,    {
+        "data": {
+            "id": 99999997001,
+            "date": "2023/5/2",
+            "label": "クラスターNo.997\n2023/5/2\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999997002,
+            "date": "2023/5/2",
+            "label": "クラスターNo.997\n2023/5/2\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999997003,
+            "date": "2023/5/2",
+            "label": "クラスターNo.997\n2023/5/2\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999997004,
+            "date": "2023/5/2",
+            "label": "クラスターNo.997\n2023/5/2\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999997005,
+            "date": "2023/5/2",
+            "label": "クラスターNo.997\n2023/5/2\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999997006,
+            "date": "2023/5/2",
+            "label": "クラスターNo.997\n2023/5/2\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999997007,
+            "date": "2023/5/2",
+            "label": "クラスターNo.997\n2023/5/2\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999997008,
+            "date": "2023/5/2",
+            "label": "クラスターNo.997\n2023/5/2\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999997009,
+            "date": "2023/5/2",
+            "label": "クラスターNo.997\n2023/5/2\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999997010,
+            "date": "2023/5/2",
+            "label": "クラスターNo.997\n2023/5/2\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999997011,
+            "date": "2023/5/2",
+            "label": "クラスターNo.997\n2023/5/2\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    },
+    {
+        "data": {
+            "id": 99999997012,
+            "date": "2023/5/2",
+            "label": "クラスターNo.997\n2023/5/2\n鶴岡市\n- ー"
+        },
+        "classes": ["multiline-manual", "else"]
+    }
 ],
 "networkData":[    {
         "data": {
@@ -456318,5 +456414,89 @@
             "label": "関連"
         }
     }
+,    {
+        "data": {
+            "source": "99999997001",
+            "target": "99999997001",
+            "label": "医療機関"
+        }
+    },
+    {
+        "data": {
+            "source": "99999997002",
+            "target": "99999997001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999997003",
+            "target": "99999997001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999997004",
+            "target": "99999997001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999997005",
+            "target": "99999997001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999997006",
+            "target": "99999997001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999997007",
+            "target": "99999997001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999997008",
+            "target": "99999997001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999997009",
+            "target": "99999997001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999997010",
+            "target": "99999997001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999997011",
+            "target": "99999997001",
+            "label": "関連"
+        }
+    },
+    {
+        "data": {
+            "source": "99999997012",
+            "target": "99999997001",
+            "label": "関連"
+        }
+    }
 ],
-"lastUpdate":"2023/5/2 0:45"}
+"lastUpdate":"2023/5/3 01:21"}
