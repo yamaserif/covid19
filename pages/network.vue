@@ -8,6 +8,7 @@
     </h2>
     <StaticCard>
       <client-only>
+        <div style="margin-bottom:5px; color:red;">※現在データ更新を一時的に中断しております。詳細は本サイトトップページのお知らせを御覧ください。</div>
         <span style="margin-right:5px">{{ $t('表示範囲') }}</span>
         <date-picker
           v-model="startDate"
